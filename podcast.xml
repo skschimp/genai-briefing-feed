@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gen AI Daily Briefing</title>
+    <link>https://skschimp.github.io/genai-briefing-feed</link>
+    <atom:link href="https://skschimp.github.io/genai-briefing-feed/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>A daily ~5-minute audio briefing on the latest in generative AI. Auto-generated.</description>
+    <itunes:author>skschimp</itunes:author>
+    <itunes:image href="https://skschimp.github.io/genai-briefing-feed/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
