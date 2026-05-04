@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gen AI Daily Briefing</title>
     <link>https://skschimp.github.io/genai-briefing-feed</link>
     <atom:link href="https://skschimp.github.io/genai-briefing-feed/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <description>A daily ~5-minute audio briefing on the latest in generative AI. Auto-generated.</description>
+    <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
+    <copyright>© 2026 skschimp</copyright>
+    <lastBuildDate>Mon, 04 May 2026 22:52:59 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
+    <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>skschimp</itunes:name>
+      <itunes:email>samantaray@outlook.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://skschimp.github.io/genai-briefing-feed/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details low-latency voice stack</b> — OpenAI published an unusually concrete engineering look at how it rebuilt its WebRTC path for real-time voice AI, focusing on turn-taking, latency, and global scale.</li><li><b>Cerebras tracks toward major IPO</b> — The AI chip company, closely tied to OpenAI workloads, is reportedly heading for a blockbuster IPO that could test investor appetite for non-Nvidia AI infrastructure plays.</li><li><b>Sierra raises $950 million</b> — Bret Taylor’s enterprise AI startup now has over $1 billion to spend, underscoring how aggressively capital is concentrating around application-layer incumbency plays.</li><li><b>OpenAI and Anthropic push deeper into enterprise services</b> — Both companies are launching joint ventures with asset managers to package and sell enterprise AI more directly, hinting at a services-heavy go-to-market shift.</li><li><b>Image AI launches outperform chatbot upgrades in app growth</b> — New app-store data suggests visual generation features drive far stronger download spikes than incremental chatbot improvements, though monetization remains weak.</li><li><b>Harvard study finds AI beat doctors on some ER diagnoses</b> — A new medical study reports that at least one large model outperformed two physicians on emergency-room diagnostic cases, adding evidence for AI as a clinical second reader.</li><li><b>DoorDash rolls out merchant AI tooling</b> — DoorDash added AI for merchant onboarding, menu-photo enhancement, and website generation, a practical example of vertical AI quietly changing SMB operations.</li><li><b>Roomba founder returns with a companion robot</b> — Colin Angle’s new startup unveiled a dog-sized robotic companion, a notable signal that consumer robotics may be re-opening as multimodal AI makes behavior feel less scripted.</li></ul>]]></description>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-04.mp3" length="3387744" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
