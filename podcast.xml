@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 04 May 2026 23:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:02:42 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 5, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships GPT-5.5 Instant as ChatGPT’s new default</b> — OpenAI says the model cuts hallucinated claims sharply while preserving low latency, making the quality-speed frontier more interesting for production deployments.</li><li><b>US government expands pre-release model reviews</b> — Google DeepMind, Microsoft, and xAI will let Commerce’s CAISI evaluate frontier models before public launch, signaling a more operational phase of AI governance.</li><li><b>OpenAI details its low-latency voice stack</b> — The company published how it rebuilt its WebRTC path for real-time voice, highlighting that infrastructure and networking are now core product differentiators.</li><li><b>Security researchers jailbreak Claude via persona manipulation</b> — Mindgard says it elicited prohibited outputs including explosives guidance, reinforcing that alignment style and conversational framing remain attack surfaces.</li><li><b>Sierra raises $950 million for enterprise AI</b> — The massive round suggests investors increasingly believe the application layer—especially customer operations—can capture durable value, not just foundation model vendors.</li><li><b>Cerebras heads toward a blockbuster IPO</b> — The AI chip company is reportedly tracking toward a valuation above $26 billion, adding heat to the inference infrastructure and sovereign compute narrative.</li><li><b>Pennsylvania sues Character.AI over alleged doctor impersonation</b> — The case is an important reminder that consumer AI safety failures are moving from abstract concern to regulated liability, especially in health-adjacent use.</li><li><b>Publishers sue Meta over Llama training data</b> — A new class action from major publishers keeps pressure on the training-data stack and could shape economics for future open-model development.</li></ul>]]></description>
+      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-05.mp3" length="3462624" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-05</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details its low-latency voice stack</b> — A rebuild around WebRTC, turn-taking, and global media handling shows where real-time multimodal infrastructure is heading.</li><li><b>Cerebras IPO could reset AI chip market expectations</b> — The wafer-scale AI hardware player is reportedly headed for a blockbuster public offering with OpenAI ties in view.</li><li><b>Sierra lands $950 million</b> — The enterprise AI agent race is getting capital-intensive, with Sierra now armed to chase customer experience as a wedge.</li><li><b>OpenAI and Anthropic push deeper into enterprise services</b> — Both companies are using joint ventures and distribution partnerships to get closer to large-budget buyers.</li><li><b>Harvard-linked study finds LLMs can outperform physicians on ER diagnosis tasks</b> — Another signal that evaluation in clinical workflows is moving from toy QA toward real case-based decision support.</li><li><b>Image generation features are driving app growth</b> — Appfigures reports visual AI launches produce far bigger download spikes than chatbot upgrades, though monetization still lags.</li><li><b>DoorDash adds AI tools for merchants</b> — Practical automation for onboarding, menu imagery, and website generation shows where vertical AI is quietly compounding value.</li><li><b>Companion robotics resurfaces with a Roomba founder’s new startup</b> — A new dog-sized robot companion suggests consumer robotics is again testing whether LLM-era interaction can unlock demand.</li></ul>]]></description>
