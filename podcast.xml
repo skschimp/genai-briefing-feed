@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 06 May 2026 19:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:25:39 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 7, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Moonshot raises $2B as China open-source race intensifies</b> — Moonshot AI landed a massive round at a $20B valuation, with ARR above $200M, underscoring demand for Chinese model providers and open-weight ecosystems.</li><li><b>Genesis AI shows full-stack robotics push with GENE-26.5</b> — The Khosla-backed startup unveiled its first robotics foundation model and dexterous-hand demos, signaling a tighter integration of model, sim, and hardware.</li><li><b>Google speeds Gemma 4 with future-token prediction</b> — DeepMind says Gemma 4 can run up to 3x faster by predicting future tokens, a notable inference-side optimization for open models.</li><li><b>Anthropic expands Claude Code limits and agent capabilities</b> — Anthropic raised usage caps and added more autonomous behavior to managed agents, reflecting growing demand for long-running coding workflows.</li><li><b>Google shuts down Project Mariner</b> — Google ended its experimental web agent, suggesting consumer browser automation remains brittle and expensive despite strong model progress.</li><li><b>Samsung tops $1T as AI chip demand lifts the stack</b> — Samsung crossed the trillion-dollar mark, a reminder that the biggest near-term AI winners still include memory, packaging, and infrastructure suppliers.</li><li><b>TSMC leans into wind power amid AI energy strain</b> — Taiwan’s chip giant is deepening renewable commitments as AI manufacturing pushes power demand and grid risk into strategic focus.</li><li><b>OpenAI trial testimony raises governance and safety questions</b> — Mira Murati’s testimony that she couldn’t trust Sam Altman’s statements on model safety adds new friction to the OpenAI governance narrative.</li></ul>]]></description>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-07.mp3" length="3272688" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-07</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 6, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships GPT-5.5 Instant as ChatGPT default</b> — New low-latency default model claims sharply lower hallucination rates in high-stakes domains while preserving speed.</li><li><b>OpenAI opens MRC networking protocol for training clusters</b> — A new multipath transport design aims to improve resilience and throughput in large-scale AI supercomputer networks.</li><li><b>Google accelerates Gemma 4 with future-token prediction</b> — DeepMind says a decoding change delivers up to 3x inference speed without quality loss, a notable efficiency gain for open models.</li><li><b>Genesis AI goes full stack in robotics</b> — The well-funded startup unveiled GENE-26.5 alongside dexterous hand demos, signaling tighter integration of foundation models and robot hardware.</li><li><b>DeepMind teams with EVE Online for agent evaluation</b> — The partnership turns a complex MMO into a persistent benchmark environment for planning, coordination, and economic behavior.</li><li><b>DeepSeek reportedly seeks first outside funding at $45B</b> — The fundraising would formalize one of the most important new competitors built around low-cost frontier model development.</li><li><b>AI infrastructure trade broadens as Samsung tops $1T and SpaceX eyes Terafab</b> — Capital markets are rewarding AI semiconductor exposure while new manufacturing ambitions point to vertical integration at unprecedented scale.</li><li><b>Regulatory and platform pressure builds around consumer AI</b> — Pennsylvania sued Character.AI over a bot posing as a doctor, while Apple agreed to a $250 million Siri AI settlement.</li></ul>]]></description>
