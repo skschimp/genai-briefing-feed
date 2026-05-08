@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 07 May 2026 14:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:00:51 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds realtime voice models and starts testing ChatGPT ads</b> — OpenAI shipped more capable speech-native API models while also opening an ad experiment that signals a new monetization phase for consumer AI.</li><li><b>Anthropic’s Mythos shows real traction in AI-assisted security research</b> — Mozilla says Mythos surfaced 271 Firefox vulnerabilities with almost no false positives, making one of the clearest enterprise-grade cases for model-driven bug finding.</li><li><b>Moonshot AI raises $2 billion as China’s open-model market heats up</b> — The round reportedly values Moonshot at $20 billion with ARR above $200 million, underscoring that Chinese AI demand is broadening beyond hyperscalers.</li><li><b>Google shuts down Project Mariner</b> — Google killed its experimental web agent product and says the technology will be folded elsewhere, a reminder that browser agents still struggle with product fit and reliability.</li><li><b>Gemma 4 gets a major inference speedup via future-token prediction</b> — Google says Gemma 4 can run up to 3x faster without quality loss by predicting ahead, a notable sign that speculative-style decoding tricks are moving into mainstream open models.</li><li><b>Anthropic expands Claude Code limits and Managed Agents capabilities</b> — Higher usage caps and 'dreaming' behavior for managed agents point to a more persistent, tool-using coding workflow as vendors race to own the dev loop.</li><li><b>Infrastructure pressure keeps rising from fabs to power grids</b> — TSMC is leaning harder into wind power as AI chip demand strains Taiwan’s energy system, while SpaceX’s reported chip-manufacturing ambitions show the stack keeps integrating downward.</li><li><b>Spotify bets on AI-generated personal audio</b> — New tooling to import AI-generated podcasts into Spotify suggests a viable consumer surface for agent-produced summaries, research digests, and personalized media.</li></ul>]]></description>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-08.mp3" length="3335904" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Moonshot raises $2B as China open-source race intensifies</b> — Moonshot AI landed a massive round at a $20B valuation, with ARR above $200M, underscoring demand for Chinese model providers and open-weight ecosystems.</li><li><b>Genesis AI shows full-stack robotics push with GENE-26.5</b> — The Khosla-backed startup unveiled its first robotics foundation model and dexterous-hand demos, signaling a tighter integration of model, sim, and hardware.</li><li><b>Google speeds Gemma 4 with future-token prediction</b> — DeepMind says Gemma 4 can run up to 3x faster by predicting future tokens, a notable inference-side optimization for open models.</li><li><b>Anthropic expands Claude Code limits and agent capabilities</b> — Anthropic raised usage caps and added more autonomous behavior to managed agents, reflecting growing demand for long-running coding workflows.</li><li><b>Google shuts down Project Mariner</b> — Google ended its experimental web agent, suggesting consumer browser automation remains brittle and expensive despite strong model progress.</li><li><b>Samsung tops $1T as AI chip demand lifts the stack</b> — Samsung crossed the trillion-dollar mark, a reminder that the biggest near-term AI winners still include memory, packaging, and infrastructure suppliers.</li><li><b>TSMC leans into wind power amid AI energy strain</b> — Taiwan’s chip giant is deepening renewable commitments as AI manufacturing pushes power demand and grid risk into strategic focus.</li><li><b>OpenAI trial testimony raises governance and safety questions</b> — Mira Murati’s testimony that she couldn’t trust Sam Altman’s statements on model safety adds new friction to the OpenAI governance narrative.</li></ul>]]></description>
