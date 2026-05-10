@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 09 May 2026 13:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:28:56 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 10, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia’s $40B AI investment spree accelerates</b> — Nvidia is doubling down as both chip supplier and capital allocator, deepening its leverage across the AI stack.</li><li><b>Cloudflare ties first major layoffs to AI efficiency gains</b> — The company says automation eliminated the need for roughly 1,100 roles even as revenue hit record levels.</li><li><b>Enterprise AI dealmaking heats up</b> — Anthropic and OpenAI are pushing enterprise deployment structures while incumbents like SAP reportedly spend aggressively on startup acquisitions.</li><li><b>EMO explores MoE pretraining for modularity</b> — A new Hugging Face paper argues mixture-of-experts training can induce cleaner specialization and more modular internal behavior.</li><li><b>OncoAgent targets privacy-preserving clinical decision support</b> — A dual-tier multi-agent framework aims to keep oncology workflows useful while respecting data sensitivity constraints.</li><li><b>Sony signals deeper AI use in game development</b> — PlayStation leadership frames AI as a productivity tool, likely increasing content throughput and market saturation.</li><li><b>India remains a proving ground for voice AI</b> — Wispr Flow says Hinglish support is driving growth, highlighting the hard engineering behind multilingual speech products.</li><li><b>AI data center backlash keeps growing</b> — Infrastructure expansion is now colliding more visibly with grid constraints, community opposition, and power-cost politics.</li></ul>]]></description>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10.mp3" length="3611376" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 9, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds voice intelligence to the API</b> — New speech features push the stack toward lower-latency, production-grade voice agents for support, education, and creator workflows.</li><li><b>OpenAI details how it runs Codex safely</b> — The company published a practical blueprint for secure coding agents built around sandboxing, approvals, network controls, and telemetry.</li><li><b>Mozilla says Anthropic’s Mythos found 271 Firefox flaws</b> — AI-assisted bug hunting is moving from demo to operational security tooling, with Mozilla claiming very low false positives.</li><li><b>Moonshot AI raises $2 billion at a $20 billion valuation</b> — The China AI market continues to scale fast, with Moonshot citing more than $200 million in annualized revenue and strong open-source demand.</li><li><b>Perplexity opens its Mac agent to everyone</b> — Its desktop ‘Personal Computer’ expands the market test for consumer-side computer-use agents beyond waitlists and demos.</li><li><b>Cloudflare says AI made 1,100 jobs obsolete</b> — A profitable infrastructure company is explicitly attributing broad support-role cuts to AI-driven productivity gains.</li><li><b>SpaceX plans a massive Texas AI chip facility</b> — A reported $55 billion ‘Terafab’ project underscores how AI competition is extending beyond model labs into semiconductor manufacturing capacity.</li><li><b>CyberSecQwen-4B argues for small, local security models</b> — Hugging Face highlights a specialized 4B cyber model, reinforcing the case that domain-tuned local models can beat generic giants on sensitive tasks.</li></ul>]]></description>
