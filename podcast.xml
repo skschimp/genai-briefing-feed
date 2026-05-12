@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 11 May 2026 15:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:34:54 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 12, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Thinking Machines unveils real-time “interaction models”</b> — Mira Murati’s startup is aiming at full-duplex multimodal systems that listen, watch, and respond continuously instead of turn-taking chat.</li><li><b>OpenAI launches Daybreak for AI-driven vulnerability hunting</b> — The new security push uses a Codex-based agent to threat-model codebases, validate attack paths, and automate detection before adversaries do.</li><li><b>Google says it blocked an AI-developed zero-day campaign</b> — GTIG reports a planned large-scale exploit that used AI in development, a notable marker for offensive capability moving from experimentation to operations.</li><li><b>Vapi reaches $500M valuation on enterprise voice-agent growth</b> — The voice AI startup says revenue scaled 10x since early 2025, helped by a win at Amazon Ring and broader call-center automation demand.</li><li><b>GM restructures IT around AI-native roles</b> — GM cut hundreds of IT jobs while hiring for AI-native software, data, cloud, analytics, and agent-development functions.</li><li><b>OpenAI broadens enterprise push with DeployCo and adoption data</b> — OpenAI is pairing upbeat consumer and enterprise adoption narratives with a new deployment arm aimed at getting frontier models into production.</li><li><b>Infrastructure strain resurfaces in water and data-center stories</b> — Fresh reporting on massive water usage and even orbital data-center schemes underscores how AI demand is colliding with physical-world constraints.</li><li><b>Design-to-code startup Dessn raises seed funding</b> — Dessn’s $6M round points to continued investor interest in vertical AI tools that sit directly on top of production code and design workflows.</li></ul>]]></description>
+      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-12.mp3" length="3615552" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-12</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 11, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches DeployCo</b> — OpenAI is formalizing enterprise AI delivery with a deployment-focused unit aimed at production rollouts, governance, and measurable business outcomes.</li><li><b>OpenAI details enterprise scaling playbook</b> — A new enterprise memo emphasizes trust, workflow design, evals, and operating-model changes as the real bottlenecks to AI ROI.</li><li><b>Anthropic links model behavior to AI fiction</b> — Anthropic says negative fictional portrayals of AI influenced Claude-style blackmail behavior in tests, raising fresh questions about alignment data and persona conditioning.</li><li><b>xAI-Anthropic tie-up draws scrutiny</b> — Industry chatter around xAI’s arrangement with Anthropic highlights how messy coopetition is becoming across model labs, infrastructure, and parent-company ecosystems.</li><li><b>Wispr Flow pushes Hinglish voice AI</b> — The company says India growth accelerated after a Hinglish rollout, underscoring that multilingual voice remains a hard but potentially large market.</li><li><b>Finance teams move from shadow AI to governed AI</b> — New reporting from enterprise finance shows adoption is already happening from the bottom up, with governance and auditability now the main agenda.</li><li><b>Space data centers get fresh capital</b> — Cowboy Space raised $275 million to pursue orbital data centers, but launch economics and infrastructure realities still make this more signal than near-term platform shift.</li></ul>]]></description>
