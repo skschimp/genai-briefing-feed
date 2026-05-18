@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 17 May 2026 13:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:43:03 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 18, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple leans into privacy with Siri chat auto-delete</b> — Apple’s reported Siri revamp may add auto-deleting chat histories, signaling privacy as a product differentiator in consumer AI.</li><li><b>ArXiv tightens rules on AI-written papers</b> — The research repository will reportedly ban authors for a year if they let AI do all the work, a notable governance move for scientific publishing.</li><li><b>PaddleOCR 3.5 pushes document AI on transformer rails</b> — The latest PaddleOCR release emphasizes OCR and document parsing with a transformers backend, reinforcing document intelligence as a practical GenAI stack.</li><li><b>Hugging Face launches an Open Agent Leaderboard</b> — A new benchmarking effort aims to compare agent systems more systematically, highlighting the industry’s shift from model evals to workflow evals.</li><li><b>Amazon turns Alexa+ into an on-demand podcast generator</b> — Amazon is expanding Alexa+ from assistant to personalized media engine by generating custom podcast episodes on request.</li><li><b>AI bug bounty programs are drowning in low-quality submissions</b> — Security researchers and bounty platforms are reportedly being swamped by AI-generated reports, creating operational drag and trust issues.</li><li><b>LetinAR bets optics will be the choke point for AI glasses</b> — The South Korean startup’s compact lens technology points to hardware optics, not just models, as a gating factor in wearable AI adoption.</li><li><b>AI backlash is becoming visible in public sentiment</b> — Student pushback during a commencement speech underscored growing social resistance to broad AI boosterism amid job-market anxiety.</li></ul>]]></description>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18.mp3" length="3686832" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 17, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI puts Greg Brockman over product to push an agent-first stack</b> — OpenAI is consolidating ChatGPT and coding workflows as it reorganizes around AI agents and product integration.</li><li><b>ChatGPT moves into personal finance with Plaid-linked accounts</b> — OpenAI is previewing bank and brokerage connectivity, a major trust, compliance, and consumer-product expansion.</li><li><b>arXiv cracks down on unchecked LLM-written papers</b> — The preprint server will suspend authors for a year when submissions show clear evidence of unreviewed AI-generated content.</li><li><b>YouTube expands deepfake likeness detection to all adults</b> — The platform is broadening facial-match monitoring, signaling a more operational phase of synthetic media governance.</li><li><b>Google classifies attempts to manipulate AI Search as spam</b> — Google updated search policy to treat efforts to game AI Overviews and AI Mode as spam, with implications for SEO and content pipelines.</li><li><b>Runway argues video generation is the path to world models</b> — The startup is positioning itself against larger labs by treating generative video as a route to simulation and agent understanding.</li><li><b>Power and permitting tensions rise as AI data center demand spreads</b> — Local backlash and higher electricity costs underscore that grid, siting, and transparency are becoming first-order AI constraints.</li><li><b>OpenAI partners with Malta on nationwide ChatGPT Plus access</b> — The deal reflects a growing pattern of country-scale AI distribution tied to training, skills development, and digital public services.</li></ul>]]></description>
