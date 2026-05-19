@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 18 May 2026 15:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:35:48 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 19, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI and Dell take Codex on-prem</b> — OpenAI is pushing coding agents into hybrid enterprise stacks, signaling a serious move beyond pure SaaS deployment.</li><li><b>Anthropic acquires Stainless</b> — Anthropic bought the SDK automation startup used across major API platforms, strengthening its developer-distribution layer.</li><li><b>SandboxAQ brings drug discovery models to Claude</b> — Instead of asking pharma teams to adopt a separate stack, SandboxAQ is surfacing specialized scientific models through Anthropic’s interface.</li><li><b>Open Agent Leaderboard sharpens agent evals</b> — Hugging Face launched a benchmark effort focused on agentic performance, adding needed visibility into tool use and task completion.</li><li><b>PaddleOCR 3.5 expands document AI pipeline</b> — The updated open-source OCR stack adds stronger parsing with a transformers backend, useful for enterprise document workflows.</li><li><b>NVIDIA Cosmos fine-tuning for robot video generation</b> — A Hugging Face tutorial shows LoRA and DoRA adaptation on Cosmos Predict 2.5, highlighting lower-cost specialization for robotics simulation and video prediction.</li><li><b>Data-center power economics intensify</b> — A major utility megamerger underscores how AI demand is now materially reshaping grid planning, rates, and infrastructure politics.</li><li><b>US deepfake takedown law is now in force</b> — The new nonconsensual imagery removal regime has started, but implementation risks overreach and brittle moderation workflows.</li></ul>]]></description>
+      <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19.mp3" length="3570480" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 18, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple leans into privacy with Siri chat auto-delete</b> — Apple’s reported Siri revamp may add auto-deleting chat histories, signaling privacy as a product differentiator in consumer AI.</li><li><b>ArXiv tightens rules on AI-written papers</b> — The research repository will reportedly ban authors for a year if they let AI do all the work, a notable governance move for scientific publishing.</li><li><b>PaddleOCR 3.5 pushes document AI on transformer rails</b> — The latest PaddleOCR release emphasizes OCR and document parsing with a transformers backend, reinforcing document intelligence as a practical GenAI stack.</li><li><b>Hugging Face launches an Open Agent Leaderboard</b> — A new benchmarking effort aims to compare agent systems more systematically, highlighting the industry’s shift from model evals to workflow evals.</li><li><b>Amazon turns Alexa+ into an on-demand podcast generator</b> — Amazon is expanding Alexa+ from assistant to personalized media engine by generating custom podcast episodes on request.</li><li><b>AI bug bounty programs are drowning in low-quality submissions</b> — Security researchers and bounty platforms are reportedly being swamped by AI-generated reports, creating operational drag and trust issues.</li><li><b>LetinAR bets optics will be the choke point for AI glasses</b> — The South Korean startup’s compact lens technology points to hardware optics, not just models, as a gating factor in wearable AI adoption.</li><li><b>AI backlash is becoming visible in public sentiment</b> — Student pushback during a commencement speech underscored growing social resistance to broad AI boosterism amid job-market anxiety.</li></ul>]]></description>
