@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 19 May 2026 15:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:31:44 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 20, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google pivots Search into an agent interface</b> — At I/O, Google recast Search from link retrieval into conversational and proactive agents, a major product and web-traffic shift.</li><li><b>Gemini 3.5 Flash targets practical agentic execution</b> — Google positioned its new Flash model as a low-latency, coding- and tool-heavy workhorse for autonomous task flows.</li><li><b>Google expands AI-native app development on Android</b> — New Android CLI and AI Studio flows let coding agents and prompt-based tools generate and iterate native Android apps.</li><li><b>Genie world model moves from games toward real streets</b> — DeepMind combined Street View with Genie-style simulation to build interactive environment models with robotics implications.</li><li><b>OpenAI joins C2PA and adopts SynthID for provenance</b> — OpenAI added standards-based content credentials and Google’s watermarking tech, signaling ecosystem convergence on media authenticity.</li><li><b>AI search startups become hot consumer targets</b> — Deal activity and investor attention are accelerating around AI search, suggesting the category is consolidating before economics are settled.</li><li><b>AI infrastructure backlash grows in Utah megaproject</b> — A massive planned data-center buildout highlights the water, land, and grid constraints now gating AI expansion.</li><li><b>Ocean raises $28 million for agentic email security</b> — The startup is betting that contextual, autonomous analysis of inbound email can outpace phishing that is itself becoming AI-generated.</li></ul>]]></description>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-20.mp3" length="3509280" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-20</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 19, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI and Dell take Codex on-prem</b> — OpenAI is pushing coding agents into hybrid enterprise stacks, signaling a serious move beyond pure SaaS deployment.</li><li><b>Anthropic acquires Stainless</b> — Anthropic bought the SDK automation startup used across major API platforms, strengthening its developer-distribution layer.</li><li><b>SandboxAQ brings drug discovery models to Claude</b> — Instead of asking pharma teams to adopt a separate stack, SandboxAQ is surfacing specialized scientific models through Anthropic’s interface.</li><li><b>Open Agent Leaderboard sharpens agent evals</b> — Hugging Face launched a benchmark effort focused on agentic performance, adding needed visibility into tool use and task completion.</li><li><b>PaddleOCR 3.5 expands document AI pipeline</b> — The updated open-source OCR stack adds stronger parsing with a transformers backend, useful for enterprise document workflows.</li><li><b>NVIDIA Cosmos fine-tuning for robot video generation</b> — A Hugging Face tutorial shows LoRA and DoRA adaptation on Cosmos Predict 2.5, highlighting lower-cost specialization for robotics simulation and video prediction.</li><li><b>Data-center power economics intensify</b> — A major utility megamerger underscores how AI demand is now materially reshaping grid planning, rates, and infrastructure politics.</li><li><b>US deepfake takedown law is now in force</b> — The new nonconsensual imagery removal regime has started, but implementation risks overreach and brittle moderation workflows.</li></ul>]]></description>
