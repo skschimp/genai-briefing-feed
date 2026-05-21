@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 20 May 2026 15:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:38:47 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 21, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI says a reasoning model cracked an 80-year-old geometry conjecture</b> — A discrete-geometry result appears independently validated by mathematicians, making this one of the stronger claims yet for frontier AI in formal math.</li><li><b>Nvidia posts another record quarter and reframes the next TAM around agentic CPUs</b> — The company reported huge startup holdings, slower growth guidance, and a new thesis that AI agents will pull demand beyond GPUs into inference-oriented CPUs.</li><li><b>Anthropic’s compute deal with xAI comes into focus</b> — SpaceX filing details suggest Anthropic is committing roughly $15 billion a year for access to Musk-linked data center capacity, underlining the scale and scarcity of frontier compute.</li><li><b>xAI losses and power spend show the real economics of frontier labs</b> — SpaceX’s IPO filing indicates xAI burned $6.4 billion in 2025 and plans billions more in gas turbines, putting infrastructure, energy, and financing risk at center stage.</li><li><b>Google pushes agentic search and faster Gemini inference into the mainstream</b> — At I/O, Google’s redesigned search interface and Gemini 3.5 Flash signal a product shift from retrieval toward persistent task completion.</li><li><b>Stability AI ships an audio model aimed at longer-form, on-device generation</b> — Stability Audio 3.0 Small can generate multi-minute music with an edge-friendly footprint, a notable move for local creative tooling.</li><li><b>Spotify expands from listening to AI-generated knowledge workflows</b> — New research-preview tools for podcast Q&amp;A, brief generation, and notebook-style synthesis suggest Spotify wants to own AI audio productivity, not just distribution.</li><li><b>AI desktop agents are getting more concrete</b> — Startups like IrisGo are pushing observation-based desktop automation, training assistants from user behavior rather than hand-authored workflows.</li></ul>]]></description>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-21.mp3" length="3654288" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-21</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 20, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google pivots Search into an agent interface</b> — At I/O, Google recast Search from link retrieval into conversational and proactive agents, a major product and web-traffic shift.</li><li><b>Gemini 3.5 Flash targets practical agentic execution</b> — Google positioned its new Flash model as a low-latency, coding- and tool-heavy workhorse for autonomous task flows.</li><li><b>Google expands AI-native app development on Android</b> — New Android CLI and AI Studio flows let coding agents and prompt-based tools generate and iterate native Android apps.</li><li><b>Genie world model moves from games toward real streets</b> — DeepMind combined Street View with Genie-style simulation to build interactive environment models with robotics implications.</li><li><b>OpenAI joins C2PA and adopts SynthID for provenance</b> — OpenAI added standards-based content credentials and Google’s watermarking tech, signaling ecosystem convergence on media authenticity.</li><li><b>AI search startups become hot consumer targets</b> — Deal activity and investor attention are accelerating around AI search, suggesting the category is consolidating before economics are settled.</li><li><b>AI infrastructure backlash grows in Utah megaproject</b> — A massive planned data-center buildout highlights the water, land, and grid constraints now gating AI expansion.</li><li><b>Ocean raises $28 million for agentic email security</b> — The startup is betting that contextual, autonomous analysis of inbound email can outpace phishing that is itself becoming AI-generated.</li></ul>]]></description>
