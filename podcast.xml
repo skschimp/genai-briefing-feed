@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 24 May 2026 13:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:17:15 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 25, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Papal AI encyclical reframes the debate</b> — Pope Leo XIV’s first encyclical treats AI as a symptom of concentrated power, labor disruption, and weakened democratic accountability rather than a standalone technology problem.</li><li><b>Prompt injection evolves into persona-layer exploitation</b> — Security researchers and attackers are increasingly targeting the behavioral scaffolding around chatbots, not just raw model instructions.</li><li><b>Google’s AI security posture reflects an industry-wide transition</b> — Even hyperscalers are still building real-time controls for agentic systems, showing how immature AI-native security and governance stacks remain.</li><li><b>Amazon’s Bee wearable tests ambient AI’s next interface</b> — An always-listening assistant form factor is resurfacing, with utility tied directly to whether privacy, consent, and on-device processing can catch up.</li></ul>]]></description>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-25.mp3" length="3443472" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-25</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 24, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Diffusion LMs push for faster text generation</b> — NVIDIA and Hugging Face highlighted Nemotron-style diffusion language models as a serious bid to cut latency and rethink autoregressive decoding.</li><li><b>Google shows off an anything-to-anything generative model</b> — Google’s new multimodal system points toward a unified interface across text, image, audio, and video generation and transformation.</li><li><b>Android XR glasses inch closer to useful</b> — Google’s Gemini-powered glasses demo suggests hands-free translation and contextual assistance are improving, though product maturity still looks uneven.</li><li><b>Prompt injection evolves into personality hacking</b> — Attackers are shifting from simple jailbreak strings to exploiting a chatbot’s persona, memory, and conversational framing.</li><li><b>AI search reliability takes another hit</b> — Google Search’s ‘disregard’ bug is a small incident with big implications for orchestration safety in consumer AI interfaces.</li><li><b>xAI’s power strategy turns firmly toward natural gas</b> — The infrastructure story remains brutally physical as frontier model operators prioritize dispatchable power over cleaner-but-variable sources.</li><li><b>AI startup revenue metrics are getting stretched</b> — Investors and founders are increasingly using inflated ARR definitions, a warning sign for buyers and platform partners evaluating durability.</li><li><b>Synthetic voices in public records trigger policy backlash</b> — Attempts to reconstruct dead pilots’ voices from cockpit data show how generative audio is colliding with evidentiary rules and privacy norms.</li></ul>]]></description>
