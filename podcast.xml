@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 25 May 2026 15:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:44:23 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 26, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>UMG and TikTok renew AI music pact</b> — The deal centers on detection, moderation, and licensing pressure around unauthorized AI-generated music at platform scale.</li><li><b>Uber questions AI ROI after budget burn</b> — Uber says soaring token spend is becoming hard to justify, a notable signal that enterprise AI cost discipline is tightening.</li><li><b>ClickUp’s layoffs spotlight agent-first org design</b> — ClickUp is reportedly replacing hundreds of employees with AI agents, turning the future-of-work debate into a real operating model test.</li><li><b>Enterprise agent adoption is running ahead of operating readiness</b> — New analysis suggests companies want agentic workflows quickly, but most lack the process, governance, and infrastructure to support them.</li><li><b>Entry-level work becomes the hidden labor fault line</b> — Fresh reporting argues AI may not crush headline employment yet, but it is likely weakening the bottom rung of knowledge-work career ladders.</li><li><b>OpenAI expands publisher strategy in Brazil</b> — Partnerships with Grupo Folha and Grupo UOL extend ChatGPT’s access to licensed news and reinforce the platform’s regional content strategy.</li><li><b>Google’s AI security posture remains in transition</b> — Even the largest AI operators are still figuring out practical security controls, highlighting how immature the field remains under real deployment pressure.</li><li><b>AI governance pressure broadens beyond tech policy circles</b> — The pope’s AI encyclical and renewed debate over autonomous warfare show concerns about concentrated power and weaponization moving deeper into mainstream institutions.</li></ul>]]></description>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26.mp3" length="3564720" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 25, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Papal AI encyclical reframes the debate</b> — Pope Leo XIV’s first encyclical treats AI as a symptom of concentrated power, labor disruption, and weakened democratic accountability rather than a standalone technology problem.</li><li><b>Prompt injection evolves into persona-layer exploitation</b> — Security researchers and attackers are increasingly targeting the behavioral scaffolding around chatbots, not just raw model instructions.</li><li><b>Google’s AI security posture reflects an industry-wide transition</b> — Even hyperscalers are still building real-time controls for agentic systems, showing how immature AI-native security and governance stacks remain.</li><li><b>Amazon’s Bee wearable tests ambient AI’s next interface</b> — An always-listening assistant form factor is resurfacing, with utility tied directly to whether privacy, consent, and on-device processing can catch up.</li></ul>]]></description>
