@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 27 May 2026 16:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 16:09:10 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 28, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>ITBench-AA exposes weak enterprise agent performance</b> — Artificial Analysis and IBM’s new benchmark shows frontier models scoring under 50% on realistic agentic IT operations tasks.</li><li><b>Cisco expands Codex deployment with OpenAI</b> — OpenAI highlighted Cisco using Codex for enterprise engineering, defect remediation, and security-adjacent workflows at scale.</li><li><b>Snowflake signs a $6B AWS chip deal</b> — A five-year infrastructure commitment centered on AWS AI CPUs signals continued diversification away from pure Nvidia dependence.</li><li><b>Cognition raises $1B at a $25B pre-money valuation</b> — The coding-agent market keeps accelerating as Cognition claims a roughly $492 million annualized revenue run rate.</li><li><b>CNN sues Perplexity over verbatim copying</b> — The lawsuit sharpens the legal risk around answer engines reproducing publisher content and bypassing subscription walls.</li><li><b>Hugging Face pushes local robotics with Reachy Mini</b> — A lower-cost, fully local robotics stack adds momentum to open embodied AI experimentation beyond cloud-tethered demos.</li><li><b>Delta Weight Sync targets cheaper trillion-parameter distribution</b> — Hugging Face TRL proposes shipping model updates as deltas rather than full checkpoints, reducing bandwidth and deployment friction.</li><li><b>New papers push on reasoning, oversight, and multimodal agents</b> — Notable arXiv work includes Contrastive Reflection for faster reasoning gains, calibrated scalable oversight, and RL for tool-using multimodal agents.</li></ul>]]></description>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-28.mp3" length="3499776" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-28</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 27, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cognition raises $1B at a $25B pre-money valuation</b> — The AI coding startup says it has reached a $492M annualized revenue run rate, underscoring how fast the coding-agent market is consolidating around a few hyperscale contenders.</li><li><b>OpenRouter lands $113M Series B at $1.3B valuation</b> — Usage has grown 5x in six months, a strong signal that enterprises increasingly want model routing, abstraction layers, and price-performance arbitrage rather than single-model lock-in.</li><li><b>Hugging Face pushes low-cost robotics with Reachy Mini going fully local</b> — A $2,500 open robotics platform and local-first software stack lower the barrier for embodied AI experimentation outside big labs.</li><li><b>Starlette 'BadHost' flaw exposes agentic apps to host-header attacks</b> — A critical vulnerability in a massively used Python package is a reminder that the AI app stack is inheriting the web’s oldest attack surfaces at agent scale.</li><li><b>MobileMoE targets a new Pareto frontier for on-device language models</b> — The paper argues sparse MoE can work below the billion-active-parameter regime, potentially making mobile inference more competitive on quality per watt.</li><li><b>LocateAnything proposes parallel box decoding for faster visual grounding</b> — Instead of autoregressively generating coordinate tokens, the method decodes box geometry atomically, attacking a real inference bottleneck in vision-language systems.</li><li><b>New papers probe agent failure modes in alignment and retrieval</b> — Alignment tampering, query-to-config retrieval optimization, and semantic competition in RAG all point to the same lesson: agent quality is increasingly a systems problem, not just a base-model problem.</li><li><b>YouTube expands automatic AI labeling while Robinhood opens trading to agents</b> — One platform is tightening provenance signals for synthetic media, while another is operationalizing delegated financial action—two very different examples of AI moving from generation to governance and execution.</li></ul>]]></description>
