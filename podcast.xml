@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 28 May 2026 16:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:46:23 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 29, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic ships Opus 4.8 with dynamic subagent workflows</b> — Anthropic paired a new Opus release with orchestration tooling aimed at production multi-agent decomposition, while also emphasizing improved honesty under uncertainty.</li><li><b>ITBench-AA shows frontier models still weak on enterprise IT agents</b> — A new IBM and Artificial Analysis benchmark reports sub-50% performance on realistic agentic IT operations, a useful reality check for enterprise automation claims.</li><li><b>RiM proposes latent reasoning in model working memory</b> — A fresh paper argues reasoning tokens are an inefficient bottleneck and shows a memory-based latent reasoning approach that separates internal compute from visible chain-of-thought.</li><li><b>VideoMLA attacks video diffusion’s KV-cache bottleneck</b> — Researchers adapt multi-head latent attention to autoregressive video diffusion, cutting streaming memory and latency for minute-scale generation.</li><li><b>Qwen-VLA pushes toward a unified vision-language-action robot model</b> — A new embodied foundation model attempts to span manipulation, navigation, and varied robot embodiments with one VLA stack.</li><li><b>Glean tops $300M ARR as enterprises buy AI to cut spend</b> — Glean’s growth suggests the strongest near-term enterprise AI wedge may be cost takeout and workflow consolidation, not just knowledge search.</li><li><b>Asana acquires StackAI in workflow-agent consolidation</b> — The deal signals that no-code agent builders are becoming features inside broader work platforms rather than standalone categories.</li><li><b>CNN sues Perplexity as content liability pressure rises</b> — The lawsuit sharpens the legal risk around answer engines reproducing publisher content and could influence product architecture for retrieval and summarization.</li></ul>]]></description>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-29.mp3" length="3672432" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-29</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 28, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>ITBench-AA exposes weak enterprise agent performance</b> — Artificial Analysis and IBM’s new benchmark shows frontier models scoring under 50% on realistic agentic IT operations tasks.</li><li><b>Cisco expands Codex deployment with OpenAI</b> — OpenAI highlighted Cisco using Codex for enterprise engineering, defect remediation, and security-adjacent workflows at scale.</li><li><b>Snowflake signs a $6B AWS chip deal</b> — A five-year infrastructure commitment centered on AWS AI CPUs signals continued diversification away from pure Nvidia dependence.</li><li><b>Cognition raises $1B at a $25B pre-money valuation</b> — The coding-agent market keeps accelerating as Cognition claims a roughly $492 million annualized revenue run rate.</li><li><b>CNN sues Perplexity over verbatim copying</b> — The lawsuit sharpens the legal risk around answer engines reproducing publisher content and bypassing subscription walls.</li><li><b>Hugging Face pushes local robotics with Reachy Mini</b> — A lower-cost, fully local robotics stack adds momentum to open embodied AI experimentation beyond cloud-tethered demos.</li><li><b>Delta Weight Sync targets cheaper trillion-parameter distribution</b> — Hugging Face TRL proposes shipping model updates as deltas rather than full checkpoints, reducing bandwidth and deployment friction.</li><li><b>New papers push on reasoning, oversight, and multimodal agents</b> — Notable arXiv work includes Contrastive Reflection for faster reasoning gains, calibrated scalable oversight, and RL for tool-using multimodal agents.</li></ul>]]></description>
