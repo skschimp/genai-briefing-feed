@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 30 May 2026 13:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:53:06 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — May 31, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>SoftBank plans €75B France data center buildout</b> — A proposed 5-gigawatt expansion is a major signal that power and land, not just chips, are now first-order AI bottlenecks.</li><li><b>Groq reportedly raising $650M around inference pivot</b> — The fundraising underscores how the hardware race is shifting from training glamour to inference economics and deployment fit.</li><li><b>GitHub Copilot token billing sparks developer backlash</b> — Usage-based pricing is colliding with real coding-agent workflows, raising questions about cost predictability and seat expansion.</li><li><b>RiM paper pushes reasoning into latent working memory</b> — A new approach separates internal computation from visible chain-of-thought by performing reasoning in hidden-state memory rather than emitted tokens.</li><li><b>VideoMLA cuts video diffusion KV-cache costs</b> — Low-rank latent attention for autoregressive video diffusion targets one of the nastiest scaling problems in minute-scale video generation: streaming memory.</li><li><b>Qwen-VLA proposes a unified vision-language-action model</b> — The paper extends VLMs into continuous robot action generation across tasks and embodiments, pointing toward more general embodied foundation models.</li><li><b>LLMSurgeon aims to infer an LLM’s training data mix</b> — The work treats model outputs as clues to estimate pretraining domain composition, with implications for model auditing, provenance, and compliance.</li><li><b>Robot-training startup offers free home cleaning for video data</b> — The data-collection model is novel but also a reminder that physical-world AI still depends on messy, privacy-sensitive human demonstration pipelines.</li></ul>]]></description>
+      <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-31.mp3" length="3638016" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-31</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 30, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic ships Opus 4.8 and Dynamic Workflows</b> — Anthropic’s latest flagship emphasizes more calibrated honesty and adds a native multi-agent orchestration layer for subagent swarms.</li><li><b>Qwen-VLA pushes toward a unified robot foundation model</b> — A new paper extends Qwen’s multimodal stack into continuous action generation across tasks, environments, and embodiments.</li><li><b>RiM explores latent reasoning without external chain-of-thought</b> — A research paper proposes using internal working-memory-style computation instead of emitting long reasoning traces token by token.</li><li><b>GPIC releases a large permissive image corpus</b> — Researchers introduce a commercially usable, safety-filtered image dataset aimed at stabilizing open visual generative model training.</li><li><b>Groq reportedly raising $650M as inference race intensifies</b> — The inference-first chip and systems market keeps heating up, with Groq seeking fresh capital amid pressure to turn throughput into durable platform economics.</li><li><b>Glean tops $300M in revenue on enterprise AI search</b> — Glean’s growth suggests enterprises are still funding AI when the ROI story is operational efficiency and knowledge access, not just novelty.</li><li><b>Asana buys StackAI for no-code agent building</b> — Workflow vendors continue pulling agent construction into the application layer, betting orchestration and governance will be sticky enterprise control points.</li><li><b>Shift’s free home-cleaning-for-robot-data offer highlights embodied AI’s data hunger</b> — A startup is trading services for first-person household task recordings, underscoring how scarce real-world manipulation data still is.</li></ul>]]></description>
