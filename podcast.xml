@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 31 May 2026 13:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:50:27 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 1, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic files confidentially for IPO</b> — The strongest signal yet that frontier model economics are maturing into public-market scrutiny around margins, capex, and governance.</li><li><b>SoftBank plans up to €75 billion for French data centers</b> — A 5-gigawatt buildout underscores that AI competition is now as much about power and real estate as model quality.</li><li><b>NVIDIA Cosmos 3 lands as an open omni-model for physical AI</b> — A notable open release aimed at embodied reasoning and action, pushing multimodal stacks beyond chat into robotics and simulation.</li><li><b>JetBrains ships Mellum2, a 12B MoE coding model</b> — A focused open coding model from a developer-tools incumbent shows the vertical-model strategy is alive and well.</li><li><b>OpenAI model reportedly solves long-standing math problem</b> — If the result holds up, it sharpens the case that automated theorem-style reasoning is becoming a real research instrument, not just a benchmark trick.</li><li><b>LongTraceRL targets long-context reasoning with search trajectories</b> — New work uses agent-generated traces plus rubric rewards to train models to retrieve, filter, and integrate evidence across long contexts.</li><li><b>Distributed agent attacks evade transcript-level safety checks</b> — A timely paper shows how harmful activity can be split across many benign-looking sessions, exposing a structural weakness in current monitoring.</li><li><b>WindBorne says its weather model beats government forecasts</b> — A startup claims meaningful gains on operational forecasting, a reminder that domain AI can still outpace foundation-model headlines.</li></ul>]]></description>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01.mp3" length="3471408" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — May 31, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>SoftBank plans €75B France data center buildout</b> — A proposed 5-gigawatt expansion is a major signal that power and land, not just chips, are now first-order AI bottlenecks.</li><li><b>Groq reportedly raising $650M around inference pivot</b> — The fundraising underscores how the hardware race is shifting from training glamour to inference economics and deployment fit.</li><li><b>GitHub Copilot token billing sparks developer backlash</b> — Usage-based pricing is colliding with real coding-agent workflows, raising questions about cost predictability and seat expansion.</li><li><b>RiM paper pushes reasoning into latent working memory</b> — A new approach separates internal computation from visible chain-of-thought by performing reasoning in hidden-state memory rather than emitted tokens.</li><li><b>VideoMLA cuts video diffusion KV-cache costs</b> — Low-rank latent attention for autoregressive video diffusion targets one of the nastiest scaling problems in minute-scale video generation: streaming memory.</li><li><b>Qwen-VLA proposes a unified vision-language-action model</b> — The paper extends VLMs into continuous robot action generation across tasks and embodiments, pointing toward more general embodied foundation models.</li><li><b>LLMSurgeon aims to infer an LLM’s training data mix</b> — The work treats model outputs as clues to estimate pretraining domain composition, with implications for model auditing, provenance, and compliance.</li><li><b>Robot-training startup offers free home cleaning for video data</b> — The data-collection model is novel but also a reminder that physical-world AI still depends on messy, privacy-sensitive human demonstration pipelines.</li></ul>]]></description>
