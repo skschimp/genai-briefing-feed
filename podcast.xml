@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 16:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:28:50 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google ships Gemma 4 12B for 16GB laptops</b> — A surprisingly capable small open model uses a new encoding scheme and token prediction tricks to make local deployment more practical.</li><li><b>Microsoft pushes agent evals and portable policy controls</b> — New open tooling turns text specs into regression tests, while policy files give security and compliance teams a more systematic way to constrain agents.</li><li><b>OpenAI productizes Codex into role-specific work tools</b> — Six packaged Codex plugins for analytics, sales, design, and finance signal a shift from general copilots to workflow-shaped white-collar agents.</li><li><b>UK forces Google to offer AI Search opt-out</b> — Publishers will be able to exclude content from AI Overviews and related generative search features without fully disappearing from traditional search.</li><li><b>TSMC says AI chip demand still exceeds supply</b> — Even with U.S. expansion, leading-edge capacity remains tight, underscoring that inference economics will stay constrained by packaging and wafer availability.</li><li><b>Coralogix raises $200M for AI agent observability</b> — The financing reflects a growing market for tooling that monitors agent behavior, traces failures, and operationalizes reliability in production.</li><li><b>Meta expands WhatsApp Business AI agent globally</b> — Token-metered AI support inside WhatsApp turns one of the world’s largest messaging surfaces into a serious commercial agent channel.</li><li><b>New papers target latency, recoverability, and long-horizon agents</b> — Recent arXiv work on streamed multi-agent reasoning, failed-trace recoverability, and the AutoLab benchmark points to a more rigorous era for agent systems.</li></ul>]]></description>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04.mp3" length="3554784" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 3, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Microsoft deepens its post-OpenAI stack at Build</b> — Build 2026 brought MAI-Thinking-1, Scout, Project Solara, and new agent-policy controls, signaling Microsoft wants to own models, runtime, and governance.</li><li><b>Google and UK regulators redraw AI search power</b> — A new CMA rule forces Google to let publishers opt out of generative search features, an early template for content control in the AI era.</li><li><b>Alphabet seeks $80B for AI capacity</b> — The planned raise underscores a supply-constrained market where enterprise and consumer demand is outpacing available compute and infrastructure.</li><li><b>Nvidia pushes AI agent PCs into the CPU market</b> — Partnerships with Microsoft, Dell, and HP suggest Nvidia is using local agent workloads to attack the much larger client-computing stack.</li><li><b>Meta globalizes WhatsApp Business AI agents</b> — Token-priced AI agents inside WhatsApp put conversational automation directly into a high-volume business channel with real monetization attached.</li><li><b>Microsoft open-sources spec-driven evaluation for agents</b> — Adaptive Spec-driven Scoring turns natural-language requirements into repeatable AI behavior tests, addressing one of the biggest deployment bottlenecks.</li><li><b>OpenAI broadens Codex from coding into job-specific workflows</b> — New plug-ins for analytics, sales, design, and finance show the company is packaging agentic software around roles, not just models.</li><li><b>Coralogix raises $200M for AI agent observability</b> — The funding reflects a fast-growing belief that if enterprises deploy autonomous agents, they’ll need a new monitoring and control plane to manage them.</li><li><b>New papers target memory, reward modeling, and inference efficiency</b> — Fresh arXiv work on model 'sleep,' unified reward models, and safer KV-cache eviction points to where the next practical gains may come from.</li></ul>]]></description>
