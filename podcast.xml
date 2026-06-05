@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 15:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 15:03:06 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 5, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Gemma 4 12B targets laptop-class deployment</b> — Google’s new 12B model reportedly fits 16GB RAM and uses encoding and token-prediction tricks to improve local performance per parameter.</li><li><b>Cross-layer sparse attention aims at cheaper long-context decoding</b> — A new arXiv paper proposes shared routing across layers to cut cache-routing overhead while preserving long-context quality.</li><li><b>Code2LoRA injects repo knowledge without extra tokens</b> — A hypernetwork generates repository-specific adapters for code models, avoiding long RAG prompts and reducing inference-time overhead.</li><li><b>Meta support-agent exploit underscores practical agent security gaps</b> — Attackers reportedly manipulated Meta’s AI support agent to relink Instagram accounts, showing why agent governance is broader than model evals.</li><li><b>UK forces publisher opt-out for AI search features</b> — Google must provide publishers a way to exclude content from generative search experiences, a potentially important precedent for retrieval licensing.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, the foundry says it can only satisfy so much customer demand, reinforcing continued compute bottlenecks.</li><li><b>AirTrunk commits $30B for 5GW of AI data centers in India</b> — A major new capacity build signals India’s growing role in AI infrastructure, with power and network availability now central strategic variables.</li><li><b>The industry shifts from token growth to cost controls</b> — Enterprises are moving from indiscriminate usage toward governance, budget limits, and architecture choices that tame runaway inference spend.</li></ul>]]></description>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05.mp3" length="3516480" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google ships Gemma 4 12B for 16GB laptops</b> — A surprisingly capable small open model uses a new encoding scheme and token prediction tricks to make local deployment more practical.</li><li><b>Microsoft pushes agent evals and portable policy controls</b> — New open tooling turns text specs into regression tests, while policy files give security and compliance teams a more systematic way to constrain agents.</li><li><b>OpenAI productizes Codex into role-specific work tools</b> — Six packaged Codex plugins for analytics, sales, design, and finance signal a shift from general copilots to workflow-shaped white-collar agents.</li><li><b>UK forces Google to offer AI Search opt-out</b> — Publishers will be able to exclude content from AI Overviews and related generative search features without fully disappearing from traditional search.</li><li><b>TSMC says AI chip demand still exceeds supply</b> — Even with U.S. expansion, leading-edge capacity remains tight, underscoring that inference economics will stay constrained by packaging and wafer availability.</li><li><b>Coralogix raises $200M for AI agent observability</b> — The financing reflects a growing market for tooling that monitors agent behavior, traces failures, and operationalizes reliability in production.</li><li><b>Meta expands WhatsApp Business AI agent globally</b> — Token-metered AI support inside WhatsApp turns one of the world’s largest messaging surfaces into a serious commercial agent channel.</li><li><b>New papers target latency, recoverability, and long-horizon agents</b> — Recent arXiv work on streamed multi-agent reasoning, failed-trace recoverability, and the AutoLab benchmark points to a more rigorous era for agent systems.</li></ul>]]></description>
