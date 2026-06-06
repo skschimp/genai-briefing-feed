@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 15:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:52:51 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 6, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google’s reported $920M-a-month SpaceX compute deal</b> — A striking signal that frontier AI demand is now reshaping where hyperscalers buy capacity and how fast compute scarcity is compounding.</li><li><b>Anthropic pushes toward IPO amid huge revenue run-rate</b> — Anthropic’s reported $47B annualized revenue sharpens the question of whether model companies can convert scale into durable margins.</li><li><b>Data center politics harden in New York, Utah, and India</b> — A New York moratorium, a downsized Utah project, and AirTrunk’s $30B India buildout show infrastructure is now as political as it is technical.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, leading-edge packaging and wafer capacity remain core constraints on AI system buildouts.</li><li><b>Meta’s support-agent exploit is a real AI security warning</b> — Attackers reportedly used Meta’s customer support agent to relink Instagram accounts, underscoring that agent permissioning is now a production security problem.</li><li><b>Sparse attention and training efficiency papers worth watching</b> — New arXiv work on cross-layer shared routing, zero-overhead weight preconditioning, and segment-level reward redistribution targets practical bottlenecks in long-context and reasoning models.</li><li><b>Repository-aware code adaptation without token bloat</b> — Code2LoRA proposes hypernetwork-generated repo-specific adapters so code models can absorb software-evolution context without stuffing prompts.</li><li><b>Robotics papers push toward more controllable policies</b> — HANDOFF and TempoVLA focus on more usable humanoid control interfaces and speed-controllable vision-language-action policies for manipulation.</li></ul>]]></description>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06.mp3" length="3457008" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 5, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Gemma 4 12B targets laptop-class deployment</b> — Google’s new 12B model reportedly fits 16GB RAM and uses encoding and token-prediction tricks to improve local performance per parameter.</li><li><b>Cross-layer sparse attention aims at cheaper long-context decoding</b> — A new arXiv paper proposes shared routing across layers to cut cache-routing overhead while preserving long-context quality.</li><li><b>Code2LoRA injects repo knowledge without extra tokens</b> — A hypernetwork generates repository-specific adapters for code models, avoiding long RAG prompts and reducing inference-time overhead.</li><li><b>Meta support-agent exploit underscores practical agent security gaps</b> — Attackers reportedly manipulated Meta’s AI support agent to relink Instagram accounts, showing why agent governance is broader than model evals.</li><li><b>UK forces publisher opt-out for AI search features</b> — Google must provide publishers a way to exclude content from generative search experiences, a potentially important precedent for retrieval licensing.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, the foundry says it can only satisfy so much customer demand, reinforcing continued compute bottlenecks.</li><li><b>AirTrunk commits $30B for 5GW of AI data centers in India</b> — A major new capacity build signals India’s growing role in AI infrastructure, with power and network availability now central strategic variables.</li><li><b>The industry shifts from token growth to cost controls</b> — Enterprises are moving from indiscriminate usage toward governance, budget limits, and architecture choices that tame runaway inference spend.</li></ul>]]></description>
