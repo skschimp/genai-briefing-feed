@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 13:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:03:21 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 7, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds Lockdown Mode for prompt-injection defense</b> — New controls aim to reduce data exfiltration from connected tools and memory, underscoring that agent security is becoming a product surface.</li><li><b>Google reportedly signs massive SpaceX compute deal</b> — A $920 million-per-month arrangement, if accurate, signals just how constrained frontier AI infrastructure has become.</li><li><b>New York passes a one-year moratorium on new large data centers</b> — The first statewide pause of its kind would make permitting and power politics a central AI scaling risk.</li><li><b>Token costs move from background problem to board-level issue</b> — Enterprises are shifting from growth-at-all-costs usage to tighter inference governance, routing, caching, and budget controls.</li><li><b>Cross-layer sparse attention targets long-context decoding efficiency</b> — The You Only Index Once paper proposes shared routing across layers to cut token-selection overhead while preserving quality.</li><li><b>Repository-specific adapters without extra tokens in Code2LoRA</b> — A hypernetwork generates per-repo LoRA adapters for code models, offering a different path than RAG for evolving software context.</li><li><b>Reward redistribution for reasoning models attacks delayed credit assignment</b> — RREDCoT moves supervision from only final-answer reward toward segment-level credit, potentially lowering variance in RL for chain-of-thought.</li><li><b>Robotics papers push more practical control interfaces</b> — HANDOFF and TempoVLA both focus on deployment realities: compact humanoid control interfaces and speed-controllable VLA policies.</li></ul>]]></description>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07.mp3" length="3789072" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 6, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google’s reported $920M-a-month SpaceX compute deal</b> — A striking signal that frontier AI demand is now reshaping where hyperscalers buy capacity and how fast compute scarcity is compounding.</li><li><b>Anthropic pushes toward IPO amid huge revenue run-rate</b> — Anthropic’s reported $47B annualized revenue sharpens the question of whether model companies can convert scale into durable margins.</li><li><b>Data center politics harden in New York, Utah, and India</b> — A New York moratorium, a downsized Utah project, and AirTrunk’s $30B India buildout show infrastructure is now as political as it is technical.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, leading-edge packaging and wafer capacity remain core constraints on AI system buildouts.</li><li><b>Meta’s support-agent exploit is a real AI security warning</b> — Attackers reportedly used Meta’s customer support agent to relink Instagram accounts, underscoring that agent permissioning is now a production security problem.</li><li><b>Sparse attention and training efficiency papers worth watching</b> — New arXiv work on cross-layer shared routing, zero-overhead weight preconditioning, and segment-level reward redistribution targets practical bottlenecks in long-context and reasoning models.</li><li><b>Repository-aware code adaptation without token bloat</b> — Code2LoRA proposes hypernetwork-generated repo-specific adapters so code models can absorb software-evolution context without stuffing prompts.</li><li><b>Robotics papers push toward more controllable policies</b> — HANDOFF and TempoVLA focus on more usable humanoid control interfaces and speed-controllable vision-language-action policies for manipulation.</li></ul>]]></description>
