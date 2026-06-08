@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 14:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:02:32 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds Lockdown Mode to blunt prompt injection</b> — New controls aim to reduce sensitive-data leakage in ChatGPT workflows, underscoring that agent security is now a product surface, not just a research topic.</li><li><b>OpenAI reportedly reshapes ChatGPT beyond chat</b> — The company appears to be positioning ChatGPT as a broader consumer and work platform ahead of higher-margin products and possible IPO pressure.</li><li><b>Hugging Face backs OpenEnv for agentic RL</b> — An open community push around environments and evals for agent training could become important infrastructure for post-chat systems.</li><li><b>MemDreamer tackles long-video understanding with graph memory</b> — A new paper decouples perception from reasoning, using hierarchical memory and retrieval to control token growth on hour-scale video tasks.</li><li><b>Researchers expose brittle probabilistic reasoning in LLMs</b> — Models score well on standard dice problems but collapse on counterintuitive variants, with token bias still distorting outcomes.</li><li><b>Whisper hallucination mitigation moves inside the model</b> — A representation-steering approach finds sparse internal features linked to ASR hallucinations and uses them for detection and mitigation.</li><li><b>New benchmarks probe multimodal memory and research agents</b> — M3Exam and AARR both argue current agent stacks still struggle with hidden context, memory fidelity, ethics, and scientific judgment.</li><li><b>Token pricing pressure becomes a market theme</b> — Discussion is intensifying around rising inference costs and eventual price hikes as frontier-model vendors chase margins and capital markets.</li></ul>]]></description>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-08.mp3" length="3662640" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds Lockdown Mode for prompt-injection defense</b> — New controls aim to reduce data exfiltration from connected tools and memory, underscoring that agent security is becoming a product surface.</li><li><b>Google reportedly signs massive SpaceX compute deal</b> — A $920 million-per-month arrangement, if accurate, signals just how constrained frontier AI infrastructure has become.</li><li><b>New York passes a one-year moratorium on new large data centers</b> — The first statewide pause of its kind would make permitting and power politics a central AI scaling risk.</li><li><b>Token costs move from background problem to board-level issue</b> — Enterprises are shifting from growth-at-all-costs usage to tighter inference governance, routing, caching, and budget controls.</li><li><b>Cross-layer sparse attention targets long-context decoding efficiency</b> — The You Only Index Once paper proposes shared routing across layers to cut token-selection overhead while preserving quality.</li><li><b>Repository-specific adapters without extra tokens in Code2LoRA</b> — A hypernetwork generates per-repo LoRA adapters for code models, offering a different path than RAG for evolving software context.</li><li><b>Reward redistribution for reasoning models attacks delayed credit assignment</b> — RREDCoT moves supervision from only final-answer reward toward segment-level credit, potentially lowering variance in RL for chain-of-thought.</li><li><b>Robotics papers push more practical control interfaces</b> — HANDOFF and TempoVLA both focus on deployment realities: compact humanoid control interfaces and speed-controllable VLA policies.</li></ul>]]></description>
