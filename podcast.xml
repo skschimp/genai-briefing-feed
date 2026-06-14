@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 14:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:12:15 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 14, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic model shutdown triggers sovereignty shockwaves</b> — A U.S. government order forced Anthropic to cut global access to two frontier models, turning safety and export control into an immediate architecture risk for customers and nations.</li><li><b>Mistral reportedly seeks €3B at a €20B valuation</b> — The rumored round suggests investors still want a major independent European foundation-model player, despite brutal capex economics.</li><li><b>Google sues AI-enabled scam network</b> — The case shows how frontier models are now embedded in fraud operations at industrial scale, raising pressure for provenance, abuse monitoring, and enterprise controls.</li><li><b>Data center backlash blocks $130B in projects</b> — Local opposition is becoming a first-order infrastructure constraint, especially around power, water, and permitting timelines for AI buildouts.</li><li><b>Hugging Face launches olmo-eval workbench</b> — A new evaluation loop tool underscores that model development is increasingly bottlenecked by measurement quality, not just training scale.</li><li><b>RA-RFT paper pushes analogy-based reasoning</b> — A new post-training recipe combines retrieval with reinforcement fine-tuning to fetch exemplars by reasoning pattern rather than surface similarity.</li><li><b>HyperTool proposes higher-level tool execution for agents</b> — The paper argues that exposing every atomic tool call to the model is wasteful, and replaces it with executable higher-order tool programs.</li><li><b>Recursive agent harnesses and dynamic memory benchmarks gain traction</b> — New papers on recursive subagent patterns and evolving-environment evaluation point toward the next wave of agent systems: deeper delegation and longer-lived memory.</li></ul>]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-14.mp3" length="3446928" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-14</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 13, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic model shutdown after government order</b> — US authorities forced Anthropic to cut off Fable 5 and Mythos 5, turning a jailbreak issue into a major precedent for frontier-model controls.</li><li><b>Mistral reportedly raising €3B at €20B</b> — The rumored round signals continued investor appetite for an independent European model vendor despite brutal capital requirements.</li><li><b>Physical AI funding wave intensifies</b> — Prometheus raised $12B for an 'artificial general engineer,' while Theker raised $85M for reconfigurable factory robots.</li><li><b>Hugging Face releases olmo-eval workbench</b> — A new evaluation tool aims to tighten the model development loop with more reproducible and configurable benchmarking.</li><li><b>RA-RFT paper pushes analogy-based reasoning</b> — A new post-training method uses retrieval plus reinforcement fine-tuning to teach models to retrieve by reasoning pattern, not just semantic similarity.</li><li><b>HyperTool proposes higher-level tool execution for agents</b> — The paper argues step-wise tool calls are the wrong abstraction and replaces them with code-block execution over MCP-style tools.</li><li><b>Mana shows sim-to-real progress for articulated tool use</b> — A robotics paper reframes dexterous manipulation of articulated tools as an animation problem, improving contact-rich control.</li><li><b>Data center water and siting pressure keeps rising</b> — Amazon disclosed 2.5 billion gallons of annual water use as protests and permitting fights continue to slow AI infrastructure buildouts.</li></ul>]]></description>
