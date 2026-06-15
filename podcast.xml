@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 14:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:23:22 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 15, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Salesforce buys Fin for $3.6B</b> — A major enterprise AI consolidation move aimed at folding customer-service agents into Agentforce.</li><li><b>OpenAI launches global Partner Network</b> — OpenAI is putting $150 million behind channel and services partners to accelerate enterprise deployment.</li><li><b>Anthropic export controls face backlash</b> — Cybersecurity experts are pushing Washington to relax restrictions on Anthropic’s top models, arguing the ban hurts defenders as much as adversaries.</li><li><b>Sarvam lands $234M and reaches unicorn status</b> — HCLTech’s backing gives India a stronger domestic AI platform story amid concerns over foreign model access.</li><li><b>NewCore raises $66M for agent identity</b> — The startup is targeting a coming enterprise control plane problem: how to provision, authenticate, and govern non-human AI workers.</li><li><b>Parallel-Synthesis proposes latent branch merging for agents</b> — A new paper argues agent workflows should combine parallel branches in latent space instead of text concatenation to cut context waste.</li><li><b>Gaze Heads reveals controllable visual attention in VLMs</b> — Researchers identify a small set of attention heads that track the image regions a model is describing, with implications for interpretability and steering.</li><li><b>BayLing-Duplex advances full-duplex speech agents</b> — The paper shows a single autoregressive speech model can decide when to listen and speak simultaneously without external turn-taking modules.</li><li><b>SIMMER benchmarks latent planning failures</b> — A new evaluation suite targets the silent, non-immediate planning mistakes that make embodied agents look competent until goals quietly fail.</li></ul>]]></description>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-15.mp3" length="3706128" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-15</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 14, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic model shutdown triggers sovereignty shockwaves</b> — A U.S. government order forced Anthropic to cut global access to two frontier models, turning safety and export control into an immediate architecture risk for customers and nations.</li><li><b>Mistral reportedly seeks €3B at a €20B valuation</b> — The rumored round suggests investors still want a major independent European foundation-model player, despite brutal capex economics.</li><li><b>Google sues AI-enabled scam network</b> — The case shows how frontier models are now embedded in fraud operations at industrial scale, raising pressure for provenance, abuse monitoring, and enterprise controls.</li><li><b>Data center backlash blocks $130B in projects</b> — Local opposition is becoming a first-order infrastructure constraint, especially around power, water, and permitting timelines for AI buildouts.</li><li><b>Hugging Face launches olmo-eval workbench</b> — A new evaluation loop tool underscores that model development is increasingly bottlenecked by measurement quality, not just training scale.</li><li><b>RA-RFT paper pushes analogy-based reasoning</b> — A new post-training recipe combines retrieval with reinforcement fine-tuning to fetch exemplars by reasoning pattern rather than surface similarity.</li><li><b>HyperTool proposes higher-level tool execution for agents</b> — The paper argues that exposing every atomic tool call to the model is wasteful, and replaces it with executable higher-order tool programs.</li><li><b>Recursive agent harnesses and dynamic memory benchmarks gain traction</b> — New papers on recursive subagent patterns and evolving-environment evaluation point toward the next wave of agent systems: deeper delegation and longer-lived memory.</li></ul>]]></description>
