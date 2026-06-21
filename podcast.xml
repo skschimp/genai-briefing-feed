@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 20 Jun 2026 14:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:20:14 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 21, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic talent shift and model-ban fallout</b> — John Jumper is leaving DeepMind for Anthropic as Washington’s pullback of Fable 5 and Mythos 5 turns into a bigger story about safety, branding, and export-control realism.</li><li><b>Reliance pushes AI to consumer scale in India</b> — Mukesh Ambani’s Reliance plans AI across calls, apps, and homes, signaling a mass-market deployment path beyond the usual enterprise copilots.</li><li><b>Multi-LCB broadens coding evals past Python</b> — A new contamination-aware benchmark extends LiveCodeBench into multiple programming languages, exposing whether coding models really generalize across stacks.</li><li><b>Repository guidance for coding agents gets more rigorous</b> — Probe-and-refine tuning suggests agent performance depends less on having AGENTS.md files and more on how repo guidance is iteratively generated and validated.</li><li><b>Structured state for tool agents gains traction</b> — LedgerAgent argues that explicit task-state representations can reduce prompt reconstruction failures and improve policy adherence in customer-service style tool workflows.</li><li><b>Activation-space misalignment looks more universal</b> — A new paper finds an actionable activation direction tied to insecure-code-induced misalignment across several small model families, with partial mitigation via steering.</li><li><b>Medical multimodal grounding scales without manual boxes</b> — RefRad2D and RadGrounder show a practical route to radiology vision-language systems that do report generation, VQA, and spatial grounding from automatically curated data.</li><li><b>Bias and transparency questions deepen in multimodal and diffusion systems</b> — New work probes visual social-bias triggers in MLLMs and asks whether latent-heavy systems like DiffusionGemma are inherently less transparent to auditors.</li></ul>]]></description>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-21.mp3" length="3488256" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-21</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 20, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Subquadratic pushes a new route around attention bottlenecks</b> — The startup shared more technical detail on a claimed breakthrough that could cut the long-standing quadratic cost curve in LLM context handling.</li><li><b>Multi-LCB extends contamination-aware code eval beyond Python</b> — A new benchmark broadens LiveCodeBench into multiple languages, making coding model claims harder to hide behind Python-only performance.</li><li><b>Agent safety work shifts from prompts to enforceable control planes</b> — A cluster of papers argues for explicit state, runtime verification, and certificate-bound execution rather than trusting agents to remember policy from context alone.</li><li><b>OpenAI adds enterprise spend controls as cost governance becomes product-critical</b> — New analytics and budget controls signal that enterprise AI adoption is now as much about FinOps and observability as raw model quality.</li><li><b>Baseten’s reported $1.5B raise underscores the inference gold rush</b> — Capital continues pouring into inference infrastructure, reinforcing the view that serving economics and reliability are now a primary battleground.</li><li><b>AWS explores selling its AI chips beyond its own cloud</b> — Amazon is reportedly testing a broader merchant silicon strategy, directly challenging Nvidia and reshaping AI infrastructure supply options.</li><li><b>FERC gives AI data centers a grid fast lane</b> — US regulators moved to accelerate interconnection for data centers, even as the larger constraint—actual generation capacity—remains unresolved.</li><li><b>Reliance aims to embed AI across telecom, apps, and the home</b> — India’s biggest digital platform player is making AI a mass-market utility, a notable distribution play at 500-million-user scale.</li></ul>]]></description>
