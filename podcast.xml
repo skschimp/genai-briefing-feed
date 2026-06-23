@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 17:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:58:20 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 23, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes security tooling and open source patching</b> — Daybreak, Codex Security, GPT-5.5-Cyber, and Patch the Planet signal a more explicit move into AI-native AppSec and open source maintenance.</li><li><b>Samsung rolls out ChatGPT Enterprise and Codex globally</b> — One of OpenAI’s biggest enterprise deployments yet adds weight to the story that copilots are moving from pilot to standard tooling.</li><li><b>Groq confirms $650M raise after Nvidia talent disruption</b> — The inference chip company is reloading around cloud service delivery, not just silicon, as capital concentrates in AI infrastructure.</li><li><b>Reflection AI locks in massive SpaceX compute deal</b> — A reported $150 million per month commitment for GB300 capacity underscores how frontier labs are now buying infrastructure like hyperscalers.</li><li><b>Randomized YaRN offers a cleaner path to long-context generalization</b> — A new paper suggests better very-long-context behavior can come from randomized positional exposure and curriculum design, not just brute-force extension.</li><li><b>Tapered Language Models challenge uniform layer sizing</b> — Research argues parameter budgets should be distributed unevenly across depth, with larger early layers and narrower late layers under fixed compute.</li><li><b>AIR extends code-interleaved reasoning into multimodal models</b> — The paper pushes MLLMs beyond vision heuristics by using reinforcement learning to decide when to reason, compute, and manipulate inputs with code.</li><li><b>Robotics papers point to active learning and continuous dexterity</b> — CoorDex, RECALL, and AutoDex all attack the same bottleneck: getting robots to manipulate while moving and to improve with better real-world data loops.</li></ul>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-23.mp3" length="3858912" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-23</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 22, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches Daybreak security stack</b> — New Codex Security and GPT-5.5-Cyber target vulnerability discovery and patch validation, with a parallel program to assist open-source maintainers.</li><li><b>Samsung expands enterprise rollout of ChatGPT and Codex</b> — One of OpenAI’s largest deployments signals code-centric copilots are moving from pilot to default internal tooling at global manufacturers.</li><li><b>Reflection AI signs huge SpaceX compute deal</b> — The open-source lab will pay $150 million per month for GB300 access at Colossus 2, a stark marker of frontier training economics and infrastructure concentration.</li><li><b>PP-OCRv6 brings compact multilingual OCR to Hugging Face</b> — Paddle’s new OCR family spans 1.5M to 34.5M parameters and supports 50 languages, pushing useful vision models down to deployable edge-sized footprints.</li><li><b>Multi-LCB broadens code evaluation beyond Python</b> — A new contamination-aware benchmark extends LiveCodeBench to multiple programming languages, highlighting where coding agents generalize and where they overfit to Python-heavy testing.</li><li><b>CWE-Trace questions whether vuln-detection LLMs really understand code</b> — Leakage-resistant Linux-kernel evaluation suggests many models are pattern-matching security benchmarks rather than reasoning robustly about vulnerabilities.</li><li><b>LedgerAgent proposes explicit state for policy-safe tool use</b> — The paper separates task state from prompt text to reduce multi-turn agent failure modes in customer-service-style tool-calling workflows.</li><li><b>RefRad2D and RadGrounder scale grounded medical VLMs</b> — A 1.2 million-pair radiology dataset enables report generation, VQA, and spatial grounding without manual box annotations, pointing to more practical clinical multimodal systems.</li></ul>]]></description>
