@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 14:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:42:28 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 24, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI and Broadcom unveil inference chip</b> — Jalapeño targets LLM serving economics, signaling tighter model-to-silicon co-design as inference becomes the real cost center.</li><li><b>SpaceX signs massive GB300 compute deal with Reflection AI</b> — A reported $150 million per month commitment underscores how quickly frontier labs are locking in power, chips, and capacity as strategic assets.</li><li><b>Groq confirms $650M raise and rebuilds post talent shakeup</b> — The inference-chip challenger is doubling down on its cloud business, showing investor appetite remains strong for specialized serving infrastructure.</li><li><b>Anthropic pushes deeper into enterprise context with Claude Tag</b> — Its always-on Slack presence is less about chat convenience and more about owning the organizational memory layer inside companies.</li><li><b>OpenThoughts-Agent offers open data recipes for training agents</b> — The paper focuses on how to curate broadly generalizable agent training data rather than overfitting to one benchmark.</li><li><b>SHERLOC improves code-repair agent fault localization</b> — A training-free framework reframes repo-scale bug localization around actionable diagnosis, not just file retrieval.</li><li><b>InSight advances self-guided robot skill acquisition for VLAs</b> — The work makes vision-language-action models steerable at primitive-action level, then uses that to autonomously compose new skills.</li><li><b>Posterior Refinement proposes flexible fast generation</b> — FMLM+ blends iterative refinement flexibility with better sample quality, pointing to a more practical non-autoregressive decoding path.</li></ul>]]></description>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-24.mp3" length="3536352" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-24</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 23, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes security tooling and open source patching</b> — Daybreak, Codex Security, GPT-5.5-Cyber, and Patch the Planet signal a more explicit move into AI-native AppSec and open source maintenance.</li><li><b>Samsung rolls out ChatGPT Enterprise and Codex globally</b> — One of OpenAI’s biggest enterprise deployments yet adds weight to the story that copilots are moving from pilot to standard tooling.</li><li><b>Groq confirms $650M raise after Nvidia talent disruption</b> — The inference chip company is reloading around cloud service delivery, not just silicon, as capital concentrates in AI infrastructure.</li><li><b>Reflection AI locks in massive SpaceX compute deal</b> — A reported $150 million per month commitment for GB300 capacity underscores how frontier labs are now buying infrastructure like hyperscalers.</li><li><b>Randomized YaRN offers a cleaner path to long-context generalization</b> — A new paper suggests better very-long-context behavior can come from randomized positional exposure and curriculum design, not just brute-force extension.</li><li><b>Tapered Language Models challenge uniform layer sizing</b> — Research argues parameter budgets should be distributed unevenly across depth, with larger early layers and narrower late layers under fixed compute.</li><li><b>AIR extends code-interleaved reasoning into multimodal models</b> — The paper pushes MLLMs beyond vision heuristics by using reinforcement learning to decide when to reason, compute, and manipulate inputs with code.</li><li><b>Robotics papers point to active learning and continuous dexterity</b> — CoorDex, RECALL, and AutoDex all attack the same bottleneck: getting robots to manipulate while moving and to improve with better real-world data loops.</li></ul>]]></description>
