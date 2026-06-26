@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 14:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:35:56 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 26, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI delays GPT-5.6 and unveils Jalapeño inference ASIC</b> — Washington pressure is reshaping frontier model release cadence just as OpenAI moves deeper into custom inference silicon with Broadcom.</li><li><b>Google DeepMind brings computer use to Gemini 3.5 Flash</b> — A lower-latency model gets desktop control capabilities, signaling broader competition in practical agent deployments.</li><li><b>Patronus raises $50M for agent stress-testing</b> — Evaluation and adversarial simulation are becoming a real infrastructure layer for enterprise agent rollouts.</li><li><b>General Intuition raises $320M to train agents on gameplay</b> — A big financing round backs the thesis that large-scale interactive game data can bootstrap transferable agent behavior.</li><li><b>Open-source research sharpens the limits of multi-model ensembles</b> — A new paper argues mixture-of-agents gains are bounded by shared failure modes, not just pairwise diversity metrics.</li><li><b>Embodied AI papers push test-time scaling and persistent autonomy</b> — New work explores reasoning-time improvements for robotics and cyber-physical agents beyond isolated benchmark skills.</li><li><b>Amazon commits another $13B to India AI infrastructure</b> — The buildout race is broadening geographically as hyperscalers chase power, land, and demand outside the usual US hubs.</li><li><b>Token rationing arrives inside enterprises</b> — Companies are starting to govern AI spend at the workflow level as casual usage and agent loops drive unpredictable costs.</li></ul>]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-26.mp3" length="3657600" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-26</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 25, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI debuts Jalapeño inference ASIC with Broadcom</b> — OpenAI’s first custom chip targets LLM inference economics, signaling deeper vertical integration beyond model APIs.</li><li><b>Google DeepMind brings computer use to Gemini 3.5 Flash</b> — A lighter-weight model gets UI control capabilities, pushing agentic browser and desktop automation toward cheaper deployment.</li><li><b>Micron’s AI memory windfall keeps reshaping the stack</b> — Explosive earnings underline that HBM remains one of the clearest bottlenecks and profit pools in AI infrastructure.</li><li><b>Amazon commits another $13B to AI infrastructure in India</b> — The buildout highlights India’s emergence as a strategic AI capacity market spanning cloud, sovereign demand, and developer growth.</li><li><b>Anthropic adds Claude Tag for always-on Slack context</b> — The product move is less about chat and more about owning enterprise memory, workflow context, and agent grounding.</li><li><b>AI budget discipline arrives as firms curb ‘tokenmaxxing’</b> — Enterprises are shifting from experimentation-at-all-costs to metering, routing, and governance for routine model usage.</li><li><b>Researchers probe hidden tradeoffs in agent and model training</b> — New papers point to diversity collapse in self-distillation and offer post-training signals for step-level agent progress without dedicated reward models.</li><li><b>Robotics papers target cross-embodiment action priors and efficient VLA RL</b> — Fresh work suggests the next gains in robot foundation models may come from better motion priors and more sample-efficient fine-tuning.</li></ul>]]></description>
