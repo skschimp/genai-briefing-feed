@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 13:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:57:42 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 29, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>China’s Z.ai drops GLM-5.2 open weights</b> — Open-weight release is drawing attention for strong bug-finding and cybersecurity performance, suggesting the capability gap is narrowing in at least specialist domains.</li><li><b>OpenAI adds former Apple Vision Pro executive</b> — Paul Meade reportedly joins OpenAI’s hardware team, a signal that the company’s device ambitions are getting more serious and more product-led.</li><li><b>HP expands OpenAI partnership</b> — The Frontier deal now spans customer experience, software engineering, and enterprise operations, underscoring how large incumbents are moving from pilots to portfolio-wide deployment.</li><li><b>DexCompose tackles multi-task dexterous manipulation</b> — A new robotics paper proposes finger-level residual policy composition to reuse pretrained hand skills without destructive interference.</li><li><b>HORIZON pushes agentic hardware design</b> — Repository-level autonomous code evolution is being applied to RTL and hardware artifacts, with promising benchmark results for hands-free design iteration.</li><li><b>Agent-Native Immune System reframes agent security</b> — New work argues defenses need to live inside the reasoning loop to counter memory poisoning, tool-chain attacks, and multi-agent protocol exploits.</li><li><b>Mechanism-driven monitors target training instability early</b> — A paper proposes internal module-aware signals that can catch LLM training failures before loss curves or gradient norms visibly break.</li><li><b>Data-center cooling startup Omen AI raises $31 million</b> — The company is going after a very physical AI bottleneck: coolant health, microbial contamination, and uptime risk in dense liquid-cooled infrastructure.</li></ul>]]></description>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-29.mp3" length="3634416" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-29</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 28, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships limited GPT-5.6 preview amid regulatory friction</b> — The new Sol, Terra, and Luna lineup arrives with a constrained rollout, highlighting how frontier model launches are becoming policy events as much as product releases.</li><li><b>Anthropic’s Mythos 5 returns in restricted form</b> — A government-approved reopening to 100-plus organizations suggests selective access may become a new control layer for top-end models.</li><li><b>OpenAI deepens hardware ambitions and talent grab</b> — Its Broadcom-backed Jalapeño inference chip effort and reported hire of Apple’s Vision Pro executive point to vertical integration across silicon and devices.</li><li><b>OpenAI expands aggressively in India</b> — Poaching Uber India’s chief underscores that distribution, policy, and local partnerships are now core competitive levers in AI’s largest growth markets.</li><li><b>Asia-based startups push frontier alternatives amid export limits</b> — Regional labs are moving to capture demand for advanced models where US export controls and access restrictions are creating market openings.</li><li><b>Co-failure ceiling paper questions multi-model gains</b> — A new study argues that routing and voting systems are capped by the rate at which all constituent models fail on the same query, not by pairwise disagreement metrics.</li><li><b>RiVER proposes RL for tasks without ground-truth answers</b> — The paper shows how deterministic execution feedback can train LLMs on score-based optimization problems where exact solutions are unknown.</li><li><b>Embodied and GUI-agent papers target planning, scaling, and reliability</b> — New work on autonomous experience generation for GUI agents and test-time scaling for robot manipulation continues the shift from chat models to action systems.</li></ul>]]></description>
