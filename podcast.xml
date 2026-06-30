@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 15:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:29:30 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — June 30, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Open-weight GLM-5.2 sharpens the cyber race</b> — Z.ai’s new open model is drawing attention for bug-finding and security tasks, suggesting China is narrowing the gap in specialized agentic workloads.</li><li><b>Agent-horizon scaling makes a 35B model punch above its weight</b> — New research argues longer, tool-rich trajectories can deliver trillion-parameter-class agent performance without brute-force parameter growth.</li><li><b>Real coding-agent traces arrive for serving engineers</b> — TraceLab releases workload data from thousands of coding-agent sessions, giving infra teams a much-needed empirical basis for latency, batching, and tool-call optimization.</li><li><b>Asynchronous pipeline training gets a practical vote of confidence</b> — A paper claims one-step gradient delay is not a meaningful blocker for large-scale LLM pretraining, potentially improving GPU utilization and reducing pipeline bubbles.</li><li><b>South Korea doubles down on AI memory and physical AI</b> — Massive investment commitments in memory fabs and humanoid robotics underscore that the AI stack bottleneck is increasingly DRAM, HBM, and energy-linked manufacturing scale.</li><li><b>California gets Claude at half price</b> — Anthropic’s state-government deal is notable both for public-sector adoption and for the pricing pressure it hints at in enterprise and regulated markets.</li><li><b>AI may be adding jobs in high-intensity adopters</b> — Fresh survey data complicates the blanket displacement narrative, with strong AI adopters reportedly growing both total and entry-level headcount.</li><li><b>Privacy and policy are moving closer to the model layer</b> — Proton upgrades Lumo while U.S. lawmakers push to restrict sale of health and location data exposed through AI chatbots, highlighting data-governance as a product differentiator.</li></ul>]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-30.mp3" length="3674736" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-30</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 29, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>China’s Z.ai drops GLM-5.2 open weights</b> — Open-weight release is drawing attention for strong bug-finding and cybersecurity performance, suggesting the capability gap is narrowing in at least specialist domains.</li><li><b>OpenAI adds former Apple Vision Pro executive</b> — Paul Meade reportedly joins OpenAI’s hardware team, a signal that the company’s device ambitions are getting more serious and more product-led.</li><li><b>HP expands OpenAI partnership</b> — The Frontier deal now spans customer experience, software engineering, and enterprise operations, underscoring how large incumbents are moving from pilots to portfolio-wide deployment.</li><li><b>DexCompose tackles multi-task dexterous manipulation</b> — A new robotics paper proposes finger-level residual policy composition to reuse pretrained hand skills without destructive interference.</li><li><b>HORIZON pushes agentic hardware design</b> — Repository-level autonomous code evolution is being applied to RTL and hardware artifacts, with promising benchmark results for hands-free design iteration.</li><li><b>Agent-Native Immune System reframes agent security</b> — New work argues defenses need to live inside the reasoning loop to counter memory poisoning, tool-chain attacks, and multi-agent protocol exploits.</li><li><b>Mechanism-driven monitors target training instability early</b> — A paper proposes internal module-aware signals that can catch LLM training failures before loss curves or gradient norms visibly break.</li><li><b>Data-center cooling startup Omen AI raises $31 million</b> — The company is going after a very physical AI bottleneck: coolant health, microbial contamination, and uptime risk in dense liquid-cooled infrastructure.</li></ul>]]></description>
