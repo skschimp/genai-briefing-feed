@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 14:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:50:28 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 1, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic ships Claude Sonnet 5 for cheaper agents</b> — Stronger agent behavior at lower price points signals the next cost war is about autonomous task execution, not just chat quality.</li><li><b>Claude Science turns workflow into product</b> — Anthropic’s science workbench packages tools, data access, and agent loops for researchers rather than launching a separate frontier model.</li><li><b>Meta explores selling excess AI compute</b> — Meta is reportedly shaping a cloud-style business around spare capacity and model access, a notable shift from pure internal capex to monetization.</li><li><b>Etched claims $1B booked and a $5B valuation</b> — The inference-chip challenger says demand for specialized transformer hardware is real, even if execution risk remains high.</li><li><b>Google pushes cheaper multimodal generation</b> — Nano Banana 2 Lite and Gemini Omni Flash continue the trend toward lower-latency, lower-cost creative and multimodal API tiers.</li><li><b>Amazon forms a $1B field deployment engineering group</b> — The company is institutionalizing embedded agent rollouts, echoing a broader market move from model sales to hands-on implementation.</li><li><b>OpenAI launches GeneBench-Pro for biology evaluation</b> — A more realistic genomics and life-sciences benchmark highlights how domain evaluation is becoming strategic product infrastructure.</li><li><b>New papers sharpen the agent stack</b> — Fresh research on credit assignment, dense supervision, browser skill distillation, and uncertainty suggests the next gains come from training loops, not just bigger base models.</li></ul>]]></description>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-01.mp3" length="3585024" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-01</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — June 30, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Open-weight GLM-5.2 sharpens the cyber race</b> — Z.ai’s new open model is drawing attention for bug-finding and security tasks, suggesting China is narrowing the gap in specialized agentic workloads.</li><li><b>Agent-horizon scaling makes a 35B model punch above its weight</b> — New research argues longer, tool-rich trajectories can deliver trillion-parameter-class agent performance without brute-force parameter growth.</li><li><b>Real coding-agent traces arrive for serving engineers</b> — TraceLab releases workload data from thousands of coding-agent sessions, giving infra teams a much-needed empirical basis for latency, batching, and tool-call optimization.</li><li><b>Asynchronous pipeline training gets a practical vote of confidence</b> — A paper claims one-step gradient delay is not a meaningful blocker for large-scale LLM pretraining, potentially improving GPU utilization and reducing pipeline bubbles.</li><li><b>South Korea doubles down on AI memory and physical AI</b> — Massive investment commitments in memory fabs and humanoid robotics underscore that the AI stack bottleneck is increasingly DRAM, HBM, and energy-linked manufacturing scale.</li><li><b>California gets Claude at half price</b> — Anthropic’s state-government deal is notable both for public-sector adoption and for the pricing pressure it hints at in enterprise and regulated markets.</li><li><b>AI may be adding jobs in high-intensity adopters</b> — Fresh survey data complicates the blanket displacement narrative, with strong AI adopters reportedly growing both total and entry-level headcount.</li><li><b>Privacy and policy are moving closer to the model layer</b> — Proton upgrades Lumo while U.S. lawmakers push to restrict sale of health and location data exposed through AI chatbots, highlighting data-governance as a product differentiator.</li></ul>]]></description>
