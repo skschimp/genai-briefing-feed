@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 14:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 14:16:00 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 3, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cloudflare forces AI crawler separation</b> — Publishers get default leverage as Cloudflare moves to distinguish search indexing from training and agent scraping.</li><li><b>Anthropic explores Samsung chip tie-up</b> — Another frontier lab is looking beyond Nvidia, signaling a deeper shift toward custom AI silicon and supply control.</li><li><b>Microsoft creates AI deployment company</b> — A $2.5 billion commitment suggests hyperscalers now see implementation and operationalization as a standalone business line.</li><li><b>Anthropic launches Claude Science</b> — The company is packaging models, tools, and datasets into a scientific workbench, with drug discovery ambitions in view.</li><li><b>ReContext targets long-context failures</b> — A training-free inference method uses recursive evidence replay to improve whether models actually use relevant context.</li><li><b>Persistent-state coding agents expose new attack surface</b> — New research shows how autonomous coding agents can distribute malicious changes across pull requests over time.</li><li><b>Task-agnostic pretraining for robot VLAs</b> — A new robotics paper argues models should learn motor priors first, then language-conditioned tasks, to reduce demonstration bottlenecks.</li><li><b>OrbitQuant compresses diffusion transformers</b> — A data-agnostic quantization method could make image and video diffusion transformers cheaper to run without checkpoint-specific calibration.</li></ul>]]></description>
+      <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-03.mp3" length="3692592" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-03</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 2, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Sonnet 5 and Claude Science</b> — Anthropic paired a cheaper agent-focused model with a workflow product for scientific research, signaling a push beyond raw model releases into domain software.</li><li><b>Microsoft forms a $2.5B AI deployment group</b> — Microsoft is institutionalizing the services layer for enterprise AI rollouts, effectively productizing integration, governance, and operationalization at hyperscaler scale.</li><li><b>Cloudflare moves to separate search crawlers from AI training bots</b> — Publishers may soon block AI crawlers by default unless firms clearly distinguish training and agent traffic, raising the cost of web-scale data access.</li><li><b>Meta explores selling excess AI compute and model access</b> — Meta appears to be preparing a cloud-style AI infrastructure business, turning internal capacity into external revenue and broadening competition with incumbents.</li><li><b>Etched claims $1B under contract at a $5B valuation</b> — The inference-chip startup says customer demand is validating specialized silicon for transformer serving, adding pressure to Nvidia’s margin umbrella.</li><li><b>Hugging Face and Cerebras bring Gemma 4 to real-time voice AI</b> — The partnership highlights how fast inference stacks are becoming a product category of their own, especially for low-latency multimodal and voice applications.</li><li><b>New papers target architecture and inference efficiency</b> — Fresh arXiv work suggests gains from splitting transformer state and prediction paths, training only one layer during RL post-training, and improving parallel test-time sampling.</li><li><b>Robotics and agent evaluation get more concrete</b> — A new furniture-assembly VLA paper and benchmark work on coding agents and enterprise Java migration reflect a shift from demos toward measurable long-horizon task performance.</li></ul>]]></description>
