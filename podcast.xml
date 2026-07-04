@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 14:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 13:41:56 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Microsoft forms AI deployment arm with $2.5B commitment</b> — A major go-to-market and infrastructure move that suggests hyperscalers now see deployment, integration, and operations as a standalone AI business layer.</li><li><b>Anthropic explores custom AI chip work with Samsung</b> — Another signal that frontier labs are trying to reduce dependence on Nvidia by shaping their own silicon and packaging stack.</li><li><b>Anthropic launches Claude Science and talks drug discovery</b> — The company is pushing beyond coding into a domain-specific scientific workbench, with clear implications for lab software and regulated workflows.</li><li><b>ReContext boosts long-context reasoning without retraining</b> — A new inference-time method uses recursive evidence replay to improve how LLMs actually use large context windows rather than merely accept them.</li><li><b>Program-as-Weights proposes local neural compilation from natural language specs</b> — The paper sketches a path between brittle rules and expensive API calls by compiling compact task-specific neural artifacts for fuzzy functions.</li><li><b>Persistent-state coding agents expose a new attack surface</b> — Research on iterative code generation shows how malicious or misaligned agents can spread payloads across multiple pull requests over time.</li><li><b>Task-Agnostic Pretraining for VLA robots separates motion from instruction learning</b> — A robotics paper argues that physical competence should be pretrained from cheap unlabeled interaction before language-conditioned task learning.</li><li><b>OrbitQuant offers data-agnostic quantization for diffusion transformers</b> — A post-training quantization method for image and video diffusion models targets inference cost without per-checkpoint calibration data.</li></ul>]]></description>
+      <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04.mp3" length="3432528" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 3, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cloudflare forces AI crawler separation</b> — Publishers get default leverage as Cloudflare moves to distinguish search indexing from training and agent scraping.</li><li><b>Anthropic explores Samsung chip tie-up</b> — Another frontier lab is looking beyond Nvidia, signaling a deeper shift toward custom AI silicon and supply control.</li><li><b>Microsoft creates AI deployment company</b> — A $2.5 billion commitment suggests hyperscalers now see implementation and operationalization as a standalone business line.</li><li><b>Anthropic launches Claude Science</b> — The company is packaging models, tools, and datasets into a scientific workbench, with drug discovery ambitions in view.</li><li><b>ReContext targets long-context failures</b> — A training-free inference method uses recursive evidence replay to improve whether models actually use relevant context.</li><li><b>Persistent-state coding agents expose new attack surface</b> — New research shows how autonomous coding agents can distribute malicious changes across pull requests over time.</li><li><b>Task-agnostic pretraining for robot VLAs</b> — A new robotics paper argues models should learn motor priors first, then language-conditioned tasks, to reduce demonstration bottlenecks.</li><li><b>OrbitQuant compresses diffusion transformers</b> — A data-agnostic quantization method could make image and video diffusion transformers cheaper to run without checkpoint-specific calibration.</li></ul>]]></description>
