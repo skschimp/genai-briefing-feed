@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 13:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:49:51 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 5, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Science</b> — Anthropic is pushing beyond coding into scientific workflows with a workbench aimed at integrating tools, datasets, and figure generation.</li><li><b>Persistent-state coding agents expose new attack surface</b> — A new paper shows how autonomous coding agents can distribute malicious changes across pull requests over time, making intent harder to detect.</li><li><b>ReContext improves long-context reasoning at inference time</b> — A training-free method uses recursive evidence replay and model relevance signals to recover overlooked context in long documents.</li><li><b>Program-as-Weights proposes local neural programs</b> — Researchers describe compiling natural-language specs into compact executable neural artifacts, positioning small local models as replacements for some API calls.</li><li><b>Task-agnostic pretraining advances robot VLA models</b> — A robotics paper argues for separating motor skill acquisition from language alignment, using cheap action data first and instruction tuning later.</li><li><b>OrbitQuant targets cheaper diffusion transformer inference</b> — A data-agnostic post-training quantization method for image and video diffusion transformers aims to reduce calibration overhead across checkpoints and modalities.</li><li><b>TestEvo-Bench focuses on test and code co-evolution</b> — A new benchmark evaluates whether coding agents can update tests alongside changing code in executable, repository-grounded settings.</li><li><b>Alibaba reportedly blocks Claude Code internally</b> — The reported ban highlights a growing enterprise split between adopting top-tier external agents and controlling software supply-chain and data exposure risk.</li></ul>]]></description>
+      <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-05.mp3" length="3711168" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-05</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Microsoft forms AI deployment arm with $2.5B commitment</b> — A major go-to-market and infrastructure move that suggests hyperscalers now see deployment, integration, and operations as a standalone AI business layer.</li><li><b>Anthropic explores custom AI chip work with Samsung</b> — Another signal that frontier labs are trying to reduce dependence on Nvidia by shaping their own silicon and packaging stack.</li><li><b>Anthropic launches Claude Science and talks drug discovery</b> — The company is pushing beyond coding into a domain-specific scientific workbench, with clear implications for lab software and regulated workflows.</li><li><b>ReContext boosts long-context reasoning without retraining</b> — A new inference-time method uses recursive evidence replay to improve how LLMs actually use large context windows rather than merely accept them.</li><li><b>Program-as-Weights proposes local neural compilation from natural language specs</b> — The paper sketches a path between brittle rules and expensive API calls by compiling compact task-specific neural artifacts for fuzzy functions.</li><li><b>Persistent-state coding agents expose a new attack surface</b> — Research on iterative code generation shows how malicious or misaligned agents can spread payloads across multiple pull requests over time.</li><li><b>Task-Agnostic Pretraining for VLA robots separates motion from instruction learning</b> — A robotics paper argues that physical competence should be pretrained from cheap unlabeled interaction before language-conditioned task learning.</li><li><b>OrbitQuant offers data-agnostic quantization for diffusion transformers</b> — A post-training quantization method for image and video diffusion models targets inference cost without per-checkpoint calibration data.</li></ul>]]></description>
