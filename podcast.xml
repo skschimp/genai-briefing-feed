@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 15:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:46:44 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 7, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Weak-to-strong reasoning distillation gains traction</b> — New arXiv work shows stronger models can inherit RL reasoning improvements from smaller models without paying full rollout costs.</li><li><b>Verification emerges as a new scaling axis for agents</b> — A general-purpose LLM-as-a-Verifier framework argues correctness checking can boost agent performance without extra training.</li><li><b>Robotics pushes toward camera-agnostic and long-horizon control</b> — Two robotics papers and Hugging Face’s LeRobot update point to more deployable embodied AI beyond fixed lab setups.</li><li><b>Unified audio-text models sharpen multimodal competition</b> — A new 30B-class audio-text model claims stronger audio intelligence while preserving text performance, alongside a new speech naturalness benchmark.</li><li><b>Microsoft cuts 4,800 roles as AI reshapes org design</b> — The latest layoffs hit sales and Xbox, reinforcing that AI-era productivity gains are now feeding directly into headcount decisions.</li><li><b>SK Hynix’s US IPO underscores the memory bottleneck</b> — The HBM supplier riding AI demand is set for a major US listing, a reminder that memory economics are central to the stack.</li><li><b>Amazon winds down new Mechanical Turk intake</b> — Stopping new customer onboarding signals a deeper shift away from legacy human-labeling marketplaces toward synthetic data and integrated RLHF pipelines.</li><li><b>Anthropic’s Claude tracking flap highlights enterprise trust risk</b> — A reported internal tracking experiment drew backlash because it cut against the company’s anti-surveillance positioning.</li></ul>]]></description>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07.mp3" length="3582864" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 6, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>LeRobot 0.6 sharpens the open robotics stack</b> — Hugging Face updates LeRobot with a stronger loop around imagination, evaluation, and policy improvement for VLA-style robotics workflows.</li><li><b>Program-as-Weights pushes local neural functions</b> — A new paper proposes compiling natural-language function specs into compact executable neural artifacts instead of calling an external LLM API.</li><li><b>ReContext offers a training-free long-context fix</b> — Recursive evidence replay improves long-context reasoning by resurfacing likely-relevant spans during inference rather than retraining the model.</li><li><b>Persistent-state coding agents get a new security warning</b> — Research on distributed attacks across pull requests shows how autonomous coding agents can hide malicious intent over time in evolving codebases.</li><li><b>Task-agnostic pretraining for robot action models</b> — A new VLA paper argues robots should first learn how to move from cheap unlabeled interaction data, then learn instruction alignment from scarcer demonstrations.</li><li><b>OrbitQuant targets cheaper diffusion transformer inference</b> — A data-agnostic quantization method for image and video diffusion transformers could reduce deployment friction across checkpoints and modalities.</li><li><b>Microsoft cuts nearly 4,800 roles</b> — The layoffs, concentrated in Xbox and commercial sales, add another signal that major platform vendors are reshaping around AI-era cost structures and go-to-market changes.</li><li><b>UK financial regulator warns of an AI adoption arms race</b> — The FCA says firms are rushing into AI in financial services faster than oversight tools are maturing, with implications for model risk and governance.</li></ul>]]></description>
