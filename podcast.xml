@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 14:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 14:23:37 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>ZML open-sources cross-chip inference layer</b> — French startup ZML released free software aimed at lowering inference cost across heterogeneous AI accelerators, a notable systems-level play below the model layer.</li><li><b>SambaNova lands another $1B mega-round</b> — The AI chip vendor raised at an $11 billion valuation, underscoring investor appetite for alternatives to Nvidia despite a brutally capital-intensive market.</li><li><b>Microsoft trims AI spend with more in-house models</b> — Microsoft is reportedly reducing external model reliance and pairing that with broad layoffs, reinforcing the shift from AI experimentation to margin discipline.</li><li><b>DeepSeek explores custom chip path under export pressure</b> — Facing U.S. export controls, DeepSeek is planning its own silicon effort to reduce dependence on Nvidia and Huawei, signaling a new phase of model-lab verticalization in China.</li><li><b>Hugging Face updates LeRobot with evaluation loop</b> — LeRobot v0.6.0 adds tools to imagine, evaluate, and improve robot policies, continuing the open-source push to make robotics iteration look more like mainstream ML.</li><li><b>New work targets KV-cache compression for long context</b> — Two arXiv papers propose adaptive cross-layer compression schemes for transformer KV caches, aiming to reduce memory bandwidth bottlenecks without crushing retrieval and reasoning quality.</li><li><b>Agent failure prediction paper suggests early aborts</b> — A new paper shows lightweight probes on hidden states can predict doomed agent trajectories early, potentially cutting large amounts of wasted inference.</li><li><b>Meta’s Muse Image launch triggers privacy backlash</b> — Meta rolled out its new image model across consumer surfaces, but criticism quickly focused on training and remixing of users’ photos, a reminder that product velocity still outruns consent norms.</li></ul>]]></description>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-08.mp3" length="3495456" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Weak-to-strong reasoning distillation gains traction</b> — New arXiv work shows stronger models can inherit RL reasoning improvements from smaller models without paying full rollout costs.</li><li><b>Verification emerges as a new scaling axis for agents</b> — A general-purpose LLM-as-a-Verifier framework argues correctness checking can boost agent performance without extra training.</li><li><b>Robotics pushes toward camera-agnostic and long-horizon control</b> — Two robotics papers and Hugging Face’s LeRobot update point to more deployable embodied AI beyond fixed lab setups.</li><li><b>Unified audio-text models sharpen multimodal competition</b> — A new 30B-class audio-text model claims stronger audio intelligence while preserving text performance, alongside a new speech naturalness benchmark.</li><li><b>Microsoft cuts 4,800 roles as AI reshapes org design</b> — The latest layoffs hit sales and Xbox, reinforcing that AI-era productivity gains are now feeding directly into headcount decisions.</li><li><b>SK Hynix’s US IPO underscores the memory bottleneck</b> — The HBM supplier riding AI demand is set for a major US listing, a reminder that memory economics are central to the stack.</li><li><b>Amazon winds down new Mechanical Turk intake</b> — Stopping new customer onboarding signals a deeper shift away from legacy human-labeling marketplaces toward synthetic data and integrated RLHF pipelines.</li><li><b>Anthropic’s Claude tracking flap highlights enterprise trust risk</b> — A reported internal tracking experiment drew backlash because it cut against the company’s anti-surveillance positioning.</li></ul>]]></description>
