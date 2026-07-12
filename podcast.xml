@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 13:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:28:25 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 12, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI family push signals consumer AI’s next battleground</b> — A new PM role focused on families, caregivers, and older adults suggests OpenAI is moving from generic assistant toward household workflows and shared trust surfaces.</li><li><b>Apple sues OpenAI over alleged hardware trade secret theft</b> — The lawsuit raises the temperature around AI device development and could complicate OpenAI’s hardware ambitions tied to former Apple design talent.</li><li><b>SK Hynix’s record U.S. IPO underscores the memory bottleneck in AI</b> — A $26.5 billion debut highlights that HBM and packaging, not just GPUs, are central choke points in the AI infrastructure stack.</li><li><b>Data center opposition is becoming an execution risk for AI buildouts</b> — Local resistance around power, water, land use, and grid stress is shifting from background noise to a material constraint on AI capacity expansion.</li><li><b>OpenCoF proposes chain-of-frame reasoning through video generation</b> — The paper argues that temporally generated frames can serve as a reasoning trace, backed by a 17K-example dataset and a dedicated video reasoning framework.</li><li><b>Quantization changes model behavior more than standard metrics reveal</b> — New work shows accuracy and perplexity can miss substantial decision-level divergence in quantized LLMs, especially at moderate and aggressive bit reduction.</li><li><b>Memory agents target long-horizon failure from behavioral state decay</b> — A proactive memory-agent architecture keeps structured task state alive alongside an unmodified action agent to improve performance on extended agentic tasks.</li><li><b>Speculative decoding research keeps widening the practical speed frontier</b> — Two papers on relaxed speculative decoding and DominoTree suggest more deployment headroom through training-free acceptance tradeoffs and better conditional draft trees.</li></ul>]]></description>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-12.mp3" length="3537504" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-12</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 11, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI rolls out GPT-5.6 and ChatGPT Work</b> — OpenAI publicly launched GPT-5.6 after a government-limited preview and paired it with a more agentic productivity product.</li><li><b>Anthropic offers a new interpretability window into Claude</b> — A Jacobian-lens technique reportedly exposes concept-level internal dynamics, a meaningful step for model debugging and safety research.</li><li><b>Meta jumps into AI coding with Muse Spark 1.1</b> — Meta’s new coding model targets large agentic software tasks like bug fixing and codebase migrations, intensifying the enterprise coding race.</li><li><b>SK Hynix’s record U.S. IPO underscores AI memory’s leverage</b> — The biggest foreign IPO in U.S. history highlights how HBM and memory supply are now strategic choke points in the AI stack.</li><li><b>Meta’s AI chips near production as hyperscalers chase custom silicon</b> — Meta says its new modular AI chips will begin production in September, reinforcing the shift toward vertically optimized inference infrastructure.</li><li><b>OpenAI sunsets Atlas browser but doubles down on agentic browsing</b> — The standalone browser is being shut down, while its web-acting capabilities move into desktop and extension surfaces where users already work.</li><li><b>New papers push on agent memory and speculative decoding</b> — Fresh arXiv work targets long-horizon agent reliability and more practical speedups in generation, two areas that matter directly in production systems.</li><li><b>Benchmarks are getting sharper about what models really know</b> — New evaluation work questions quantization equivalence, LLM-as-judge stability, and source-verification assumptions, all highly relevant for enterprise deployment.</li></ul>]]></description>
