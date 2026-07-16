@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 13:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:03:06 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 16, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple clears China AI launch with Alibaba and Baidu</b> — Apple Intelligence reportedly won approval in China, a major distribution and compliance win built on local model and cloud partnerships.</li><li><b>Thinking Machines debuts Inkling open model</b> — The startup’s first public model argues against one-size-fits-all AI and signals a differentiated open-model strategy.</li><li><b>OpenAI details GPT-Red automated red teaming</b> — A self-play “super-hacker” model is being used to probe prompt injection, cyber abuse, and robustness weaknesses in frontier systems.</li><li><b>Anthropic-backed Ode bets on AI implementation services</b> — Anthropic, Blackstone, and others are backing a forward-deployed engineering model aimed at accelerating enterprise AI rollouts.</li><li><b>EU orders Google to open Android and Search</b> — European antitrust action could materially loosen Google’s control points for assistants and search distribution on mobile.</li><li><b>1Password gives Claude credentialed browser actions</b> — Anthropic’s assistant can now use stored logins with user authorization, moving agent workflows closer to real transactional automation.</li><li><b>New York data center moratorium rattles AI buildout</b> — A one-year ban on new data center construction highlights how power, land use, and local politics are becoming AI infrastructure constraints.</li><li><b>Suno scraping leak sharpens training-data battle</b> — Leaked internal details suggest broad scraping from YouTube, Deezer, and Genius, adding legal and economic pressure to generative music.</li></ul>]]></description>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-16.mp3" length="3509280" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-16</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 15, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic and Blackstone back AI implementation services</b> — Ode launches with a forward-deployed-engineer model, underscoring that enterprise AI bottlenecks are now integration, workflow redesign, and change management.</li><li><b>New York pauses new large data centers</b> — A one-year state moratorium on major data center approvals makes power, water, and siting constraints a first-order AI infrastructure risk.</li><li><b>Reflection signs $1B compute deal with Nebius</b> — The agreement shows serious capital formation around non-hyperscaler AI infrastructure and continued appetite for open-model contenders.</li><li><b>Demis Hassabis calls for an independent frontier AI standards body</b> — DeepMind’s proposal signals growing pressure for pre-release evaluation, standardized testing, and governance that looks more like financial-market supervision.</li><li><b>Google faces another publisher lawsuit over AI training</b> — Major publishers are escalating copyright claims, increasing legal pressure on foundation-model training practices and licensing economics.</li><li><b>Agent research targets scope control and failure analysis</b> — New papers focus on reducing redundant agent work, tracing failure from successful trajectories, and benchmarking lifecycle memory operations.</li><li><b>Audio-native diffusion ASR pushes parallel decoding</b> — A new paper adapts a frozen diffusion language model for speech recognition, pointing to a possible alternative to autoregressive transcript generation.</li><li><b>PalmClaw explores native on-device mobile agents</b> — Instead of brittle GUI automation, the framework proposes OS-level, phone-native tool use for agents that can act locally on personal data and sensors.</li></ul>]]></description>
