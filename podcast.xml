@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 14:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:50:00 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 17, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Inference chips become financeable infrastructure</b> — A $400 million chip-backed loan signals lenders now view inference hardware as collateralizable AI infrastructure, not just speculative capex.</li><li><b>Nemotron 3 Embed tops retrieval leaderboard</b> — NVIDIA’s new embedding model ranks first on RTEB, underscoring that retrieval quality is becoming a core battleground for agent performance.</li><li><b>RoboTTT pushes robot context to 8K timesteps</b> — A new robot-policy training recipe shows long-context visuomotor memory can unlock one-shot imitation and better long-horizon robustness without slower inference.</li><li><b>OpenAI details GPT-Red cyber red-teaming</b> — OpenAI says an internal offensive model now stress-tests flagship releases, pointing to a more automated and adversarial model assurance pipeline.</li><li><b>Claude integrates with 1Password</b> — Anthropic’s agent can now use stored credentials with user approval, a notable step from chat to authenticated task execution.</li><li><b>EU orders Google to open Android and Search further</b> — European regulators are forcing broader access for rival AI assistants and search engines, potentially reshaping default distribution and platform leverage.</li><li><b>Apple clears China launch with Alibaba and Baidu</b> — Apple Intelligence has reportedly won approval in China through local partnerships, a major geopolitical and distribution milestone.</li><li><b>Enterprise surveys show an agent control gap</b> — New research finds enterprises are deploying agents faster than they can govern cost, context, evaluation, and security, with incidents already common.</li></ul>]]></description>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-17.mp3" length="3870288" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-17</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 16, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple clears China AI launch with Alibaba and Baidu</b> — Apple Intelligence reportedly won approval in China, a major distribution and compliance win built on local model and cloud partnerships.</li><li><b>Thinking Machines debuts Inkling open model</b> — The startup’s first public model argues against one-size-fits-all AI and signals a differentiated open-model strategy.</li><li><b>OpenAI details GPT-Red automated red teaming</b> — A self-play “super-hacker” model is being used to probe prompt injection, cyber abuse, and robustness weaknesses in frontier systems.</li><li><b>Anthropic-backed Ode bets on AI implementation services</b> — Anthropic, Blackstone, and others are backing a forward-deployed engineering model aimed at accelerating enterprise AI rollouts.</li><li><b>EU orders Google to open Android and Search</b> — European antitrust action could materially loosen Google’s control points for assistants and search distribution on mobile.</li><li><b>1Password gives Claude credentialed browser actions</b> — Anthropic’s assistant can now use stored logins with user authorization, moving agent workflows closer to real transactional automation.</li><li><b>New York data center moratorium rattles AI buildout</b> — A one-year ban on new data center construction highlights how power, land use, and local politics are becoming AI infrastructure constraints.</li><li><b>Suno scraping leak sharpens training-data battle</b> — Leaked internal details suggest broad scraping from YouTube, Deezer, and Genius, adding legal and economic pressure to generative music.</li></ul>]]></description>
