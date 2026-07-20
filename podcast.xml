@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 13:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:18:46 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 20, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>China’s model price war intensifies</b> — Moonshot and Alibaba are pushing frontier-class claims at much lower cost, tightening the gap with U.S. labs and pressuring margins.</li><li><b>Jensen Huang turns Japan into a full-stack AI partner</b> — Nvidia’s Tokyo deals span chips, clouds, robotics, and national infrastructure, signaling a deeper regional compute alignment.</li><li><b>Loopie revives the looped Transformer idea</b> — A new MoE architecture claims looping can finally compete with simply scaling parameter count, with better compute efficiency.</li><li><b>PagedWeight targets MoE serving bottlenecks</b> — Dynamic runtime quantization of expert weights balances memory between model weights and KV cache for higher-throughput inference.</li><li><b>ActiveVision tests whether multimodal models really look around</b> — A new benchmark measures active observation rather than single-shot image understanding, exposing a likely gap in current MLLMs.</li><li><b>RL post-training looks more contingent on pretraining than advertised</b> — New work studies how model size and data choices shape RL gains and what reinforcement learning actually changes in reasoning models.</li><li><b>Model merging shows surprising parity with joint multitask RL</b> — On an agent benchmark, merged specialist models reportedly match jointly trained models, suggesting a practical path for composable agents.</li><li><b>AI watermarking may not be court-ready evidence</b> — An empirical evaluation argues current text watermarking methods fall short of forensic reliability despite growing regulatory mandates.</li></ul>]]></description>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20.mp3" length="3742272" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 19, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>RoboTTT extends robot context to 8K timesteps</b> — A new test-time-training policy shows long-horizon robot memory can unlock in-context imitation and adaptation without proportional latency growth.</li><li><b>SearchOS reframes search agents as stateful systems</b> — A multi-agent framework turns implicit search progress into explicit shared state to reduce looping and wasted search budget.</li><li><b>Tokenizer expansion without full retraining</b> — A paper on in-place tokenizer expansion targets a practical pain point for multilingual and on-device LLMs: reducing token fragmentation after deployment priorities shift.</li><li><b>Middle-layer recurrence returns to transformer reasoning</b> — T2MLR injects cached latent state across decoding steps, aiming to preserve intermediate computation with low overhead versus pure autoregressive token bottlenecks.</li><li><b>Security agents get a cost-aware benchmark lens</b> — New evaluation work argues success rates alone are misleading for offensive and defensive AI agents because every reasoning step and tool call has budget impact.</li><li><b>Pretraining poisoning via public discussion channels</b> — Research shows computational propaganda can plausibly contaminate web-scale corpora through existing content injection pathways, stressing data curation pipelines.</li><li><b>Databricks climbs to a $188B valuation</b> — The company’s latest valuation underscores how the market is rewarding AI platform positioning, especially around open-weight economics and enterprise tooling.</li><li><b>Apple’s trade-secrets suit raises the stakes for OpenAI</b> — The case adds legal and governance pressure at a sensitive moment, with implications for talent mobility, hardware ambitions, and any future public-market plans.</li></ul>]]></description>
