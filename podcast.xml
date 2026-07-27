@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 13:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:46:21 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 27, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Open AI security alliance launches</b> — Nvidia, Microsoft, IBM, SpaceX and others formed an open-source security alliance, notably without OpenAI, Google, or Anthropic.</li><li><b>Enigma lands $70M seed for robot control</b> — The startup is betting that a simpler, more abstract control layer can make physical AI deployment much easier.</li><li><b>NVIDIA Cosmos-H-Dreams targets surgical robotics</b> — NVIDIA and collaborators are pushing real-time generative simulation as a training and validation tool for high-stakes robotic systems.</li><li><b>Skills can hurt LLM agents too</b> — A new paper quantifies the 'regression tax'—adding procedural skills improves averages but also breaks tasks the base agent previously solved.</li><li><b>Task-level model routing for agentic systems</b> — TRACE-Router argues enterprises should route across workflows, not per-call, to optimize delayed quality and cost outcomes.</li><li><b>Formal verification enters automated research agents</b> — CausalForge uses Lean-based proof infrastructure to close the loop on self-improving research agents in causal inference.</li><li><b>Compact 3B agentic model shows ambition</b> — Nanbeige4.2-3B claims strong tool-use and office-agent performance using a looped transformer trained on 28 trillion tokens.</li><li><b>Native multimodal scaling gets a closer look</b> — A new pretraining study examines how from-scratch multimodal models scale versus late-fusion approaches, with implications for physical-world AI.</li></ul>]]></description>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-27.mp3" length="3694176" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-27</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 26, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic ships Opus 5</b> — A cheaper, less restrictive frontier model signals that token efficiency and deployment economics now matter as much as raw benchmark wins.</li><li><b>Open-weight restrictions face industry pushback</b> — Nvidia, Mistral, and others are lobbying against broad limits on open models as Washington debates responses to Chinese AI competition.</li><li><b>Kimi K3 sparks market anxiety</b> — Moonshot’s open model became a proxy battle over U.S.-China AI competitiveness, pricing pressure, and the strategic risk of open diffusion.</li><li><b>OpenForgeRL targets trainable coding agents</b> — A new open-source framework tackles the hard systems problem of training harness-based agents end-to-end instead of just prompting them.</li><li><b>Million-token inference gets a draft-cost fix</b> — Windowed-MTP proposes a way to keep speculative decoding useful at extreme context lengths by avoiding full-context draft KV reads.</li><li><b>3D-aware vision-language models advance</b> — VLM-IE3D adds implicit and explicit geometry tokens from RGB video to improve spatial reasoning beyond flat 2D perception.</li><li><b>GraphVid offers structured video control</b> — A graph-conditioned image-to-video approach gives users finer control over multi-object interactions than text prompts or trajectories alone.</li><li><b>Data center grid risk moves into focus</b> — A Northern Virginia power-line incident exposed how fragile AI cluster behavior can be during grid disturbances, elevating infrastructure resilience as a first-order issue.</li></ul>]]></description>
