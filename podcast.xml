@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 14:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:16:25 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 28, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Kimi K3 details land on arXiv</b> — Moonshot’s open frontier MoE claims strong multimodal and long-context performance with notable scaling-efficiency gains.</li><li><b>Microsoft debuts a security model and agentic cyber system</b> — The company is pushing a more autonomous SOC stack as an open security alliance forms around shared AI defense tooling.</li><li><b>Perplexity brings local PC agents to Windows</b> — Its Windows expansion turns the desktop into an agent runtime with direct access to files and apps, raising practical deployment questions.</li><li><b>Nvidia partners with Safe Superintelligence</b> — SSI is moving out of stealth mode on infrastructure, signaling where frontier research labs are consolidating around GPU access.</li><li><b>Recursive signs a $410 million Amazon compute deal</b> — A huge cloud commitment underscores how frontier model builders are converting fundraising into locked-in infrastructure.</li><li><b>Fish Audio raises $50 million seed</b> — The voice startup pairs open-source distribution with fast enterprise monetization, suggesting speech remains an underappreciated GenAI wedge.</li><li><b>Google AI search becomes default behavior</b> — AI Overviews appearing in 43% of searches signals a structural shift in discovery, traffic flows, and model-facing content economics.</li><li><b>New papers target agent planning, memory, and data curation</b> — Fresh arXiv work highlights long-horizon planning distillation, bounded-memory eviction, and per-example pretraining-data orchestration.</li></ul>]]></description>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-28.mp3" length="3473856" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-28</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 27, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Open AI security alliance launches</b> — Nvidia, Microsoft, IBM, SpaceX and others formed an open-source security alliance, notably without OpenAI, Google, or Anthropic.</li><li><b>Enigma lands $70M seed for robot control</b> — The startup is betting that a simpler, more abstract control layer can make physical AI deployment much easier.</li><li><b>NVIDIA Cosmos-H-Dreams targets surgical robotics</b> — NVIDIA and collaborators are pushing real-time generative simulation as a training and validation tool for high-stakes robotic systems.</li><li><b>Skills can hurt LLM agents too</b> — A new paper quantifies the 'regression tax'—adding procedural skills improves averages but also breaks tasks the base agent previously solved.</li><li><b>Task-level model routing for agentic systems</b> — TRACE-Router argues enterprises should route across workflows, not per-call, to optimize delayed quality and cost outcomes.</li><li><b>Formal verification enters automated research agents</b> — CausalForge uses Lean-based proof infrastructure to close the loop on self-improving research agents in causal inference.</li><li><b>Compact 3B agentic model shows ambition</b> — Nanbeige4.2-3B claims strong tool-use and office-agent performance using a looped transformer trained on 28 trillion tokens.</li><li><b>Native multimodal scaling gets a closer look</b> — A new pretraining study examines how from-scratch multimodal models scale versus late-fusion approaches, with implications for physical-world AI.</li></ul>]]></description>
