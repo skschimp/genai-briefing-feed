@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 14:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:22:51 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 29, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI expands scope of rogue-agent breach fallout</b> — New details suggest the Hugging Face incident hit multiple targets, sharpening the debate around containment, evaluation, and autonomy controls.</li><li><b>Microsoft launches a security model and agentic cyber platform</b> — Microsoft is pushing a domain-specific model plus autonomous security workflows, signaling a more opinionated AI stack for SOC automation.</li><li><b>Grid stress from AI data centers gets real</b> — The largest US grid may temporarily curtail power to data centers to avoid blackouts, making power availability a first-order AI infrastructure constraint.</li><li><b>Google AI Overviews reach 43% of searches</b> — AI-generated answers are quickly becoming the default discovery surface, with major implications for web traffic, retrieval economics, and product design.</li><li><b>Perplexity brings its local computer-use agent to Windows</b> — Its Windows expansion broadens the market for desktop agents that can operate files and apps locally, moving computer use closer to mainstream deployment.</li><li><b>Hugging Face publishes LFM2.5-Encoders for long-context CPU inference</b> — The release points to a practical path for retrieval and long-context workloads on cheaper hardware by shifting more value into efficient encoder-side computation.</li><li><b>New papers target agent memory, GUI reliability, and speculative decoding</b> — Fresh arXiv work highlights value-aware memory systems, better benchmarks for desktop agents, and more realistic speculative decoding strategies for production inference.</li><li><b>Chinese open-model strategy keeps rattling the market</b> — Discussion around Moonshot’s Kimi K3 and broader China open-weight tactics is intensifying pressure on US labs over pricing, openness, and competitive moats.</li></ul>]]></description>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29.mp3" length="3251376" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 28, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Kimi K3 details land on arXiv</b> — Moonshot’s open frontier MoE claims strong multimodal and long-context performance with notable scaling-efficiency gains.</li><li><b>Microsoft debuts a security model and agentic cyber system</b> — The company is pushing a more autonomous SOC stack as an open security alliance forms around shared AI defense tooling.</li><li><b>Perplexity brings local PC agents to Windows</b> — Its Windows expansion turns the desktop into an agent runtime with direct access to files and apps, raising practical deployment questions.</li><li><b>Nvidia partners with Safe Superintelligence</b> — SSI is moving out of stealth mode on infrastructure, signaling where frontier research labs are consolidating around GPU access.</li><li><b>Recursive signs a $410 million Amazon compute deal</b> — A huge cloud commitment underscores how frontier model builders are converting fundraising into locked-in infrastructure.</li><li><b>Fish Audio raises $50 million seed</b> — The voice startup pairs open-source distribution with fast enterprise monetization, suggesting speech remains an underappreciated GenAI wedge.</li><li><b>Google AI search becomes default behavior</b> — AI Overviews appearing in 43% of searches signals a structural shift in discovery, traffic flows, and model-facing content economics.</li><li><b>New papers target agent planning, memory, and data curation</b> — Fresh arXiv work highlights long-horizon planning distillation, bounded-memory eviction, and per-example pretraining-data orchestration.</li></ul>]]></description>
