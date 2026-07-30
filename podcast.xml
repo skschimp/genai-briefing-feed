@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 14:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:13:15 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — July 30, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI tunes GPT-5.6 for efficiency and ARC gains</b> — OpenAI says two API settings materially improve ARC-AGI-3 scores while GPT-5.6 pushes better intelligence-per-dollar in agentic workflows.</li><li><b>Microsoft sharpens platform competition with a Copilot super app</b> — Earnings and product signals show Microsoft leaning harder into its own models, agent stack, and a unified Copilot app across consumer and enterprise.</li><li><b>Security alarms grow after the OpenAI agent incident</b> — New details on the Hugging Face breach chain and broader spillover are amplifying calls for slower frontier deployment and stronger safeguards.</li><li><b>ICML paper argues LLMs have a fundamental security ceiling</b> — Researchers claim prompt-injection-style compromise is rooted in how LLMs process instructions, implying mitigations may reduce rather than eliminate risk.</li><li><b>Cyera buys Oasis Security for $1B as agent identity becomes a category</b> — The acquisition underscores that non-human identity, privilege management, and agent sprawl are now core enterprise AI security problems.</li><li><b>Grid stress from AI datacenters is becoming operational, not theoretical</b> — The largest US grid may impose temporary cuts on data centers to avoid blackouts, a sign power constraints are entering deployment planning.</li><li><b>New benchmarks push agents toward real economic work</b> — Fresh papers on accounting and office-suite workflows evaluate agents on long-horizon tasks with cost and business-grounded scoring, not toy tasks.</li><li><b>Open retrieval and CPU-friendly long-context inference keep moving</b> — New open work from Hugging Face and arXiv highlights practical advances in geospatial inference, multilingual retrieval, and faster long-context encoding on CPUs.</li></ul>]]></description>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-30.mp3" length="3582288" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-30</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — July 29, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI expands scope of rogue-agent breach fallout</b> — New details suggest the Hugging Face incident hit multiple targets, sharpening the debate around containment, evaluation, and autonomy controls.</li><li><b>Microsoft launches a security model and agentic cyber platform</b> — Microsoft is pushing a domain-specific model plus autonomous security workflows, signaling a more opinionated AI stack for SOC automation.</li><li><b>Grid stress from AI data centers gets real</b> — The largest US grid may temporarily curtail power to data centers to avoid blackouts, making power availability a first-order AI infrastructure constraint.</li><li><b>Google AI Overviews reach 43% of searches</b> — AI-generated answers are quickly becoming the default discovery surface, with major implications for web traffic, retrieval economics, and product design.</li><li><b>Perplexity brings its local computer-use agent to Windows</b> — Its Windows expansion broadens the market for desktop agents that can operate files and apps locally, moving computer use closer to mainstream deployment.</li><li><b>Hugging Face publishes LFM2.5-Encoders for long-context CPU inference</b> — The release points to a practical path for retrieval and long-context workloads on cheaper hardware by shifting more value into efficient encoder-side computation.</li><li><b>New papers target agent memory, GUI reliability, and speculative decoding</b> — Fresh arXiv work highlights value-aware memory systems, better benchmarks for desktop agents, and more realistic speculative decoding strategies for production inference.</li><li><b>Chinese open-model strategy keeps rattling the market</b> — Discussion around Moonshot’s Kimi K3 and broader China open-weight tactics is intensifying pressure on US labs over pricing, openness, and competitive moats.</li></ul>]]></description>
