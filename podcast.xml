@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 14:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:25:54 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Alibaba launches Qwen3.8-Max</b> — Alibaba says its new flagship model rivals top US frontier systems and is making it broadly available, intensifying the open-versus-closed and US-versus-China race.</li><li><b>OpenAI details turnless realtime voice stack</b> — The company published how it built a low-latency continuous voice system in six months, offering rare engineering detail on interruption handling and streaming inference.</li><li><b>Hugging Face pushes local agents with LFM2.5-2.6B</b> — A compact 2.6B model is aimed at on-device or edge agent deployment, signaling that useful agentic behavior is moving down-market in model size and cost.</li><li><b>EU AI transparency rules take effect</b> — New obligations now require disclosure for chatbot interactions and AI-generated or manipulated content, turning provenance and labeling into implementation work, not policy talk.</li><li><b>AWS backs private-cloud deployment of Superblocks</b> — AWS is letting the vibe-coding platform run inside customer private clouds, a notable move toward model-agnostic enterprise app generation with tighter data control.</li><li><b>Runware unveils modular inference pod</b> — Runware introduced a portable modular AI data center concept, reflecting demand for faster-to-deploy inference capacity outside traditional hyperscale buildouts.</li><li><b>New memory architectures target long-running agents</b> — Fresh papers on LiveMem and PRECOG attack persistent state and retrieval cost, pointing to more durable agent memory beyond brute-force context stuffing.</li><li><b>Benchmarks expose failure modes in agentic reasoning</b> — New work on SWE-Touch, MedPRESS, and shortcut-hacking in science benchmarks shows how current evaluations still miss shared-workspace coding, pressure-induced sycophancy, and false-positive reasoning scores.</li></ul>]]></description>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-04.mp3" length="3427344" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 3, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Alibaba unveils Qwen3.8-Max</b> — Alibaba claims its new flagship model is competitive with top US frontier systems and is pushing it broadly into products and APIs.</li><li><b>June launches with $20M for AI deployment</b> — The startup is targeting the messy integration layer of enterprise AI adoption rather than another foundation model.</li><li><b>ExtractBench targets enterprise extraction realism</b> — A new benchmark scores schema-guided document extraction on accuracy, completeness, grounding, and cost across real business documents.</li><li><b>TokTier tackles tokenization overhead</b> — A serving paper argues prompt tokenization is becoming a major hidden bottleneck in agent workloads and proposes exact stateful reuse.</li><li><b>ResKV proposes fixed-budget KV compression</b> — The method preserves evicted-token attention contribution through residual statistics instead of simply dropping or merging cache entries.</li><li><b>Zero-Mem rethinks agent memory</b> — A new framework claims many memory operations can be done without extra LLM calls or token spend, shifting memory management outside generation.</li><li><b>WCM adds world-model critics to robot post-training</b> — The paper argues VLA reinforcement learning needs temporally grounded critics, not single-frame value estimation, for partially observed control.</li><li><b>Minnesota nudify-app ban survives xAI challenge</b> — A judge let the state's restriction move forward, underscoring how AI product risk is increasingly being shaped by state-level law.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-06.mp3" length="3582000" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-06</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 5, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships GPT-5.5 Instant as ChatGPT’s new default</b> — OpenAI says the model cuts hallucinated claims sharply while preserving low latency, making the quality-speed frontier more interesting for production deployments.</li><li><b>US government expands pre-release model reviews</b> — Google DeepMind, Microsoft, and xAI will let Commerce’s CAISI evaluate frontier models before public launch, signaling a more operational phase of AI governance.</li><li><b>OpenAI details its low-latency voice stack</b> — The company published how it rebuilt its WebRTC path for real-time voice, highlighting that infrastructure and networking are now core product differentiators.</li><li><b>Security researchers jailbreak Claude via persona manipulation</b> — Mindgard says it elicited prohibited outputs including explosives guidance, reinforcing that alignment style and conversational framing remain attack surfaces.</li><li><b>Sierra raises $950 million for enterprise AI</b> — The massive round suggests investors increasingly believe the application layer—especially customer operations—can capture durable value, not just foundation model vendors.</li><li><b>Cerebras heads toward a blockbuster IPO</b> — The AI chip company is reportedly tracking toward a valuation above $26 billion, adding heat to the inference infrastructure and sovereign compute narrative.</li><li><b>Pennsylvania sues Character.AI over alleged doctor impersonation</b> — The case is an important reminder that consumer AI safety failures are moving from abstract concern to regulated liability, especially in health-adjacent use.</li><li><b>Publishers sue Meta over Llama training data</b> — A new class action from major publishers keeps pressure on the training-data stack and could shape economics for future open-model development.</li></ul>]]></description>
-      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-05.mp3" length="3462624" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-05</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
