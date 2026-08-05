@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 14:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:16:46 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 5, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic moves into custom silicon and locks in more cloud</b> — Anthropic is hiring a chip design team while reportedly signing a $10 billion capacity deal with Volta, signaling tighter model-hardware co-design and a scramble for differentiated inference economics.</li><li><b>Texas slows AI buildout with mandatory data center grid audits</b> — New audits for data center grid connections in Texas are the clearest sign yet that power availability is becoming a first-order governor on AI deployment speed.</li><li><b>AMD data center revenue surges again</b> — AMD posted another strong quarter with data center revenue at $6.7 billion, reinforcing that accelerator demand remains broadening beyond a single-vendor story.</li><li><b>Open-weight capability closes in on frontier models while safety lags</b> — A new SaferAI analysis says Z.ai’s open-weight GLM-5.2 is nearing frontier-class performance without comparable safeguards, sharpening the open-versus-governed deployment debate.</li><li><b>Test-time scaling research gets more rigorous</b> — New papers argue that ‘more inference compute’ is too crude a framing, separating reasoning regimes and proposing adaptive sampling so teams can compare cost, latency, and accuracy honestly.</li><li><b>Tool-using agents get finer-grained training signals</b> — TurnSight and ReflectRL propose better credit assignment for long-horizon tool use by learning from turn-level hindsight and even failed expert trajectories.</li><li><b>Cross-model KV cache transfer could cut cascade costs</b> — A new paper shows linear mappings can reuse prefills across model sizes in the same family, potentially making cost-quality routing much cheaper in production.</li><li><b>Hugging Face pushes small local agents with LFM2.5-2.6B</b> — A new local-agent stack highlights how much useful agency is moving onto commodity hardware, especially for privacy-sensitive and edge deployments.</li></ul>]]></description>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-05.mp3" length="1955520" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-05</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Alibaba launches Qwen3.8-Max</b> — Alibaba says its new flagship model rivals top US frontier systems and is making it broadly available, intensifying the open-versus-closed and US-versus-China race.</li><li><b>OpenAI details turnless realtime voice stack</b> — The company published how it built a low-latency continuous voice system in six months, offering rare engineering detail on interruption handling and streaming inference.</li><li><b>Hugging Face pushes local agents with LFM2.5-2.6B</b> — A compact 2.6B model is aimed at on-device or edge agent deployment, signaling that useful agentic behavior is moving down-market in model size and cost.</li><li><b>EU AI transparency rules take effect</b> — New obligations now require disclosure for chatbot interactions and AI-generated or manipulated content, turning provenance and labeling into implementation work, not policy talk.</li><li><b>AWS backs private-cloud deployment of Superblocks</b> — AWS is letting the vibe-coding platform run inside customer private clouds, a notable move toward model-agnostic enterprise app generation with tighter data control.</li><li><b>Runware unveils modular inference pod</b> — Runware introduced a portable modular AI data center concept, reflecting demand for faster-to-deploy inference capacity outside traditional hyperscale buildouts.</li><li><b>New memory architectures target long-running agents</b> — Fresh papers on LiveMem and PRECOG attack persistent state and retrieval cost, pointing to more durable agent memory beyond brute-force context stuffing.</li><li><b>Benchmarks expose failure modes in agentic reasoning</b> — New work on SWE-Touch, MedPRESS, and shortcut-hacking in science benchmarks shows how current evaluations still miss shared-workspace coding, pressure-induced sycophancy, and false-positive reasoning scores.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-07.mp3" length="3272688" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-07</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 6, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships GPT-5.5 Instant as ChatGPT default</b> — New low-latency default model claims sharply lower hallucination rates in high-stakes domains while preserving speed.</li><li><b>OpenAI opens MRC networking protocol for training clusters</b> — A new multipath transport design aims to improve resilience and throughput in large-scale AI supercomputer networks.</li><li><b>Google accelerates Gemma 4 with future-token prediction</b> — DeepMind says a decoding change delivers up to 3x inference speed without quality loss, a notable efficiency gain for open models.</li><li><b>Genesis AI goes full stack in robotics</b> — The well-funded startup unveiled GENE-26.5 alongside dexterous hand demos, signaling tighter integration of foundation models and robot hardware.</li><li><b>DeepMind teams with EVE Online for agent evaluation</b> — The partnership turns a complex MMO into a persistent benchmark environment for planning, coordination, and economic behavior.</li><li><b>DeepSeek reportedly seeks first outside funding at $45B</b> — The fundraising would formalize one of the most important new competitors built around low-cost frontier model development.</li><li><b>AI infrastructure trade broadens as Samsung tops $1T and SpaceX eyes Terafab</b> — Capital markets are rewarding AI semiconductor exposure while new manufacturing ambitions point to vertical integration at unprecedented scale.</li><li><b>Regulatory and platform pressure builds around consumer AI</b> — Pennsylvania sued Character.AI over a bot posing as a doctor, while Apple agreed to a $250 million Siri AI settlement.</li></ul>]]></description>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-06.mp3" length="3582000" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-06</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
