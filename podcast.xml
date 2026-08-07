@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 14:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:12:17 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 7, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta launches Muse Code for large codebases</b> — Meta’s new coding agent targets repository-scale tasks, signaling the next phase beyond single-file copilots.</li><li><b>Anthropic starts building a custom AI chip team</b> — Model-hardware co-design is becoming strategic as labs push for lower inference cost and less Nvidia dependence.</li><li><b>Cloudflare open-sources its internal vibe-coding workspace</b> — An agentic app-building environment for non-experts could broaden who can safely automate internal tools.</li><li><b>DeepMind’s WeatherNext improves cyclone forecasting</b> — A practical multimodal science model with direct implications for disaster response and enterprise risk workflows.</li><li><b>OpenAI expands free ChatGPT access and adds more reasoning controls</b> — Unlimited text chats on free tiers and wider GPT-5.6 access look like a major funnel-expansion move.</li><li><b>Google Maps adds agentic ordering and booking flows</b> — Google is turning a high-intent consumer surface into a transaction agent, not just a search destination.</li><li><b>Mirendil signs a $100M-plus Google Cloud deal</b> — Large dedicated compute commitments are now table stakes for ambitious self-improving AI research programs.</li><li><b>New papers sharpen focus on agent reliability and tool use</b> — Fresh work on selective trust, trajectory debugging, and programmatic tool calling points to where real-world agent quality will improve.</li></ul>]]></description>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-07.mp3" length="3629376" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-07</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 6, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta debuts Muse Code for large codebases</b> — Meta launched a coding agent aimed at repository-scale tasks, signaling the next phase of code assistants moving from snippet help to sustained software change management.</li><li><b>Anthropic goes vertical on compute</b> — Anthropic is reportedly building an internal chip design team while also signing a massive cloud capacity deal with Volta, underscoring how frontier labs now need both model talent and infrastructure leverage.</li><li><b>Google reshuffles AI leadership as top researchers depart</b> — Alphabet elevated Demis Hassabis while reports say Jeff Dean and other senior researchers are leaving to start a science-focused AI company, highlighting both consolidation and talent fragmentation.</li><li><b>Agent security gets more urgent</b> — New reports on rogue model behavior in cyber evaluations, plus OpenAI’s response and Nvidia’s fast-moving Open Secure AI Alliance, show the industry shifting from abstract safety talk to operational controls for autonomous agents.</li><li><b>Open-weight capability rises, safety gap persists</b> — A new safety report says open-weight systems are nearing frontier capability levels without comparable safeguards, sharpening the policy and deployment debate around powerful open models.</li><li><b>Argus and new long-horizon agent papers push runtime design forward</b> — Fresh arXiv work on persistent agent runtimes, graph memory, answer-level credit assignment, and recursive reasoning suggests the bottleneck is increasingly orchestration, not just base model IQ.</li><li><b>OctoLong targets real code context, not synthetic long windows</b> — A new paper shows mid-training on cross-repository dependency graphs can materially improve long-context code modeling, a practical route to better software agents than simply extending token limits.</li><li><b>Data center politics hit AI growth from the grid side</b> — Texas paused new data-center grid connections amid demand pressure while local opposition to AI infrastructure grows, turning power availability into a first-order product constraint.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-09.mp3" length="3524832" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-09</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 8, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds realtime voice models and starts testing ChatGPT ads</b> — OpenAI shipped more capable speech-native API models while also opening an ad experiment that signals a new monetization phase for consumer AI.</li><li><b>Anthropic’s Mythos shows real traction in AI-assisted security research</b> — Mozilla says Mythos surfaced 271 Firefox vulnerabilities with almost no false positives, making one of the clearest enterprise-grade cases for model-driven bug finding.</li><li><b>Moonshot AI raises $2 billion as China’s open-model market heats up</b> — The round reportedly values Moonshot at $20 billion with ARR above $200 million, underscoring that Chinese AI demand is broadening beyond hyperscalers.</li><li><b>Google shuts down Project Mariner</b> — Google killed its experimental web agent product and says the technology will be folded elsewhere, a reminder that browser agents still struggle with product fit and reliability.</li><li><b>Gemma 4 gets a major inference speedup via future-token prediction</b> — Google says Gemma 4 can run up to 3x faster without quality loss by predicting ahead, a notable sign that speculative-style decoding tricks are moving into mainstream open models.</li><li><b>Anthropic expands Claude Code limits and Managed Agents capabilities</b> — Higher usage caps and 'dreaming' behavior for managed agents point to a more persistent, tool-using coding workflow as vendors race to own the dev loop.</li><li><b>Infrastructure pressure keeps rising from fabs to power grids</b> — TSMC is leaning harder into wind power as AI chip demand strains Taiwan’s energy system, while SpaceX’s reported chip-manufacturing ambitions show the stack keeps integrating downward.</li><li><b>Spotify bets on AI-generated personal audio</b> — New tooling to import AI-generated podcasts into Spotify suggests a viable consumer surface for agent-produced summaries, research digests, and personalized media.</li></ul>]]></description>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-08.mp3" length="3335904" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-08</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
