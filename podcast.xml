@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 13:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:55:58 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pauses Astra over cyber-risk threshold</b> — OpenAI says an in-development model showed enough offensive cyber capability to trigger a development slowdown and tighter safeguards.</li><li><b>DeepMind’s WeatherNext advances cyclone forecasting</b> — The open model reportedly improves hurricane prediction while using lower-resolution weather inputs, a notable efficiency and science result.</li><li><b>Anthropic moves toward custom Claude hardware</b> — Anthropic is reportedly designing its own hardware, signaling a deeper vertical-integration push beyond dependence on Nvidia.</li><li><b>Cloudflare launches agent browser and open-sources workspace</b> — Cloudflare is leaning into agent infrastructure with Kitesurf, a browser for AI agents, alongside an open-source internal agent workspace.</li><li><b>OpenAI expands free ChatGPT usage</b> — Unlimited text chats for free and Go tiers suggest falling inference costs and a more aggressive funnel strategy.</li><li><b>ByteDance reportedly trains a 10-trillion-parameter model</b> — TikTok’s parent is said to be building an enormous model to compete with Anthropic and OpenAI, underscoring the scale race.</li><li><b>Rippling productizes AI spend governance</b> — After its own AI bill shock, Rippling launched tooling to track employee-level AI usage and ROI, reflecting a new enterprise control layer.</li><li><b>New papers target agent reliability and evaluation efficiency</b> — Recent arXiv work highlights selective context trust, long-horizon agent debugging, and much cheaper statistically sound agent evaluation.</li></ul>]]></description>
+      <pubDate>Sat, 08 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-08.mp3" length="3561840" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta launches Muse Code for large codebases</b> — Meta’s new coding agent targets repository-scale tasks, signaling the next phase beyond single-file copilots.</li><li><b>Anthropic starts building a custom AI chip team</b> — Model-hardware co-design is becoming strategic as labs push for lower inference cost and less Nvidia dependence.</li><li><b>Cloudflare open-sources its internal vibe-coding workspace</b> — An agentic app-building environment for non-experts could broaden who can safely automate internal tools.</li><li><b>DeepMind’s WeatherNext improves cyclone forecasting</b> — A practical multimodal science model with direct implications for disaster response and enterprise risk workflows.</li><li><b>OpenAI expands free ChatGPT access and adds more reasoning controls</b> — Unlimited text chats on free tiers and wider GPT-5.6 access look like a major funnel-expansion move.</li><li><b>Google Maps adds agentic ordering and booking flows</b> — Google is turning a high-intent consumer surface into a transaction agent, not just a search destination.</li><li><b>Mirendil signs a $100M-plus Google Cloud deal</b> — Large dedicated compute commitments are now table stakes for ambitious self-improving AI research programs.</li><li><b>New papers sharpen focus on agent reliability and tool use</b> — Fresh work on selective trust, trajectory debugging, and programmatic tool calling points to where real-world agent quality will improve.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10.mp3" length="3611376" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 9, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds voice intelligence to the API</b> — New speech features push the stack toward lower-latency, production-grade voice agents for support, education, and creator workflows.</li><li><b>OpenAI details how it runs Codex safely</b> — The company published a practical blueprint for secure coding agents built around sandboxing, approvals, network controls, and telemetry.</li><li><b>Mozilla says Anthropic’s Mythos found 271 Firefox flaws</b> — AI-assisted bug hunting is moving from demo to operational security tooling, with Mozilla claiming very low false positives.</li><li><b>Moonshot AI raises $2 billion at a $20 billion valuation</b> — The China AI market continues to scale fast, with Moonshot citing more than $200 million in annualized revenue and strong open-source demand.</li><li><b>Perplexity opens its Mac agent to everyone</b> — Its desktop ‘Personal Computer’ expands the market test for consumer-side computer-use agents beyond waitlists and demos.</li><li><b>Cloudflare says AI made 1,100 jobs obsolete</b> — A profitable infrastructure company is explicitly attributing broad support-role cuts to AI-driven productivity gains.</li><li><b>SpaceX plans a massive Texas AI chip facility</b> — A reported $55 billion ‘Terafab’ project underscores how AI competition is extending beyond model labs into semiconductor manufacturing capacity.</li><li><b>CyberSecQwen-4B argues for small, local security models</b> — Hugging Face highlights a specialized 4B cyber model, reinforcing the case that domain-tuned local models can beat generic giants on sensitive tasks.</li></ul>]]></description>
-      <pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-09.mp3" length="3524832" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-09</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
