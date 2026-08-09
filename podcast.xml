@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 12:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:58:30 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 9, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI slows Astra over cyber-risk threshold</b> — OpenAI says an in-development model crossed an internal critical cybersecurity capability line, prompting a pause and tighter safeguards.</li><li><b>Cloudflare launches Kitesurf for agent browsing</b> — A cloud-hosted browser optimized for AI agents aims to cut overhead versus full Chromium in web automation workloads.</li><li><b>DeepMind’s WeatherNext impresses forecasters</b> — Open-source weather modeling shows strong hurricane prediction performance using lower-resolution inputs, a notable efficiency win for scientific AI.</li><li><b>ByteDance trains a 10-trillion-parameter model</b> — TikTok’s parent is reportedly building a massive model to compete more directly with Anthropic-class frontier systems.</li><li><b>Amazon Texas data center raises power and emissions alarm</b> — A planned West Texas site backed by on-site generation could become one of the country’s largest single climate pollution sources.</li><li><b>OpenAI acquires presentation startup NextSlide</b> — The deal folds a presentation-creation team into ChatGPT, signaling continued expansion from chat into workflow-native productivity surfaces.</li><li><b>Programmatic tool calling beats JSON in new study</b> — An arXiv evaluation argues that letting models write code to orchestrate tools is often more effective than rigid native function-calling schemas.</li><li><b>Selective trust and agent debugging emerge as key research themes</b> — New papers target two practical pain points: knowing when external context should be trusted and tracing root-cause errors in long-horizon agent runs.</li></ul>]]></description>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-09.mp3" length="3552624" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-09</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 8, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pauses Astra over cyber-risk threshold</b> — OpenAI says an in-development model showed enough offensive cyber capability to trigger a development slowdown and tighter safeguards.</li><li><b>DeepMind’s WeatherNext advances cyclone forecasting</b> — The open model reportedly improves hurricane prediction while using lower-resolution weather inputs, a notable efficiency and science result.</li><li><b>Anthropic moves toward custom Claude hardware</b> — Anthropic is reportedly designing its own hardware, signaling a deeper vertical-integration push beyond dependence on Nvidia.</li><li><b>Cloudflare launches agent browser and open-sources workspace</b> — Cloudflare is leaning into agent infrastructure with Kitesurf, a browser for AI agents, alongside an open-source internal agent workspace.</li><li><b>OpenAI expands free ChatGPT usage</b> — Unlimited text chats for free and Go tiers suggest falling inference costs and a more aggressive funnel strategy.</li><li><b>ByteDance reportedly trains a 10-trillion-parameter model</b> — TikTok’s parent is said to be building an enormous model to compete with Anthropic and OpenAI, underscoring the scale race.</li><li><b>Rippling productizes AI spend governance</b> — After its own AI bill shock, Rippling launched tooling to track employee-level AI usage and ROI, reflecting a new enterprise control layer.</li><li><b>New papers target agent reliability and evaluation efficiency</b> — Recent arXiv work highlights selective context trust, long-horizon agent debugging, and much cheaper statistically sound agent evaluation.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-11.mp3" length="3575520" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-11</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 10, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia’s $40B AI investment spree accelerates</b> — Nvidia is doubling down as both chip supplier and capital allocator, deepening its leverage across the AI stack.</li><li><b>Cloudflare ties first major layoffs to AI efficiency gains</b> — The company says automation eliminated the need for roughly 1,100 roles even as revenue hit record levels.</li><li><b>Enterprise AI dealmaking heats up</b> — Anthropic and OpenAI are pushing enterprise deployment structures while incumbents like SAP reportedly spend aggressively on startup acquisitions.</li><li><b>EMO explores MoE pretraining for modularity</b> — A new Hugging Face paper argues mixture-of-experts training can induce cleaner specialization and more modular internal behavior.</li><li><b>OncoAgent targets privacy-preserving clinical decision support</b> — A dual-tier multi-agent framework aims to keep oncology workflows useful while respecting data sensitivity constraints.</li><li><b>Sony signals deeper AI use in game development</b> — PlayStation leadership frames AI as a productivity tool, likely increasing content throughput and market saturation.</li><li><b>India remains a proving ground for voice AI</b> — Wispr Flow says Hinglish support is driving growth, highlighting the hard engineering behind multilingual speech products.</li><li><b>AI data center backlash keeps growing</b> — Infrastructure expansion is now colliding more visibly with grid constraints, community opposition, and power-cost politics.</li></ul>]]></description>
-      <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10.mp3" length="3611376" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-10</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
