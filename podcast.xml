@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 13:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:20:06 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 13, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google pushes Gemini to 1 billion users</b> — Google says Gemini has crossed 1 billion monthly users, making it its fastest-growing product and signaling consumer AI has fully hit internet-scale.</li><li><b>Amazon defaults Twitch creators into AI training</b> — Twitch will use streams and channel content for Amazon model training unless creators opt out, sharpening the platform-data consent fight.</li><li><b>Grok Bot expands from chat to delegated work</b> — xAI’s new always-on Grok Bot positions AI as an assignable cloud teammate that can operate apps and complete multi-step tasks.</li><li><b>DeepMind ships sign-language-to-text features</b> — Google DeepMind introduced SL2T, bringing sign-language AI into user-facing products and showing multimodal models moving into real accessibility workflows.</li><li><b>New benchmark targets enterprise agent tool use</b> — The VAKRA paper benchmarks multi-hop reasoning across APIs, retrieval, and policy constraints, which is much closer to real enterprise agent workloads.</li><li><b>Test-time scaffolding shows strong-to-weak transfer</b> — A new paper argues bigger models can improve smaller ones at inference time by building harnesses, without parameter updates or classic distillation.</li><li><b>Long-context training may weaken stored knowledge</b> — The Information Abundance Paradox paper suggests abundant context can reduce incentive for parametric internalization, a notable warning for long-context model design.</li><li><b>Cognition, Lovable, and River AI fuel valuation surge</b> — A fresh wave of mega-rounds and eye-watering valuations suggests capital is concentrating around coding agents and personal-agent platforms despite frothy pricing.</li></ul>]]></description>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-13.mp3" length="3677040" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-13</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 12, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google says Gemini hits 1 billion users</b> — Google claims Gemini is now its fastest-growing product, with heavy voice and image usage signaling real consumer-scale multimodal adoption.</li><li><b>OpenAI starts testing ads in ChatGPT</b> — OpenAI is opening a new monetization path for free-tier usage while promising labeling, privacy controls, and answer independence.</li><li><b>OpenAI pushes Daybreak cyber models into AWS</b> — Daybreak’s cybersecurity-focused models are now available through Amazon Bedrock, a notable distribution move into enterprise security workflows.</li><li><b>River AI raises $1.1 billion out of the gate</b> — Igor Babuschkin’s new startup lands an unusually large seed-stage round to pursue personal AI agents, underscoring investor appetite for agent-native platforms.</li><li><b>Anthropic expands text watermarking and shows math progress</b> — Anthropic is pairing provenance tooling with claims that an unreleased model contributed meaningful progress on frontier math problems.</li><li><b>Meta’s Glimmer hints at a new open-model strategy</b> — Meta’s latest open-weight model appears to reposition the company around more personal, ownable AI systems rather than pure chatbot catch-up.</li><li><b>New papers target agent memory bloat and GUI adaptation</b> — Fresh arXiv work tackles catastrophic remembering in coding agents and test-time self-improvement for GUI grounding without labeled data.</li><li><b>Surgical world-action models point to data-efficient robot learning</b> — A new robotics paper shows how abundant surgical video can substitute for scarce action labels by learning world models tied to manipulation.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-15.mp3" length="3656016" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-15</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 14, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic edges OpenAI in business payments data</b> — Ramp expense data suggests Anthropic now appears on more business cards than OpenAI, a notable signal in enterprise AI purchasing.</li><li><b>Notion turns the workspace into an agent runtime</b> — Notion launched a developer platform for connecting agents, tools, data sources, and custom code directly inside the collaborative workspace.</li><li><b>OpenAI details Windows sandboxing for Codex</b> — OpenAI published how it built a constrained Windows execution environment for coding agents, highlighting the engineering path to safer local autonomy.</li><li><b>Hugging Face pushes asynchronous continuous batching</b> — A new serving write-up focuses on reducing idle time and improving throughput/latency tradeoffs in LLM inference with asynchronous scheduling.</li><li><b>Data marketplaces for world models are heating up</b> — Wirestock raised $23 million and Origin Lab raised $8 million to sell licensed multimodal and game-environment data into model training pipelines.</li><li><b>Amazon brings Alexa+ directly into search and shopping</b> — Amazon is embedding its LLM assistant into the retail search bar, turning product discovery into an agentic shopping workflow.</li><li><b>AI infrastructure collides with power and permitting</b> — xAI’s reported gas-turbine-heavy Mississippi expansion and broader rural data-center buildout underscore that power, not models, is often the real bottleneck.</li><li><b>Healthcare reimbursement may finally open for AI agents</b> — A new Medicare ACCESS payment model could create a mechanism to pay for between-visit AI-enabled care coordination and monitoring.</li></ul>]]></description>
-      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-14.mp3" length="3410784" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-14</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
