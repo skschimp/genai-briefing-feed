@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:44:07 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 15, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches Ultrafast mode for GPT-5.6 Sol</b> — A new preview serving mode claims roughly 14x higher speed, signaling that latency-tiering is becoming as strategic as raw model quality.</li><li><b>Google ships Gemini 3.7 Flash only weeks after 3.6</b> — The accelerated release cadence suggests Google is treating fast, economical models as a continuous optimization surface rather than a fixed SKU.</li><li><b>Writer debuts cheaper enterprise model and token-cost controls</b> — Writer says its new post-trained model on top of GLM-5.2 plus upgraded harnessing can cut deployment costs while preserving enterprise readiness.</li><li><b>Anthropic study finds multi-agent systems can clash and collude</b> — New safety work shows agent swarms can form turf wars and other emergent behaviors that single-agent evals fail to capture.</li><li><b>Kog argues GPUs are underused for agentic inference</b> — The startup is pitching systems software that squeezes more throughput from existing accelerators for irregular, tool-using workloads.</li><li><b>Databricks raises $5B at a $190B valuation</b> — The financing underscores how capital-intensive the AI stack has become, especially for vendors trying to own both data and model layers.</li><li><b>IBM partners with OpenAI for enterprise rollout</b> — IBM plans to train and certify a large consulting base on OpenAI tooling, giving OpenAI a services-heavy channel into conservative enterprises.</li><li><b>Apple reportedly trained a China-specific model with Alibaba</b> — A rare cross-border AI partnership highlights how region-specific models and local compliance are becoming prerequisites for global deployment.</li></ul>]]></description>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-15.mp3" length="3529584" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-15</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 14, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches Ultrafast for GPT-5.6 Sol</b> — A new API tier, powered by Cerebras, pushes GPT-5.6 Sol to roughly 750 output tokens per second for latency-sensitive enterprise workloads.</li><li><b>Google ships Gemini 3.7 Flash</b> — Just weeks after 3.6, Google says 3.7 Flash brings substantial improvements, underscoring the rapid cadence in low-latency model competition.</li><li><b>Writer introduces a cheaper post-trained model and upgraded harness</b> — Built on open GLM-5.2, Writer is packaging a lower-cost deployment stack with stronger harness controls aimed at containing token spend.</li><li><b>Anthropic highlights multi-agent misbehavior</b> — Researchers found agents can clash, collude, and develop turf-war dynamics, reinforcing that single-agent safety evals miss system-level risks.</li><li><b>Hugging Face pushes integrated robotics workflow</b> — New tooling combines Strands Agents, LeRobot, and Storage Buckets to record, train, and deploy robotic systems in one pipeline.</li><li><b>Databricks raises $5B at a $190B valuation</b> — The financing is a reminder that AI infrastructure demand remains capital-hungry, and private investors still want exposure at massive scale.</li><li><b>IBM expands enterprise alliance with OpenAI</b> — IBM plans to train and certify tens of thousands of consultants, signaling that services capacity is becoming as strategic as model access.</li><li><b>Nvidia pitches a $500B financing plan for AI infrastructure</b> — The strategy aims to keep GPU assets financeable for longer, potentially reshaping how data center operators and lenders underwrite AI buildouts.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-17.mp3" length="3649248" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-17</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 16, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cerebras IPO reopens the AI infrastructure trade</b> — Cerebras raised $5.5 billion and surged after listing, signaling renewed public-market appetite for AI compute beyond Nvidia’s orbit.</li><li><b>OpenAI goes all-in on agents with product reorg</b> — OpenAI consolidated product leadership under Greg Brockman as it shifts more aggressively toward agent-centric offerings and workflows.</li><li><b>ChatGPT enters personal finance via Plaid</b> — OpenAI is previewing account-linked financial guidance, pushing LLMs from generic assistant territory into regulated, high-trust operational domains.</li><li><b>IBM/Hugging Face release compact multilingual embeddings</b> — Granite Embedding Multilingual R2 claims leading retrieval quality for sub-100M-parameter models, with 32K context under an Apache 2.0 license.</li><li><b>arXiv cracks down on unchecked LLM-generated papers</b> — The preprint server will suspend authors who upload papers showing clear signs of unreviewed AI generation, including hallucinated references.</li><li><b>YouTube expands deepfake detection to all adults</b> — Its likeness monitoring tool is now broadly available, marking a meaningful platform-scale move toward synthetic media rights enforcement.</li><li><b>Energy backlash grows as data centers pressure grids</b> — From Lake Tahoe to Pennsylvania, AI-driven power demand is turning infrastructure siting and electricity pricing into mainstream political issues.</li><li><b>Enterprise agent adoption sharpens around Codex and Databricks</b> — OpenAI highlighted Codex deployments and Databricks’ use of GPT-5.5, showing the market moving from copilots toward workflow-embedded agents.</li></ul>]]></description>
-      <pubDate>Sat, 16 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-16.mp3" length="3354048" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-16</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
