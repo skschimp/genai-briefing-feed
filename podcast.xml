@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 12:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:45:55 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 16, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic details Claude watermarking</b> — The company disclosed more about how its new watermarking survives edits, where it breaks, and why code output is handled differently.</li><li><b>OpenAI and Anthropic cut prices amid Chinese pressure</b> — Model pricing is compressing fast as US labs respond to stronger lower-cost competition and enterprise buyers push for commodity economics.</li><li><b>Meta’s Glimmer sharpens the open-versus-closed split</b> — Meta is pairing an open-weight release with a stronger closed model, reinforcing the emerging dual-track strategy across frontier labs.</li><li><b>Kog pitches deeper GPU utilization for agents</b> — The startup argues agentic workloads are not inherently hostile to GPUs if orchestration and memory movement are redesigned around them.</li><li><b>RMM proposes training-free LLM inference reduction</b> — A new paper shows input-adaptive matrix-product pruning can trade off speed and accuracy at inference time without changing weights.</li><li><b>DARTree advances speculative decoding with draft trees</b> — Research combines diffusion-style drafting with autoregressive tree correction to accelerate generation while preserving exact outputs.</li><li><b>QuoteBench exposes coding-agent command-path failures</b> — A benchmark isolates bugs introduced between model output and shell execution, showing how agents can look correct while failing in transport.</li><li><b>Vero tests whether agents can build verified software</b> — A new benchmark moves beyond single functions to evaluate if agents can generate multi-module repositories with machine-checked proofs.</li></ul>]]></description>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-16.mp3" length="4035744" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-16</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 15, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches Ultrafast mode for GPT-5.6 Sol</b> — A new preview serving mode claims roughly 14x higher speed, signaling that latency-tiering is becoming as strategic as raw model quality.</li><li><b>Google ships Gemini 3.7 Flash only weeks after 3.6</b> — The accelerated release cadence suggests Google is treating fast, economical models as a continuous optimization surface rather than a fixed SKU.</li><li><b>Writer debuts cheaper enterprise model and token-cost controls</b> — Writer says its new post-trained model on top of GLM-5.2 plus upgraded harnessing can cut deployment costs while preserving enterprise readiness.</li><li><b>Anthropic study finds multi-agent systems can clash and collude</b> — New safety work shows agent swarms can form turf wars and other emergent behaviors that single-agent evals fail to capture.</li><li><b>Kog argues GPUs are underused for agentic inference</b> — The startup is pitching systems software that squeezes more throughput from existing accelerators for irregular, tool-using workloads.</li><li><b>Databricks raises $5B at a $190B valuation</b> — The financing underscores how capital-intensive the AI stack has become, especially for vendors trying to own both data and model layers.</li><li><b>IBM partners with OpenAI for enterprise rollout</b> — IBM plans to train and certify a large consulting base on OpenAI tooling, giving OpenAI a services-heavy channel into conservative enterprises.</li><li><b>Apple reportedly trained a China-specific model with Alibaba</b> — A rare cross-border AI partnership highlights how region-specific models and local compliance are becoming prerequisites for global deployment.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18.mp3" length="3686832" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 17, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI puts Greg Brockman over product to push an agent-first stack</b> — OpenAI is consolidating ChatGPT and coding workflows as it reorganizes around AI agents and product integration.</li><li><b>ChatGPT moves into personal finance with Plaid-linked accounts</b> — OpenAI is previewing bank and brokerage connectivity, a major trust, compliance, and consumer-product expansion.</li><li><b>arXiv cracks down on unchecked LLM-written papers</b> — The preprint server will suspend authors for a year when submissions show clear evidence of unreviewed AI-generated content.</li><li><b>YouTube expands deepfake likeness detection to all adults</b> — The platform is broadening facial-match monitoring, signaling a more operational phase of synthetic media governance.</li><li><b>Google classifies attempts to manipulate AI Search as spam</b> — Google updated search policy to treat efforts to game AI Overviews and AI Mode as spam, with implications for SEO and content pipelines.</li><li><b>Runway argues video generation is the path to world models</b> — The startup is positioning itself against larger labs by treating generative video as a route to simulation and agent understanding.</li><li><b>Power and permitting tensions rise as AI data center demand spreads</b> — Local backlash and higher electricity costs underscore that grid, siting, and transparency are becoming first-order AI constraints.</li><li><b>OpenAI partners with Malta on nationwide ChatGPT Plus access</b> — The deal reflects a growing pattern of country-scale AI distribution tied to training, skills development, and digital public services.</li></ul>]]></description>
-      <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-17.mp3" length="3649248" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-17</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
