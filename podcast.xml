@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 12:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:51:35 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 17, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Stripe reportedly moves on OpenRouter</b> — A reported $7B-plus deal would put an API-routing layer for model access inside a global payments and developer platform.</li><li><b>Anthropic details Claude text watermarking</b> — Claude’s marking scheme appears to adapt SynthID-style probabilistic text watermarking to satisfy EU transparency rules, with important limits for edited text and code.</li><li><b>OpenAI said to disband preparedness team</b> — Risk evaluation responsibilities are reportedly being redistributed, raising governance questions as autonomous-agent capability keeps advancing.</li><li><b>ChatGPT adds Computer History on macOS</b> — OpenAI is pushing from chat interface toward continuous desktop context capture, turning user activity into memory and potential automation substrate.</li><li><b>SpaceX closes Cursor acquisition</b> — The deal is now official, signaling that elite coding-agent talent is becoming strategic infrastructure, not just software tooling.</li><li><b>Marionette proposes structured world modeling</b> — A new paper separates state prediction, geometry rendering, and appearance generation to improve long-horizon consistency in interactive environments.</li><li><b>Twin explores test-time digital twins for unknown games</b> — An agent that writes an executable world model during inference points toward more explicit simulation-based reasoning on ARC-like tasks.</li><li><b>You Only Pass Once combines answering and abstaining</b> — A frozen-model method shows how to improve reasoning while detecting insufficient evidence in a single forward pass, targeting hallucination control at inference time.</li></ul>]]></description>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-17.mp3" length="3541968" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-17</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 16, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic details Claude watermarking</b> — The company disclosed more about how its new watermarking survives edits, where it breaks, and why code output is handled differently.</li><li><b>OpenAI and Anthropic cut prices amid Chinese pressure</b> — Model pricing is compressing fast as US labs respond to stronger lower-cost competition and enterprise buyers push for commodity economics.</li><li><b>Meta’s Glimmer sharpens the open-versus-closed split</b> — Meta is pairing an open-weight release with a stronger closed model, reinforcing the emerging dual-track strategy across frontier labs.</li><li><b>Kog pitches deeper GPU utilization for agents</b> — The startup argues agentic workloads are not inherently hostile to GPUs if orchestration and memory movement are redesigned around them.</li><li><b>RMM proposes training-free LLM inference reduction</b> — A new paper shows input-adaptive matrix-product pruning can trade off speed and accuracy at inference time without changing weights.</li><li><b>DARTree advances speculative decoding with draft trees</b> — Research combines diffusion-style drafting with autoregressive tree correction to accelerate generation while preserving exact outputs.</li><li><b>QuoteBench exposes coding-agent command-path failures</b> — A benchmark isolates bugs introduced between model output and shell execution, showing how agents can look correct while failing in transport.</li><li><b>Vero tests whether agents can build verified software</b> — A new benchmark moves beyond single functions to evaluate if agents can generate multi-module repositories with machine-checked proofs.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19.mp3" length="3570480" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 18, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple leans into privacy with Siri chat auto-delete</b> — Apple’s reported Siri revamp may add auto-deleting chat histories, signaling privacy as a product differentiator in consumer AI.</li><li><b>ArXiv tightens rules on AI-written papers</b> — The research repository will reportedly ban authors for a year if they let AI do all the work, a notable governance move for scientific publishing.</li><li><b>PaddleOCR 3.5 pushes document AI on transformer rails</b> — The latest PaddleOCR release emphasizes OCR and document parsing with a transformers backend, reinforcing document intelligence as a practical GenAI stack.</li><li><b>Hugging Face launches an Open Agent Leaderboard</b> — A new benchmarking effort aims to compare agent systems more systematically, highlighting the industry’s shift from model evals to workflow evals.</li><li><b>Amazon turns Alexa+ into an on-demand podcast generator</b> — Amazon is expanding Alexa+ from assistant to personalized media engine by generating custom podcast episodes on request.</li><li><b>AI bug bounty programs are drowning in low-quality submissions</b> — Security researchers and bounty platforms are reportedly being swamped by AI-generated reports, creating operational drag and trust issues.</li><li><b>LetinAR bets optics will be the choke point for AI glasses</b> — The South Korean startup’s compact lens technology points to hardware optics, not just models, as a gating factor in wearable AI adoption.</li><li><b>AI backlash is becoming visible in public sentiment</b> — Student pushback during a commencement speech underscored growing social resistance to broad AI boosterism amid job-market anxiety.</li></ul>]]></description>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18.mp3" length="3686832" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-18</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
