@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 12:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:53:30 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 18, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic hits a $65B revenue run rate</b> — Anthropic reportedly added $18 billion in annualized revenue in two months, a striking signal that frontier-model monetization is concentrating fast.</li><li><b>Stripe reportedly moves to buy OpenRouter</b> — A reported $7B-plus acquisition would turn model routing and API aggregation into core payments-style infrastructure for the AI stack.</li><li><b>Groq raises $350M for its neocloud pivot</b> — Groq is leaning harder into managed inference capacity, including Nvidia-backed footprint expansion, rather than selling only its own silicon story.</li><li><b>Nvidia backs SoftBank data center developer tied to OpenAI</b> — A $1.5 billion investment underscores that the AI race is now as much about guaranteed power, land, and chip allocation as model quality.</li><li><b>Hugging Face details a 33-point utilization gain</b> — A new engineering write-up argues that job ordering and cluster scheduling discipline can unlock major training efficiency without adding hardware.</li><li><b>Robot manipulation paper tackles long-horizon failure</b> — BATON combines frozen VLA policies, an LLM planner, subtask exploration, and transition-aware memory to reduce error compounding in multi-stage robotics.</li><li><b>Proteus proposes incremental memory activation for long context</b> — The paper argues memory models should not expose full capacity from token one, reducing early-context pollution and preserving state for later information.</li><li><b>Audits question whether compliance detectors read the rules</b> — A new paper on 'rule blindness' suggests many output-guard and probe-based compliance systems may key off surface features rather than actual policy text.</li></ul>]]></description>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-18.mp3" length="3609792" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-18</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 17, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Stripe reportedly moves on OpenRouter</b> — A reported $7B-plus deal would put an API-routing layer for model access inside a global payments and developer platform.</li><li><b>Anthropic details Claude text watermarking</b> — Claude’s marking scheme appears to adapt SynthID-style probabilistic text watermarking to satisfy EU transparency rules, with important limits for edited text and code.</li><li><b>OpenAI said to disband preparedness team</b> — Risk evaluation responsibilities are reportedly being redistributed, raising governance questions as autonomous-agent capability keeps advancing.</li><li><b>ChatGPT adds Computer History on macOS</b> — OpenAI is pushing from chat interface toward continuous desktop context capture, turning user activity into memory and potential automation substrate.</li><li><b>SpaceX closes Cursor acquisition</b> — The deal is now official, signaling that elite coding-agent talent is becoming strategic infrastructure, not just software tooling.</li><li><b>Marionette proposes structured world modeling</b> — A new paper separates state prediction, geometry rendering, and appearance generation to improve long-horizon consistency in interactive environments.</li><li><b>Twin explores test-time digital twins for unknown games</b> — An agent that writes an executable world model during inference points toward more explicit simulation-based reasoning on ARC-like tasks.</li><li><b>You Only Pass Once combines answering and abstaining</b> — A frozen-model method shows how to improve reasoning while detecting insufficient evidence in a single forward pass, targeting hallucination control at inference time.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-20.mp3" length="3509280" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-20</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 19, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI and Dell take Codex on-prem</b> — OpenAI is pushing coding agents into hybrid enterprise stacks, signaling a serious move beyond pure SaaS deployment.</li><li><b>Anthropic acquires Stainless</b> — Anthropic bought the SDK automation startup used across major API platforms, strengthening its developer-distribution layer.</li><li><b>SandboxAQ brings drug discovery models to Claude</b> — Instead of asking pharma teams to adopt a separate stack, SandboxAQ is surfacing specialized scientific models through Anthropic’s interface.</li><li><b>Open Agent Leaderboard sharpens agent evals</b> — Hugging Face launched a benchmark effort focused on agentic performance, adding needed visibility into tool use and task completion.</li><li><b>PaddleOCR 3.5 expands document AI pipeline</b> — The updated open-source OCR stack adds stronger parsing with a transformers backend, useful for enterprise document workflows.</li><li><b>NVIDIA Cosmos fine-tuning for robot video generation</b> — A Hugging Face tutorial shows LoRA and DoRA adaptation on Cosmos Predict 2.5, highlighting lower-cost specialization for robotics simulation and video prediction.</li><li><b>Data-center power economics intensify</b> — A major utility megamerger underscores how AI demand is now materially reshaping grid planning, rates, and infrastructure politics.</li><li><b>US deepfake takedown law is now in force</b> — The new nonconsensual imagery removal regime has started, but implementation risks overreach and brittle moderation workflows.</li></ul>]]></description>
-      <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19.mp3" length="3570480" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-19</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
