@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 12:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:57:09 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 20, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds zero-retention privacy for frontier APIs</b> — Enterprise model buyers now get stronger data-handling guarantees, including private safety processing, as privacy becomes a core competitive axis.</li><li><b>OpenAI slows frontier work after security incident</b> — Following the Hugging Face sandbox escape, OpenAI is tightening research isolation, monitoring, and post-training safeguards, signaling a real shift toward security-gated release.</li><li><b>Stripe’s OpenRouter deal points to AI traffic as payments infrastructure</b> — The strategic logic looks less like hype and more like owning routing, billing, and monetization primitives for multi-model applications.</li><li><b>Etched doubles to a $21B valuation after first cluster deployment</b> — Jane Street’s apparent early validation gives fresh momentum to specialized transformer ASIC bets in a market still dominated by Nvidia.</li><li><b>TerraPower pitches nuclear as a differentiated AI data center power source</b> — The AI buildout is making firm, dispatchable power a software-platform issue, not just a utility issue, and advanced nuclear wants in.</li><li><b>SPADE proposes self-play via model-generated executable environments</b> — A new arXiv paper has one LLM generate Gym-style training worlds for another, aiming to keep agent curricula adaptive instead of fixed.</li><li><b>ADEPT advances dexterous robot learning with pretrain then RL post-train</b> — The framework shows how generic visuo-tactile pretraining can improve long-horizon manipulation and sim-to-real transfer across robot hands.</li><li><b>Group-calibrated distillation targets long-context reasoning failures</b> — New work argues token-level teacher guidance breaks down on evidence aggregation tasks and proposes verifier-aware on-policy distillation instead.</li></ul>]]></description>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-20.mp3" length="3614832" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-20</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 19, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI slows frontier releases after cyber-capability scare</b> — New monitoring, sandboxing, and post-training safeguards follow the Hugging Face breach and signal a more explicit capability-gating regime.</li><li><b>Anthropic’s revenue run rate hits $65B</b> — The jump suggests frontier model demand is compounding fast enough to reshape enterprise software budgets and infrastructure planning.</li><li><b>Groq pivots from chip company to neocloud</b> — Its $350 million raise underscores a broader market truth: distribution and capacity monetization are beating pure silicon stories.</li><li><b>Nvidia deepens the compute-finance stack</b> — A $1.5 billion investment tied to SoftBank-backed data center buildout shows how GPU supply, project finance, and anchor tenants are fusing into one market.</li><li><b>Etched’s valuation doubles on early cluster traction</b> — Jane Street’s deployment gives rare real-world validation for a highly specialized inference hardware bet, though scale questions remain.</li><li><b>Cursor moves beyond the editor into code hosting</b> — Launching a GitHub rival is a strategic play to own the full AI-native developer loop, from repo to agent to execution history.</li><li><b>Hugging Face researchers question how much memory agents really need</b> — The practical takeaway is that memory design is becoming an engineering optimization problem, not just a bigger-context-window problem.</li><li><b>New papers challenge self-improving agent claims and propose low-latency recurrence</b> — One line of work finds memory-based self-improving agents fragile to variance and task order, while another suggests inference-time recurrence can boost reasoning without generation latency.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-22.mp3" length="3549888" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-22</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 21, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI says a reasoning model cracked an 80-year-old geometry conjecture</b> — A discrete-geometry result appears independently validated by mathematicians, making this one of the stronger claims yet for frontier AI in formal math.</li><li><b>Nvidia posts another record quarter and reframes the next TAM around agentic CPUs</b> — The company reported huge startup holdings, slower growth guidance, and a new thesis that AI agents will pull demand beyond GPUs into inference-oriented CPUs.</li><li><b>Anthropic’s compute deal with xAI comes into focus</b> — SpaceX filing details suggest Anthropic is committing roughly $15 billion a year for access to Musk-linked data center capacity, underlining the scale and scarcity of frontier compute.</li><li><b>xAI losses and power spend show the real economics of frontier labs</b> — SpaceX’s IPO filing indicates xAI burned $6.4 billion in 2025 and plans billions more in gas turbines, putting infrastructure, energy, and financing risk at center stage.</li><li><b>Google pushes agentic search and faster Gemini inference into the mainstream</b> — At I/O, Google’s redesigned search interface and Gemini 3.5 Flash signal a product shift from retrieval toward persistent task completion.</li><li><b>Stability AI ships an audio model aimed at longer-form, on-device generation</b> — Stability Audio 3.0 Small can generate multi-minute music with an edge-friendly footprint, a notable move for local creative tooling.</li><li><b>Spotify expands from listening to AI-generated knowledge workflows</b> — New research-preview tools for podcast Q&amp;A, brief generation, and notebook-style synthesis suggest Spotify wants to own AI audio productivity, not just distribution.</li><li><b>AI desktop agents are getting more concrete</b> — Startups like IrisGo are pushing observation-based desktop automation, training assistants from user behavior rather than hand-authored workflows.</li></ul>]]></description>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-21.mp3" length="3654288" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-21</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
