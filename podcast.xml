@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 12:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:45:20 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 22, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Harnesses, not just models, are driving agent performance</b> — Nvidia-backed work and fresh arXiv results both point to orchestration and validation loops as the new leverage point for reliable agents.</li><li><b>Adaptive reasoning is becoming a first-class inference primitive</b> — A new paper shows models can learn to choose when not to think, think briefly, or spend more test-time compute.</li><li><b>CPU-first language models get more credible</b> — Daedalus-150M proposes a conv-attention hybrid explicitly designed for 4-bit CPU inference instead of GPU-downscaled deployment.</li><li><b>Tool-use mid-training is emerging as a practical recipe</b> — MidTool describes a synthetic corpus pipeline aimed at strengthening general agentic tool use during the mid-training phase.</li><li><b>Model routing is moving from product feature to decision theory</b> — Pandora’s AI Model Routing Box formalizes the cost-quality tradeoff in routing across heterogeneous model stacks.</li><li><b>Enterprise model loyalty still looks weak</b> — New usage data suggests OpenAI is gaining on Anthropic with business users, underscoring how quickly buyers switch as model quality moves.</li><li><b>Nvidia keeps pushing deeper into AI infrastructure</b> — Its partnership with Cloverleaf reinforces that compute supply, not just chips, remains central to the AI value chain.</li><li><b>Training data vendors are scaling into major businesses</b> — Micro1 reportedly hit a $500 million gross run rate, a sign that labeled and human-in-the-loop data remains a bottleneck worth real money.</li></ul>]]></description>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-22.mp3" length="3302352" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-22</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 21, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI expands zero-retention for frontier APIs</b> — OpenAI is sharpening the enterprise privacy race with zero data retention and private safety processing for advanced models.</li><li><b>Business AI seat share remains highly fluid</b> — New usage data suggests enterprise buyers are switching between OpenAI and Anthropic more readily than many assumed.</li><li><b>Stripe’s OpenRouter logic goes beyond model access</b> — The strategic value looks less like singularity theater and more like owning the control plane for AI commerce and routing.</li><li><b>Ramp launches its own model router</b> — Ramp is productizing multi-model selection inside finance workflows, signaling routers are becoming application primitives.</li><li><b>Hugging Face touts faster inference with LFM2.5-DSpark</b> — A new optimization push claims up to 3.2x faster inference, underscoring how software efficiency is still yielding real gains.</li><li><b>Researchers probe adaptive test-time compute</b> — A new paper shows models can learn to choose no-think, short, or long reasoning modes instead of burning a fixed token budget.</li><li><b>CPU-first small model design gets more serious</b> — Daedalus-150M proposes a conv-attention hybrid built from scratch for 4-bit CPU inference rather than GPU-first downscaling.</li><li><b>Model routing theory catches up with practice</b> — New work frames routing as a costly value-estimation problem, a useful lens as vendors rush to ship multi-model control planes.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-24.mp3" length="3623184" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-24</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 23, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Diffusion language models push for faster text generation</b> — Nemotron-Labs argues diffusion-based text generation can close the latency gap with autoregressive decoding while opening a different scaling path.</li><li><b>Google broadens multimodal generation beyond text-in, text-out</b> — I/O follow-through continues to show Google betting on anything-to-anything generation and agentic interfaces as the next platform layer.</li><li><b>Enterprise coding agents move from demo to delivery</b> — Anthropic’s developer event and OpenAI’s enterprise customer stories both point to coding agents becoming a measurable software delivery tool.</li><li><b>AI safety regulation in Washington hits another delay</b> — The White House postponed an executive order that would have required pre-release security reviews for frontier models, signaling a softer near-term regulatory posture.</li><li><b>Spotify and Universal formalize licensed AI remixes</b> — The deal creates a paid path for fan-made AI covers and remixes with artist opt-in and revenue sharing, an important licensing template for generative media.</li><li><b>Mental-health AI startup The Path claims strong safety benchmark results</b> — The company says its model scores well on Vera-MH, highlighting the rise of domain-tuned, safety-evaluated vertical AI instead of general chatbots.</li><li><b>Hark lands a huge Series A for a multimodal interface play</b> — A $700 million round for a secretive universal AI interface startup shows investor appetite for new consumer AI shells beyond the incumbent app stack.</li><li><b>SpaceX and xAI color the infrastructure debate with gas and orbital compute</b> — The latest reporting frames Musk’s AI strategy around energy realism, datacenter scarcity, and unconventional infrastructure bets rather than pure model differentiation.</li></ul>]]></description>
-      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-23.mp3" length="3762864" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-23</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
