@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 12:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:57:14 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 24, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Inherent claims agent lead in paper replication</b> — DeepMind alumni startup Inherent says its Faraday agent outperformed OpenAI and Anthropic systems on reproducing scientific results, pushing autonomous research agents closer to practical lab workflows.</li><li><b>VIALS exposes a biotech multimodal gap</b> — A new benchmark built from real life-science artifacts shows frontier vision-language models still struggle with domain-specific visual interpretation outside polished internet imagery.</li><li><b>Agent memory poisoning looks harder to stop than prompt injection</b> — New research shows tiny amounts of false memories can crater long-horizon agent accuracy, while common screening and provenance defenses fail to catch the poisoned entries.</li><li><b>Memory-augmented CoT compression targets inference cost</b> — A training-free approach proposes reusable reasoning memories to cut chain-of-thought token overhead while preserving performance on complex reasoning tasks.</li><li><b>E2-TTT improves test-time training efficiency</b> — A new long-context inference method derives an exact chunk-level state update that aims to keep per-token expressivity without sacrificing hardware-friendly parallelism.</li><li><b>RARE tackles steering in mixture-of-experts models</b> — Researchers show representation steering can disrupt MoE routing and introduce a router-agnostic method that preserves expert selection while still controlling behavior.</li><li><b>OpenAI backs tougher California safety rules</b> — In a notable policy pivot, OpenAI says California should strengthen SB 53, signaling a more accommodating stance toward state-level AI regulation.</li><li><b>Ox Alpha speculation highlights appetite for new frontier entrants</b> — Buzz around the mysterious Ox Alpha model says less about the model itself so far and more about how hungry the market is for credible alternatives to the current frontier incumbents.</li></ul>]]></description>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-24.mp3" length="3462192" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-24</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 23, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Inherent claims research-replication lead with Faraday agent</b> — The DeepMind-alumni startup says its agent beats OpenAI and Anthropic on replicating scientific papers, putting reproducibility at the center of agent evaluation.</li><li><b>Nvidia argues harness design now matters more than raw model strength</b> — New research suggests agent performance and stability can improve dramatically through orchestration and fine-tuning even when the base model is not state of the art.</li><li><b>Adaptive reasoning paper targets test-time compute efficiency</b> — A new arXiv study trains models to choose between no-think, short, or long reasoning modes, aiming to spend compute only where difficulty warrants it.</li><li><b>MidTool proposes mid-training corpus for general tool use</b> — Researchers introduce a synthetic-plus-real data pipeline for strengthening agentic tool use during the increasingly important mid-training phase.</li><li><b>CPU-first small model Daedalus-150M uses hybrid conv-attention design</b> — The model keeps full attention in only a third of layers, showing a hardware-aware path for local inference on ordinary CPUs with 4-bit weights.</li><li><b>Task-CoEvolve cuts agent-harness optimization costs</b> — The paper adaptively changes validation tasks during harness iteration, reducing evaluation waste while preserving signal for agent improvement.</li><li><b>Nvidia deepens data center buildout with Cloverleaf partnership</b> — The deal reinforces that AI competition is now as much about power, land, and interconnects as it is about model quality.</li><li><b>OpenAI backs stronger California AI safety rules</b> — OpenAI’s support for strengthening SB 53 marks another sign that frontier labs are shifting from blanket resistance toward shaping the regulatory perimeter.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26.mp3" length="3564720" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 25, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Papal AI encyclical reframes the debate</b> — Pope Leo XIV’s first encyclical treats AI as a symptom of concentrated power, labor disruption, and weakened democratic accountability rather than a standalone technology problem.</li><li><b>Prompt injection evolves into persona-layer exploitation</b> — Security researchers and attackers are increasingly targeting the behavioral scaffolding around chatbots, not just raw model instructions.</li><li><b>Google’s AI security posture reflects an industry-wide transition</b> — Even hyperscalers are still building real-time controls for agentic systems, showing how immature AI-native security and governance stacks remain.</li><li><b>Amazon’s Bee wearable tests ambient AI’s next interface</b> — An always-listening assistant form factor is resurfacing, with utility tied directly to whether privacy, consent, and on-device processing can catch up.</li></ul>]]></description>
-      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-25.mp3" length="3443472" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-25</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
