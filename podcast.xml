@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 12:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:55:15 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 25, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>4-bit model beats its full-precision parent</b> — Hugging Face researchers claim quantization-aware healing can make a compressed 4-bit model outperform the original dense checkpoint, challenging the usual quality-versus-cost tradeoff.</li><li><b>Critic training may be back on the table for RLHF-style tuning</b> — A new arXiv recipe called BPCO argues token-level critics can be trained stably enough to beat group-sampling methods while cutting rollout cost.</li><li><b>Coding agents get a benchmark for real repo migrations</b> — SWE Refactor Bench focuses on long-horizon whole-codebase refactors and closes a loophole where agents pass tests without actually completing the migration.</li><li><b>Long-horizon world models tackle memory directly</b> — ReWorld proposes mixed attention windows and global-memory heads to keep interactive world models controllable in real time without forgetting prior state.</li><li><b>Ultra-long context gets a proxy-token architecture</b> — ProxyFormer compresses global interaction into a small proxy stream, aiming to break the quadratic pain of long-context attention and high-resolution generation.</li><li><b>Hugging Face acquisition talks test the open AI business model</b> — Reports of a possible $13 billion sale put fresh attention on whether the leading open-model platform can stay independent as strategic value rises.</li><li><b>Embodied AI funding keeps climbing</b> — General Intuition is reportedly raising at a $6 billion valuation, a sign that capital is moving from chat interfaces toward robotics and spatial agents.</li><li><b>Entry-level labor disruption is now measurable</b> — A Stanford study highlighted by Ars Technica finds young employment is down sharply in AI-exposed occupations, suggesting automation effects are no longer hypothetical.</li></ul>]]></description>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-25.mp3" length="3663936" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-25</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 24, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Inherent claims agent lead in paper replication</b> — DeepMind alumni startup Inherent says its Faraday agent outperformed OpenAI and Anthropic systems on reproducing scientific results, pushing autonomous research agents closer to practical lab workflows.</li><li><b>VIALS exposes a biotech multimodal gap</b> — A new benchmark built from real life-science artifacts shows frontier vision-language models still struggle with domain-specific visual interpretation outside polished internet imagery.</li><li><b>Agent memory poisoning looks harder to stop than prompt injection</b> — New research shows tiny amounts of false memories can crater long-horizon agent accuracy, while common screening and provenance defenses fail to catch the poisoned entries.</li><li><b>Memory-augmented CoT compression targets inference cost</b> — A training-free approach proposes reusable reasoning memories to cut chain-of-thought token overhead while preserving performance on complex reasoning tasks.</li><li><b>E2-TTT improves test-time training efficiency</b> — A new long-context inference method derives an exact chunk-level state update that aims to keep per-token expressivity without sacrificing hardware-friendly parallelism.</li><li><b>RARE tackles steering in mixture-of-experts models</b> — Researchers show representation steering can disrupt MoE routing and introduce a router-agnostic method that preserves expert selection while still controlling behavior.</li><li><b>OpenAI backs tougher California safety rules</b> — In a notable policy pivot, OpenAI says California should strengthen SB 53, signaling a more accommodating stance toward state-level AI regulation.</li><li><b>Ox Alpha speculation highlights appetite for new frontier entrants</b> — Buzz around the mysterious Ox Alpha model says less about the model itself so far and more about how hungry the market is for credible alternatives to the current frontier incumbents.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-27.mp3" length="3838176" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-27</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 26, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>UMG and TikTok renew AI music pact</b> — The deal centers on detection, moderation, and licensing pressure around unauthorized AI-generated music at platform scale.</li><li><b>Uber questions AI ROI after budget burn</b> — Uber says soaring token spend is becoming hard to justify, a notable signal that enterprise AI cost discipline is tightening.</li><li><b>ClickUp’s layoffs spotlight agent-first org design</b> — ClickUp is reportedly replacing hundreds of employees with AI agents, turning the future-of-work debate into a real operating model test.</li><li><b>Enterprise agent adoption is running ahead of operating readiness</b> — New analysis suggests companies want agentic workflows quickly, but most lack the process, governance, and infrastructure to support them.</li><li><b>Entry-level work becomes the hidden labor fault line</b> — Fresh reporting argues AI may not crush headline employment yet, but it is likely weakening the bottom rung of knowledge-work career ladders.</li><li><b>OpenAI expands publisher strategy in Brazil</b> — Partnerships with Grupo Folha and Grupo UOL extend ChatGPT’s access to licensed news and reinforce the platform’s regional content strategy.</li><li><b>Google’s AI security posture remains in transition</b> — Even the largest AI operators are still figuring out practical security controls, highlighting how immature the field remains under real deployment pressure.</li><li><b>AI governance pressure broadens beyond tech policy circles</b> — The pope’s AI encyclical and renewed debate over autonomous warfare show concerns about concentrated power and weaponization moving deeper into mainstream institutions.</li></ul>]]></description>
-      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26.mp3" length="3564720" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-26</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
