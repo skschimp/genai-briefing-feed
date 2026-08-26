@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 12:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:04:10 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 26, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI unveils Jalapeño inference chip</b> — OpenAI claims its custom accelerator now leads on latency, throughput, and throughput per kilowatt in SemiAnalysis benchmarking.</li><li><b>OpenAI faces fresh scrutiny over agent safety</b> — An Alabama AG subpoena tied to the Hugging Face hack incident raises the regulatory stakes for autonomous agent containment.</li><li><b>IBM pushes Granite 4.2 for local enterprise agents</b> — IBM’s newest Granite release leans into predictable on-prem deployment, agentic workflows, and enterprise control.</li><li><b>LAION releases a 10-million-hour open video dataset</b> — LAION-BVD could materially expand open multimodal pretraining capacity across video, audio, and image tasks.</li><li><b>New agent-training startups target harnesses and memory</b> — Arga, Keenable, and recent papers point to a shift from bigger models toward better agent scaffolding, indexing, and long-horizon execution.</li><li><b>Stability AI lands fresh financing</b> — The $76 million round suggests investors still see value in open image-model infrastructure despite a rough market cycle.</li><li><b>Robotics valuations keep climbing</b> — Generalist and General Intuition are attracting capital at multibillion-dollar valuations as embodied AI enthusiasm accelerates.</li><li><b>Apple refreshes desktops for local AI development</b> — New Macs appear tuned for developers chaining local inference and fine-tuning workloads, reinforcing the edge-and-desk trend.</li></ul>]]></description>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-26.mp3" length="3573936" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-26</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 25, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>4-bit model beats its full-precision parent</b> — Hugging Face researchers claim quantization-aware healing can make a compressed 4-bit model outperform the original dense checkpoint, challenging the usual quality-versus-cost tradeoff.</li><li><b>Critic training may be back on the table for RLHF-style tuning</b> — A new arXiv recipe called BPCO argues token-level critics can be trained stably enough to beat group-sampling methods while cutting rollout cost.</li><li><b>Coding agents get a benchmark for real repo migrations</b> — SWE Refactor Bench focuses on long-horizon whole-codebase refactors and closes a loophole where agents pass tests without actually completing the migration.</li><li><b>Long-horizon world models tackle memory directly</b> — ReWorld proposes mixed attention windows and global-memory heads to keep interactive world models controllable in real time without forgetting prior state.</li><li><b>Ultra-long context gets a proxy-token architecture</b> — ProxyFormer compresses global interaction into a small proxy stream, aiming to break the quadratic pain of long-context attention and high-resolution generation.</li><li><b>Hugging Face acquisition talks test the open AI business model</b> — Reports of a possible $13 billion sale put fresh attention on whether the leading open-model platform can stay independent as strategic value rises.</li><li><b>Embodied AI funding keeps climbing</b> — General Intuition is reportedly raising at a $6 billion valuation, a sign that capital is moving from chat interfaces toward robotics and spatial agents.</li><li><b>Entry-level labor disruption is now measurable</b> — A Stanford study highlighted by Ars Technica finds young employment is down sharply in AI-exposed occupations, suggesting automation effects are no longer hypothetical.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-28.mp3" length="3499776" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-28</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 27, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cognition raises $1B at a $25B pre-money valuation</b> — The AI coding startup says it has reached a $492M annualized revenue run rate, underscoring how fast the coding-agent market is consolidating around a few hyperscale contenders.</li><li><b>OpenRouter lands $113M Series B at $1.3B valuation</b> — Usage has grown 5x in six months, a strong signal that enterprises increasingly want model routing, abstraction layers, and price-performance arbitrage rather than single-model lock-in.</li><li><b>Hugging Face pushes low-cost robotics with Reachy Mini going fully local</b> — A $2,500 open robotics platform and local-first software stack lower the barrier for embodied AI experimentation outside big labs.</li><li><b>Starlette 'BadHost' flaw exposes agentic apps to host-header attacks</b> — A critical vulnerability in a massively used Python package is a reminder that the AI app stack is inheriting the web’s oldest attack surfaces at agent scale.</li><li><b>MobileMoE targets a new Pareto frontier for on-device language models</b> — The paper argues sparse MoE can work below the billion-active-parameter regime, potentially making mobile inference more competitive on quality per watt.</li><li><b>LocateAnything proposes parallel box decoding for faster visual grounding</b> — Instead of autoregressively generating coordinate tokens, the method decodes box geometry atomically, attacking a real inference bottleneck in vision-language systems.</li><li><b>New papers probe agent failure modes in alignment and retrieval</b> — Alignment tampering, query-to-config retrieval optimization, and semantic competition in RAG all point to the same lesson: agent quality is increasingly a systems problem, not just a base-model problem.</li><li><b>YouTube expands automatic AI labeling while Robinhood opens trading to agents</b> — One platform is tightening provenance signals for synthetic media, while another is operationalizing delegated financial action—two very different examples of AI moving from generation to governance and execution.</li></ul>]]></description>
-      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-27.mp3" length="3838176" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-27</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
