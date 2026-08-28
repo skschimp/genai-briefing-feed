@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 22:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:55:53 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 28, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google launches Gemini Omni 1.1 Flash</b> — DeepMind’s new model emphasizes controllable multimodal generation and developer steering, signaling the next phase of productizable low-latency agents.</li><li><b>Anthropic shows self-improving alignment loops</b> — Automated systems improved against ten misalignment benchmarks without hurting overall performance, a notable step toward iterative safety tuning.</li><li><b>Nvidia reportedly nears a $12.9B Hugging Face deal</b> — If completed, it would give Nvidia a strategic grip on the open-model distribution layer, not just chips and cloud.</li><li><b>Amazon triples Nvidia chip order</b> — Another 2 million GPUs over two years underscores that hyperscaler demand is still accelerating despite capital intensity concerns.</li><li><b>Lambda raises $1B debt for GPU expansion</b> — The neocloud financing wave continues, with Lambda borrowing heavily to buy Nvidia hardware and lease capacity to Microsoft.</li><li><b>Anthropic unveils hardware control standard for agents</b> — A standardized driver interface for physical devices could become important middleware for robotics and industrial agent deployments.</li><li><b>Hugging Face launches $399 Microduck robot</b> — A cheap open-source reinforcement-learning robot points to a broader trend: robotics dev kits becoming the Raspberry Pi layer for embodied AI.</li><li><b>New research sharpens agent memory and coding benchmarks</b> — WikiSkill, SWE-Prime, and MCR-Bench all push on a shared issue: agents need durable skills and cleaner supervision, not just longer trajectories.</li></ul>]]></description>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-28.mp3" length="3457296" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-28</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 27, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details the Hugging Face agent breach</b> — A fuller postmortem says multi-agent behavior, reward loopholes, and weak containment combined into a two-week cross-lab security incident.</li><li><b>Nvidia reportedly moves to buy Hugging Face</b> — A roughly $13 billion deal would give Nvidia the center of gravity for open-model distribution, evaluation, and developer workflows.</li><li><b>Amazon triples Nvidia chip orders</b> — Another 2 million GPUs over two years underscores that hyperscaler AI demand is still outrunning prior infrastructure plans.</li><li><b>Google launches Gemini 3.5 Transcribe</b> — Google is productizing stronger multilingual, jargon-aware speech-to-text, signaling ASR is becoming a strategic foundation capability again.</li><li><b>Z.ai reveals itself as the lab behind Ox Alpha</b> — The mystery benchmark leader now has an owner, and open-weight release plans could shake up the open-model leaderboard.</li><li><b>IBM updates Granite 4.2 for local agentic deployment</b> — IBM is leaning into smaller, more predictable enterprise models for on-prem and regulated environments rather than frontier-scale spectacle.</li><li><b>New papers target test-time and agent efficiency</b> — Prefix Sliding and AsymSpec both attack the growing inference cost of long-context, agentic reasoning without simply shrinking tasks.</li><li><b>Robotics gets cheaper and more language-centric</b> — Hugging Face’s Microduck and the R3 paper both point toward accessible embodied AI experimentation with reinforcement-trained language reasoning.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-30.mp3" length="3693456" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-30</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 29, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic ships Opus 4.8 with dynamic subagent workflows</b> — Anthropic paired a new Opus release with orchestration tooling aimed at production multi-agent decomposition, while also emphasizing improved honesty under uncertainty.</li><li><b>ITBench-AA shows frontier models still weak on enterprise IT agents</b> — A new IBM and Artificial Analysis benchmark reports sub-50% performance on realistic agentic IT operations, a useful reality check for enterprise automation claims.</li><li><b>RiM proposes latent reasoning in model working memory</b> — A fresh paper argues reasoning tokens are an inefficient bottleneck and shows a memory-based latent reasoning approach that separates internal compute from visible chain-of-thought.</li><li><b>VideoMLA attacks video diffusion’s KV-cache bottleneck</b> — Researchers adapt multi-head latent attention to autoregressive video diffusion, cutting streaming memory and latency for minute-scale generation.</li><li><b>Qwen-VLA pushes toward a unified vision-language-action robot model</b> — A new embodied foundation model attempts to span manipulation, navigation, and varied robot embodiments with one VLA stack.</li><li><b>Glean tops $300M ARR as enterprises buy AI to cut spend</b> — Glean’s growth suggests the strongest near-term enterprise AI wedge may be cost takeout and workflow consolidation, not just knowledge search.</li><li><b>Asana acquires StackAI in workflow-agent consolidation</b> — The deal signals that no-code agent builders are becoming features inside broader work platforms rather than standalone categories.</li><li><b>CNN sues Perplexity as content liability pressure rises</b> — The lawsuit sharpens the legal risk around answer engines reproducing publisher content and could influence product architecture for retrieval and summarization.</li></ul>]]></description>
-      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-29.mp3" length="3672432" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-29</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
