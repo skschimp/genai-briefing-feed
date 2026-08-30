@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 16:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:22:42 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 30, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic shows automated self-improvement for safety behaviors</b> — A new research result suggests models can iteratively improve on misalignment benchmarks without obvious regression elsewhere, hinting at more automated alignment loops.</li><li><b>Nvidia’s moat keeps shifting upward into systems and networking</b> — The competitive edge is increasingly about full-stack datacenter design and traffic orchestration, not just GPU silicon.</li><li><b>Lambda adds $1B debt to expand AI chip capacity</b> — The neocloud financing wave continues, showing both surging demand and rising leverage in GPU-backed infrastructure.</li><li><b>Open-weight AI startups become prime acquisition targets</b> — Strategic buyers are circling teams with model talent, data pipelines, and open distribution, signaling a new consolidation phase.</li><li><b>SWE-Prime argues quality beats quantity in code-agent training</b> — A new paper shows curated software-engineering trajectories can outperform larger noisy datasets for agent fine-tuning.</li><li><b>CLAP pushes cross-embodiment video world models for robotics</b> — The paper treats heterogeneous human and robot video as a shared substrate for learning transferable physical dynamics.</li><li><b>Puro-2B claims a low-cost open pretraining recipe</b> — An open report frames small-model pretraining as accessible again, using commodity hardware and transparent training choices.</li><li><b>Music publishers broaden the copyright fight against Anthropic</b> — Sony Music Publishing and Warner Chappell’s suit raises the legal and financial stakes around training-data provenance and output behavior.</li></ul>]]></description>
+      <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-30.mp3" length="3776688" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-30</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 29, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia’s moat shifts from chips to full-stack data center design</b> — The next battleground is network fabric, traffic orchestration, and system efficiency, not just raw GPU count.</li><li><b>Lambda raises $1B debt to expand AI chip leasing</b> — Neocloud financing is becoming a major mechanism for getting scarce accelerators into hyperscaler pipelines.</li><li><b>Anthropic shows an early form of self-improving AI</b> — Automated systems improved on 10 misalignment benchmarks without hurting overall performance, hinting at recursive model hardening.</li><li><b>Anthropic launches a hardware interface standard for agents</b> — A standardized driver layer could let AI agents operate physical devices with less bespoke integration work.</li><li><b>Open-weight AI startups become prime acquisition targets</b> — Strategic buyers increasingly want model distribution, developer mindshare, and open ecosystems—not only proprietary model labs.</li><li><b>OpenAI cuts off Cursor after SpaceX acquisition</b> — The move underscores how foundation model access is being weaponized as a strategic control point in the application layer.</li><li><b>New papers push agent memory, code agents, and inference-time reasoning</b> — WikiSkill, SWE-Prime, and CritICL each point to better reusable agent skills, cleaner software trajectories, and more efficient reasoning gains.</li><li><b>Cross-embodiment world models inch robotics toward generalization</b> — CLAP suggests action-conditioned video models can learn transferable physics across humans and robots instead of one embodiment at a time.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01.mp3" length="3471408" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — May 31, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>SoftBank plans €75B France data center buildout</b> — A proposed 5-gigawatt expansion is a major signal that power and land, not just chips, are now first-order AI bottlenecks.</li><li><b>Groq reportedly raising $650M around inference pivot</b> — The fundraising underscores how the hardware race is shifting from training glamour to inference economics and deployment fit.</li><li><b>GitHub Copilot token billing sparks developer backlash</b> — Usage-based pricing is colliding with real coding-agent workflows, raising questions about cost predictability and seat expansion.</li><li><b>RiM paper pushes reasoning into latent working memory</b> — A new approach separates internal computation from visible chain-of-thought by performing reasoning in hidden-state memory rather than emitted tokens.</li><li><b>VideoMLA cuts video diffusion KV-cache costs</b> — Low-rank latent attention for autoregressive video diffusion targets one of the nastiest scaling problems in minute-scale video generation: streaming memory.</li><li><b>Qwen-VLA proposes a unified vision-language-action model</b> — The paper extends VLMs into continuous robot action generation across tasks and embodiments, pointing toward more general embodied foundation models.</li><li><b>LLMSurgeon aims to infer an LLM’s training data mix</b> — The work treats model outputs as clues to estimate pretraining domain composition, with implications for model auditing, provenance, and compliance.</li><li><b>Robot-training startup offers free home cleaning for video data</b> — The data-collection model is novel but also a reminder that physical-world AI still depends on messy, privacy-sensitive human demonstration pipelines.</li></ul>]]></description>
-      <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-31.mp3" length="3638016" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-05-31</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
