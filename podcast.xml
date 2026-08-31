@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 16:22:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:04:49 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — August 31, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia deepens MediaTek alliance with $3.5B investment</b> — A major infrastructure move that looks like supply-chain strategy and a hedge against hyperscalers building their own AI silicon.</li><li><b>ChatGPT faces tougher EU rules under the DSA</b> — The service is being classified as a very large online search platform, raising compliance stakes around minors, mental health, and illegal content.</li><li><b>Debian keeps AI-generated code in bounds, not banned</b> — One of open source’s core institutions chose standard governance over AI exceptionalism, which could become the template others follow.</li><li><b>MoE training paper targets all-to-all bottlenecks</b> — A new arXiv work proposes concentrating routed expert layers to cut communication overhead while preserving model depth.</li><li><b>Sliding-window attention challenges linear-attention hype</b> — A paper argues practical long-context efficiency may come more from strong local-window designs than from retrofitted linear attention.</li><li><b>Context management for agents gets a more serious RL treatment</b> — New research on ContextPilot tackles long-horizon agent memory with finer-grained tools for compression, planning, and retention.</li><li><b>Embodied AI safety weakens when robots mishear commands</b> — A study shows ASR errors can systematically degrade refusal behavior and lead embodied agents toward unsafe plans.</li><li><b>Open dexterous hand design broadens robotics experimentation</b> — Aero Hand Open offers a simulation-ready tendon-driven hand, potentially lowering the barrier for manipulation research tied to foundation models.</li></ul>]]></description>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-31.mp3" length="3651840" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-31</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 30, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic shows automated self-improvement for safety behaviors</b> — A new research result suggests models can iteratively improve on misalignment benchmarks without obvious regression elsewhere, hinting at more automated alignment loops.</li><li><b>Nvidia’s moat keeps shifting upward into systems and networking</b> — The competitive edge is increasingly about full-stack datacenter design and traffic orchestration, not just GPU silicon.</li><li><b>Lambda adds $1B debt to expand AI chip capacity</b> — The neocloud financing wave continues, showing both surging demand and rising leverage in GPU-backed infrastructure.</li><li><b>Open-weight AI startups become prime acquisition targets</b> — Strategic buyers are circling teams with model talent, data pipelines, and open distribution, signaling a new consolidation phase.</li><li><b>SWE-Prime argues quality beats quantity in code-agent training</b> — A new paper shows curated software-engineering trajectories can outperform larger noisy datasets for agent fine-tuning.</li><li><b>CLAP pushes cross-embodiment video world models for robotics</b> — The paper treats heterogeneous human and robot video as a shared substrate for learning transferable physical dynamics.</li><li><b>Puro-2B claims a low-cost open pretraining recipe</b> — An open report frames small-model pretraining as accessible again, using commodity hardware and transparent training choices.</li><li><b>Music publishers broaden the copyright fight against Anthropic</b> — Sony Music Publishing and Warner Chappell’s suit raises the legal and financial stakes around training-data provenance and output behavior.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-02.mp3" length="3766896" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-02</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 1, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic files confidentially for IPO</b> — The strongest signal yet that frontier model economics are maturing into public-market scrutiny around margins, capex, and governance.</li><li><b>SoftBank plans up to €75 billion for French data centers</b> — A 5-gigawatt buildout underscores that AI competition is now as much about power and real estate as model quality.</li><li><b>NVIDIA Cosmos 3 lands as an open omni-model for physical AI</b> — A notable open release aimed at embodied reasoning and action, pushing multimodal stacks beyond chat into robotics and simulation.</li><li><b>JetBrains ships Mellum2, a 12B MoE coding model</b> — A focused open coding model from a developer-tools incumbent shows the vertical-model strategy is alive and well.</li><li><b>OpenAI model reportedly solves long-standing math problem</b> — If the result holds up, it sharpens the case that automated theorem-style reasoning is becoming a real research instrument, not just a benchmark trick.</li><li><b>LongTraceRL targets long-context reasoning with search trajectories</b> — New work uses agent-generated traces plus rubric rewards to train models to retrieve, filter, and integrate evidence across long contexts.</li><li><b>Distributed agent attacks evade transcript-level safety checks</b> — A timely paper shows how harmful activity can be split across many benign-looking sessions, exposing a structural weakness in current monitoring.</li><li><b>WindBorne says its weather model beats government forecasts</b> — A startup claims meaningful gains on operational forecasting, a reminder that domain AI can still outpace foundation-model headlines.</li></ul>]]></description>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01.mp3" length="3471408" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-01</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
