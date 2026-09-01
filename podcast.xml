@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 19:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:23:59 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 1, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia’s MediaTek stake signals a new AI infrastructure hedge</b> — A $3.5 billion investment suggests Nvidia wants to stay in the control plane even as hyperscalers push harder on custom silicon.</li><li><b>EU puts ChatGPT under tougher online safety rules</b> — ChatGPT’s classification under the DSA raises compliance stakes around minors, mental health, and illegal content, with likely product and logging implications.</li><li><b>Pentagon expands its central AI portal with ChatGPT and Grok</b> — The U.S. defense stack is becoming explicitly multi-model, which says a lot about procurement, control layers, and model interoperability.</li><li><b>Hugging Face releases 200-plus WebGPU kernels for local AI</b> — The new kernels package strengthens browser-side and edge inference, lowering friction for on-device multimodal and agent experiences.</li><li><b>Soft Latent Thinking proposes reasoning without the LM head</b> — A new paper moves intermediate reasoning into embedding space, cutting per-step compute and hinting at a different scaling path for inference.</li><li><b>SUN programs unify semantics from robot control to policy learning</b> — An arXiv paper offers a typed program representation that compiles the same task semantics into MPC costs, RL rewards, and execution checks.</li><li><b>Token-efficient data reasoning agents attack enterprise context cost</b> — A new agent paper argues that adaptive structuring of unstructured documents can turn million-token workflows into much cheaper query-time reasoning.</li><li><b>Agent memory is becoming measurable, not just heuristic</b> — New work on coding agents breaks working memory into semantic object types and shows memory policy should be benchmarked rather than hand-waved.</li></ul>]]></description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-01.mp3" length="3521664" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-01</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — August 31, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia deepens MediaTek alliance with $3.5B investment</b> — A major infrastructure move that looks like supply-chain strategy and a hedge against hyperscalers building their own AI silicon.</li><li><b>ChatGPT faces tougher EU rules under the DSA</b> — The service is being classified as a very large online search platform, raising compliance stakes around minors, mental health, and illegal content.</li><li><b>Debian keeps AI-generated code in bounds, not banned</b> — One of open source’s core institutions chose standard governance over AI exceptionalism, which could become the template others follow.</li><li><b>MoE training paper targets all-to-all bottlenecks</b> — A new arXiv work proposes concentrating routed expert layers to cut communication overhead while preserving model depth.</li><li><b>Sliding-window attention challenges linear-attention hype</b> — A paper argues practical long-context efficiency may come more from strong local-window designs than from retrofitted linear attention.</li><li><b>Context management for agents gets a more serious RL treatment</b> — New research on ContextPilot tackles long-horizon agent memory with finer-grained tools for compression, planning, and retention.</li><li><b>Embodied AI safety weakens when robots mishear commands</b> — A study shows ASR errors can systematically degrade refusal behavior and lead embodied agents toward unsafe plans.</li><li><b>Open dexterous hand design broadens robotics experimentation</b> — Aero Hand Open offers a simulation-ready tendon-driven hand, potentially lowering the barrier for manipulation research tied to foundation models.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-03.mp3" length="3606624" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-03</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 2, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes Codex beyond coding and onto AWS</b> — OpenAI expanded Codex into broader knowledge-work tooling and made frontier models plus Codex generally available through AWS procurement and governance paths.</li><li><b>Anthropic files for IPO as enterprise AI enters public-markets phase</b> — Anthropic’s SEC filing is a milestone for the commercial LLM market and a new transparency window into revenue quality, margins, and infrastructure intensity.</li><li><b>Alphabet plans massive $80B AI capital raise</b> — Google says AI demand is outstripping supply, underscoring how compute, networking, power, and real estate are now the real product bottlenecks.</li><li><b>Nvidia and Microsoft push local agent PCs with RTX Spark</b> — A new class of Arm-based Windows developer boxes and laptops suggests serious momentum for hybrid local-cloud inference and on-device agent workloads.</li><li><b>Cosmos 3 lands as an open omni-model for physical AI</b> — NVIDIA’s open release on Hugging Face points to a stronger foundation layer for robotics and embodied reasoning, not just chat and image generation.</li><li><b>Holo3.1 and Mellum2 add practical open-source building blocks</b> — A local computer-use agent stack and a 12B MoE coding model from JetBrains show the open ecosystem getting more task-specific and deployable.</li><li><b>New papers target video efficiency and multimodal evaluation reliability</b> — AdaCodec compresses video for multimodal models by sending change codes instead of full frames, while new work on perceptual judgment bias shows why MLLM judges still over-trust plausible text over visual evidence.</li><li><b>Agent production reality check: monitoring and privacy become first-class</b> — Fresh research highlights structural monitoring for unreliable agent systems and a new ‘ghost tool calls’ privacy risk created by speculative tool execution.</li></ul>]]></description>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-02.mp3" length="3766896" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-02</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
