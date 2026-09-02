@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 16:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:19:02 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 2, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details Astra safeguards after cyber-critical threshold</b> — Astra is being treated as a higher-risk frontier model, with delayed development and tighter release controls after the Hugging Face incident.</li><li><b>Anthropic cuts agent costs with Fable 5.1</b> — Claude Fable 5.1 is positioned as materially cheaper and less over-restrictive, aiming squarely at production agent workloads.</li><li><b>DeepMind pushes agentic video understanding in Gemini</b> — Google is moving from passive multimodal perception toward video models that can parse ongoing activity and support action-oriented workflows.</li><li><b>Hugging Face ships 200-plus WebGPU kernels for local AI</b> — A new browser-side kernel library could make on-device and in-browser inference far more practical across consumer GPUs.</li><li><b>Facet-0 targets contact-rich robotic manipulation</b> — A new robotics foundation model combines multimodal inputs with wrench prediction to improve precision in assembly-style tasks.</li><li><b>LatentPress proposes continuous-memory context compression</b> — The paper replaces text recap with learned memory tokens, reducing context cost while preserving long-horizon performance.</li><li><b>Quantization study argues extra bits should be allocated globally</b> — New research suggests quantization damage is distributed in ways that make simple per-layer heuristics less effective than global mixed-precision budgeting.</li><li><b>Enterprise AI security spending accelerates with HiddenLayer raise</b> — HiddenLayer’s $100 million round and AIR’s agent-governance pitch signal a fast-forming control plane market for model and agent oversight.</li></ul>]]></description>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-02.mp3" length="3370320" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-02</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 1, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia’s MediaTek stake signals a new AI infrastructure hedge</b> — A $3.5 billion investment suggests Nvidia wants to stay in the control plane even as hyperscalers push harder on custom silicon.</li><li><b>EU puts ChatGPT under tougher online safety rules</b> — ChatGPT’s classification under the DSA raises compliance stakes around minors, mental health, and illegal content, with likely product and logging implications.</li><li><b>Pentagon expands its central AI portal with ChatGPT and Grok</b> — The U.S. defense stack is becoming explicitly multi-model, which says a lot about procurement, control layers, and model interoperability.</li><li><b>Hugging Face releases 200-plus WebGPU kernels for local AI</b> — The new kernels package strengthens browser-side and edge inference, lowering friction for on-device multimodal and agent experiences.</li><li><b>Soft Latent Thinking proposes reasoning without the LM head</b> — A new paper moves intermediate reasoning into embedding space, cutting per-step compute and hinting at a different scaling path for inference.</li><li><b>SUN programs unify semantics from robot control to policy learning</b> — An arXiv paper offers a typed program representation that compiles the same task semantics into MPC costs, RL rewards, and execution checks.</li><li><b>Token-efficient data reasoning agents attack enterprise context cost</b> — A new agent paper argues that adaptive structuring of unstructured documents can turn million-token workflows into much cheaper query-time reasoning.</li><li><b>Agent memory is becoming measurable, not just heuristic</b> — New work on coding agents breaks working memory into semantic object types and shows memory policy should be benchmarked rather than hand-waved.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04.mp3" length="3554784" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 3, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Microsoft deepens its post-OpenAI stack at Build</b> — Build 2026 brought MAI-Thinking-1, Scout, Project Solara, and new agent-policy controls, signaling Microsoft wants to own models, runtime, and governance.</li><li><b>Google and UK regulators redraw AI search power</b> — A new CMA rule forces Google to let publishers opt out of generative search features, an early template for content control in the AI era.</li><li><b>Alphabet seeks $80B for AI capacity</b> — The planned raise underscores a supply-constrained market where enterprise and consumer demand is outpacing available compute and infrastructure.</li><li><b>Nvidia pushes AI agent PCs into the CPU market</b> — Partnerships with Microsoft, Dell, and HP suggest Nvidia is using local agent workloads to attack the much larger client-computing stack.</li><li><b>Meta globalizes WhatsApp Business AI agents</b> — Token-priced AI agents inside WhatsApp put conversational automation directly into a high-volume business channel with real monetization attached.</li><li><b>Microsoft open-sources spec-driven evaluation for agents</b> — Adaptive Spec-driven Scoring turns natural-language requirements into repeatable AI behavior tests, addressing one of the biggest deployment bottlenecks.</li><li><b>OpenAI broadens Codex from coding into job-specific workflows</b> — New plug-ins for analytics, sales, design, and finance show the company is packaging agentic software around roles, not just models.</li><li><b>Coralogix raises $200M for AI agent observability</b> — The funding reflects a fast-growing belief that if enterprises deploy autonomous agents, they’ll need a new monitoring and control plane to manage them.</li><li><b>New papers target memory, reward modeling, and inference efficiency</b> — Fresh arXiv work on model 'sleep,' unified reward models, and safer KV-cache eviction points to where the next practical gains may come from.</li></ul>]]></description>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-03.mp3" length="3606624" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-03</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
