@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 16:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:09:14 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 3, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia to acquire Hugging Face for $12.9B</b> — The biggest platform in open AI tooling is being folded into the dominant GPU vendor, with promises to keep the ecosystem open.</li><li><b>OpenAI’s Astra raises serious cyber-safety alarms</b> — A new recurrent-depth reasoning model appears unusually capable in offensive cyber tasks, intensifying debate over release controls.</li><li><b>Google launches Gemini 3.8 Flash and a cyber-specialized variant</b> — Google is pushing faster iterative tool use and more reasoning in its low-latency line while also productizing cyber workflows.</li><li><b>Google’s WeatherNext 3 moves AI forecasting into production surfaces</b> — The latest model claims finer spatial resolution and better rain and snow prediction, and will feed Search, Maps, and Gemini.</li><li><b>New work targets cheaper long-context inference from inside the model</b> — A paper on self-directed attention selection argues models can identify relevant context without scanning the full KV cache every step.</li><li><b>Web-agent research shifts from generative world models to discriminative ones</b> — A new paper argues next-state prediction is misaligned for action ranking and proposes predicted-state matching for stronger web agents.</li><li><b>Post-training pushes coding models toward competition-level performance</b> — A new specialization pipeline combines curated problems, synthetic traces, RL, and iterative test-time correction for hard coding benchmarks.</li><li><b>U.S. government backs OpenAI in copyright fight</b> — The administration’s filing in the New York Times case signals a more permissive stance on training-data use in the name of national competitiveness.</li></ul>]]></description>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-03.mp3" length="3794688" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-03</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 2, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details Astra safeguards after cyber-critical threshold</b> — Astra is being treated as a higher-risk frontier model, with delayed development and tighter release controls after the Hugging Face incident.</li><li><b>Anthropic cuts agent costs with Fable 5.1</b> — Claude Fable 5.1 is positioned as materially cheaper and less over-restrictive, aiming squarely at production agent workloads.</li><li><b>DeepMind pushes agentic video understanding in Gemini</b> — Google is moving from passive multimodal perception toward video models that can parse ongoing activity and support action-oriented workflows.</li><li><b>Hugging Face ships 200-plus WebGPU kernels for local AI</b> — A new browser-side kernel library could make on-device and in-browser inference far more practical across consumer GPUs.</li><li><b>Facet-0 targets contact-rich robotic manipulation</b> — A new robotics foundation model combines multimodal inputs with wrench prediction to improve precision in assembly-style tasks.</li><li><b>LatentPress proposes continuous-memory context compression</b> — The paper replaces text recap with learned memory tokens, reducing context cost while preserving long-horizon performance.</li><li><b>Quantization study argues extra bits should be allocated globally</b> — New research suggests quantization damage is distributed in ways that make simple per-layer heuristics less effective than global mixed-precision budgeting.</li><li><b>Enterprise AI security spending accelerates with HiddenLayer raise</b> — HiddenLayer’s $100 million round and AIR’s agent-governance pitch signal a fast-forming control plane market for model and agent oversight.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05.mp3" length="3516480" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 4, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google ships Gemma 4 12B for 16GB laptops</b> — A surprisingly capable small open model uses a new encoding scheme and token prediction tricks to make local deployment more practical.</li><li><b>Microsoft pushes agent evals and portable policy controls</b> — New open tooling turns text specs into regression tests, while policy files give security and compliance teams a more systematic way to constrain agents.</li><li><b>OpenAI productizes Codex into role-specific work tools</b> — Six packaged Codex plugins for analytics, sales, design, and finance signal a shift from general copilots to workflow-shaped white-collar agents.</li><li><b>UK forces Google to offer AI Search opt-out</b> — Publishers will be able to exclude content from AI Overviews and related generative search features without fully disappearing from traditional search.</li><li><b>TSMC says AI chip demand still exceeds supply</b> — Even with U.S. expansion, leading-edge capacity remains tight, underscoring that inference economics will stay constrained by packaging and wafer availability.</li><li><b>Coralogix raises $200M for AI agent observability</b> — The financing reflects a growing market for tooling that monitors agent behavior, traces failures, and operationalizes reliability in production.</li><li><b>Meta expands WhatsApp Business AI agent globally</b> — Token-metered AI support inside WhatsApp turns one of the world’s largest messaging surfaces into a serious commercial agent channel.</li><li><b>New papers target latency, recoverability, and long-horizon agents</b> — Recent arXiv work on streamed multi-agent reasoning, failed-trace recoverability, and the AutoLab benchmark points to a more rigorous era for agent systems.</li></ul>]]></description>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04.mp3" length="3554784" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-04</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
