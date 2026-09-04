@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 16:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:04:56 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra amid safety and rollout controversy</b> — OpenAI’s new flagship model claims a major step in computer use and cyber capability, but access issues and a new recurrent-depth reasoning method are drawing scrutiny.</li><li><b>Nvidia to acquire Hugging Face for roughly $13B</b> — The deal would give Nvidia control of the biggest open-model and AI developer hub while promising to keep the ecosystem open.</li><li><b>Google ships Gemini 3.8 Flash and 3.8 Flash Cyber</b> — DeepMind is leaning hard into fast-turnaround models and domain-specialized cyber variants rather than only scaling premium frontier tiers.</li><li><b>WeatherNext 3 pushes AI weather forecasting deeper into products</b> — Google says its latest weather model is its most accurate global system yet and will feed Search, Maps, and Gemini user experiences.</li><li><b>Crusoe reportedly raises $3B at a $30B valuation</b> — The financing, tied to massive data-center demand and a reported Jane Street contract, underscores how AI infrastructure is now a capital-markets story.</li><li><b>Meta discounts Muse Spark by about 95% for telemetry-sharing users</b> — Meta is effectively paying developers in compute discounts for prompt and output data, highlighting how usage telemetry has become a strategic training asset.</li><li><b>New papers question core assumptions in LLM evaluation and reasoning oversight</b> — Recent arXiv work shows black-box LLM judges can be unstable, and another paper argues chain-of-thought legibility is not the same as true interpretability.</li><li><b>Inference and agent-training research targets the next bottlenecks</b> — Notable papers this cycle cover FP4 FlashAttention on Blackwell, review-aware coding benchmarks, and scalable terminal environments reconstructed from agent traces.</li></ul>]]></description>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-04.mp3" length="3650400" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 3, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia to acquire Hugging Face for $12.9B</b> — The biggest platform in open AI tooling is being folded into the dominant GPU vendor, with promises to keep the ecosystem open.</li><li><b>OpenAI’s Astra raises serious cyber-safety alarms</b> — A new recurrent-depth reasoning model appears unusually capable in offensive cyber tasks, intensifying debate over release controls.</li><li><b>Google launches Gemini 3.8 Flash and a cyber-specialized variant</b> — Google is pushing faster iterative tool use and more reasoning in its low-latency line while also productizing cyber workflows.</li><li><b>Google’s WeatherNext 3 moves AI forecasting into production surfaces</b> — The latest model claims finer spatial resolution and better rain and snow prediction, and will feed Search, Maps, and Gemini.</li><li><b>New work targets cheaper long-context inference from inside the model</b> — A paper on self-directed attention selection argues models can identify relevant context without scanning the full KV cache every step.</li><li><b>Web-agent research shifts from generative world models to discriminative ones</b> — A new paper argues next-state prediction is misaligned for action ranking and proposes predicted-state matching for stronger web agents.</li><li><b>Post-training pushes coding models toward competition-level performance</b> — A new specialization pipeline combines curated problems, synthetic traces, RL, and iterative test-time correction for hard coding benchmarks.</li><li><b>U.S. government backs OpenAI in copyright fight</b> — The administration’s filing in the New York Times case signals a more permissive stance on training-data use in the name of national competitiveness.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06.mp3" length="3457008" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 5, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Gemma 4 12B targets laptop-class deployment</b> — Google’s new 12B model reportedly fits 16GB RAM and uses encoding and token-prediction tricks to improve local performance per parameter.</li><li><b>Cross-layer sparse attention aims at cheaper long-context decoding</b> — A new arXiv paper proposes shared routing across layers to cut cache-routing overhead while preserving long-context quality.</li><li><b>Code2LoRA injects repo knowledge without extra tokens</b> — A hypernetwork generates repository-specific adapters for code models, avoiding long RAG prompts and reducing inference-time overhead.</li><li><b>Meta support-agent exploit underscores practical agent security gaps</b> — Attackers reportedly manipulated Meta’s AI support agent to relink Instagram accounts, showing why agent governance is broader than model evals.</li><li><b>UK forces publisher opt-out for AI search features</b> — Google must provide publishers a way to exclude content from generative search experiences, a potentially important precedent for retrieval licensing.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, the foundry says it can only satisfy so much customer demand, reinforcing continued compute bottlenecks.</li><li><b>AirTrunk commits $30B for 5GW of AI data centers in India</b> — A major new capacity build signals India’s growing role in AI infrastructure, with power and network availability now central strategic variables.</li><li><b>The industry shifts from token growth to cost controls</b> — Enterprises are moving from indiscriminate usage toward governance, budget limits, and architecture choices that tame runaway inference spend.</li></ul>]]></description>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05.mp3" length="3516480" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-05</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
