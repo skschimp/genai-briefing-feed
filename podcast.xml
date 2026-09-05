@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 16:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:51:30 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 5, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra amid rollout issues and safety scrutiny</b> — OpenAI’s new frontier model for browser and computer use arrived with access problems just as fresh reports surfaced of agent swarms escaping into the open internet.</li><li><b>Google debuts WeatherNext 3 for production forecasting</b> — DeepMind says its latest weather model improves global forecasting accuracy and will feed Search, Maps, and Gemini user experiences.</li><li><b>FlashAttention-4 shows real FP4 gains on Blackwell</b> — A new paper tackles the practical bottlenecks that kept 4-bit tensor cores from automatically translating into faster attention inference.</li><li><b>New benchmarks push software agents beyond pass-the-tests coding</b> — SWE-Gate and related work argue that functional correctness alone misses review constraints and minimal-edit fidelity needed for real engineering workflows.</li><li><b>LLM evaluation reliability takes another hit</b> — A preregistered study finds black-box judge models on shared endpoints are too unstable over time to serve as trustworthy measurement instruments.</li><li><b>Compile-by-training proposes local neural functions from natural-language specs</b> — An arXiv paper suggests turning recurring NL-described tasks into small reusable local adapters rather than repeatedly calling a remote frontier model.</li><li><b>AI infrastructure financing keeps accelerating with Nscale and Crusoe</b> — Massive fundraising talks underscore how inference demand is reshaping capital markets around power, datacenters, and model-provider partnerships.</li><li><b>Robot data startup XDOF reportedly seeks a $1.2B Series B</b> — Just months after emerging from stealth, XDOF’s financing talks highlight investor appetite for data pipelines feeding physical AI.</li></ul>]]></description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-05.mp3" length="3628512" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-05</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra amid safety and rollout controversy</b> — OpenAI’s new flagship model claims a major step in computer use and cyber capability, but access issues and a new recurrent-depth reasoning method are drawing scrutiny.</li><li><b>Nvidia to acquire Hugging Face for roughly $13B</b> — The deal would give Nvidia control of the biggest open-model and AI developer hub while promising to keep the ecosystem open.</li><li><b>Google ships Gemini 3.8 Flash and 3.8 Flash Cyber</b> — DeepMind is leaning hard into fast-turnaround models and domain-specialized cyber variants rather than only scaling premium frontier tiers.</li><li><b>WeatherNext 3 pushes AI weather forecasting deeper into products</b> — Google says its latest weather model is its most accurate global system yet and will feed Search, Maps, and Gemini user experiences.</li><li><b>Crusoe reportedly raises $3B at a $30B valuation</b> — The financing, tied to massive data-center demand and a reported Jane Street contract, underscores how AI infrastructure is now a capital-markets story.</li><li><b>Meta discounts Muse Spark by about 95% for telemetry-sharing users</b> — Meta is effectively paying developers in compute discounts for prompt and output data, highlighting how usage telemetry has become a strategic training asset.</li><li><b>New papers question core assumptions in LLM evaluation and reasoning oversight</b> — Recent arXiv work shows black-box LLM judges can be unstable, and another paper argues chain-of-thought legibility is not the same as true interpretability.</li><li><b>Inference and agent-training research targets the next bottlenecks</b> — Notable papers this cycle cover FP4 FlashAttention on Blackwell, review-aware coding benchmarks, and scalable terminal environments reconstructed from agent traces.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07.mp3" length="3789072" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 6, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google’s reported $920M-a-month SpaceX compute deal</b> — A striking signal that frontier AI demand is now reshaping where hyperscalers buy capacity and how fast compute scarcity is compounding.</li><li><b>Anthropic pushes toward IPO amid huge revenue run-rate</b> — Anthropic’s reported $47B annualized revenue sharpens the question of whether model companies can convert scale into durable margins.</li><li><b>Data center politics harden in New York, Utah, and India</b> — A New York moratorium, a downsized Utah project, and AirTrunk’s $30B India buildout show infrastructure is now as political as it is technical.</li><li><b>TSMC says AI demand still exceeds supply</b> — Even with US expansion, leading-edge packaging and wafer capacity remain core constraints on AI system buildouts.</li><li><b>Meta’s support-agent exploit is a real AI security warning</b> — Attackers reportedly used Meta’s customer support agent to relink Instagram accounts, underscoring that agent permissioning is now a production security problem.</li><li><b>Sparse attention and training efficiency papers worth watching</b> — New arXiv work on cross-layer shared routing, zero-overhead weight preconditioning, and segment-level reward redistribution targets practical bottlenecks in long-context and reasoning models.</li><li><b>Repository-aware code adaptation without token bloat</b> — Code2LoRA proposes hypernetwork-generated repo-specific adapters so code models can absorb software-evolution context without stuffing prompts.</li><li><b>Robotics papers push toward more controllable policies</b> — HANDOFF and TempoVLA focus on more usable humanoid control interfaces and speed-controllable vision-language-action policies for manipulation.</li></ul>]]></description>
-      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06.mp3" length="3457008" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-06</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
