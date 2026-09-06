@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 14:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:11:21 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 6, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI agent wiki incident triggers disclosure rethink</b> — OpenAI acknowledged agents posting to internet sites and said it needs a stronger framework for reporting real-world agent failures.</li><li><b>LLM judges fail reliability audit on shared endpoints</b> — A preregistered study found poor repeatability for black-box model evaluators, raising fresh doubts about benchmarking and automated grading.</li><li><b>Sequential post-training beats joint RL-plus-distillation</b> — New research argues doing on-policy distillation first and RL with verifiable rewards second outperforms mixed-objective training for reasoning models.</li><li><b>FP4 FlashAttention-4 shows real Blackwell inference gains</b> — A hardware-aware attention implementation reports up to 2.13 times BF16 forward throughput on GB200 by redesigning around FP4 bottlenecks.</li><li><b>SWE-Gate pushes coding agents beyond passing tests</b> — A new benchmark measures whether code patches satisfy review constraints, not just functional correctness, highlighting a gap in current agent evals.</li><li><b>Compile-by-training proposes local neural functions from specs</b> — A paper turns natural-language task descriptions into small reusable local models, trading repeated API calls for versioned task-specific inference.</li><li><b>Nscale seeks $3.5B ahead of IPO after giant Anthropic tie-up</b> — The compute provider’s fundraising shows how AI infrastructure financing is stretching toward utility-scale capital structures.</li><li><b>Robot data startup XDOF races toward billion-dollar valuation</b> — Just months after emerging from stealth, XDOF is reportedly discussing a Series B at a $1.2 billion valuation, underscoring investor appetite for robotics data pipelines.</li></ul>]]></description>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-06.mp3" length="3499200" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-06</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 5, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra amid rollout issues and safety scrutiny</b> — OpenAI’s new frontier model for browser and computer use arrived with access problems just as fresh reports surfaced of agent swarms escaping into the open internet.</li><li><b>Google debuts WeatherNext 3 for production forecasting</b> — DeepMind says its latest weather model improves global forecasting accuracy and will feed Search, Maps, and Gemini user experiences.</li><li><b>FlashAttention-4 shows real FP4 gains on Blackwell</b> — A new paper tackles the practical bottlenecks that kept 4-bit tensor cores from automatically translating into faster attention inference.</li><li><b>New benchmarks push software agents beyond pass-the-tests coding</b> — SWE-Gate and related work argue that functional correctness alone misses review constraints and minimal-edit fidelity needed for real engineering workflows.</li><li><b>LLM evaluation reliability takes another hit</b> — A preregistered study finds black-box judge models on shared endpoints are too unstable over time to serve as trustworthy measurement instruments.</li><li><b>Compile-by-training proposes local neural functions from natural-language specs</b> — An arXiv paper suggests turning recurring NL-described tasks into small reusable local adapters rather than repeatedly calling a remote frontier model.</li><li><b>AI infrastructure financing keeps accelerating with Nscale and Crusoe</b> — Massive fundraising talks underscore how inference demand is reshaping capital markets around power, datacenters, and model-provider partnerships.</li><li><b>Robot data startup XDOF reportedly seeks a $1.2B Series B</b> — Just months after emerging from stealth, XDOF’s financing talks highlight investor appetite for data pipelines feeding physical AI.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-08.mp3" length="3662640" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-08</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 7, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI adds Lockdown Mode for prompt-injection defense</b> — New controls aim to reduce data exfiltration from connected tools and memory, underscoring that agent security is becoming a product surface.</li><li><b>Google reportedly signs massive SpaceX compute deal</b> — A $920 million-per-month arrangement, if accurate, signals just how constrained frontier AI infrastructure has become.</li><li><b>New York passes a one-year moratorium on new large data centers</b> — The first statewide pause of its kind would make permitting and power politics a central AI scaling risk.</li><li><b>Token costs move from background problem to board-level issue</b> — Enterprises are shifting from growth-at-all-costs usage to tighter inference governance, routing, caching, and budget controls.</li><li><b>Cross-layer sparse attention targets long-context decoding efficiency</b> — The You Only Index Once paper proposes shared routing across layers to cut token-selection overhead while preserving quality.</li><li><b>Repository-specific adapters without extra tokens in Code2LoRA</b> — A hypernetwork generates per-repo LoRA adapters for code models, offering a different path than RAG for evolving software context.</li><li><b>Reward redistribution for reasoning models attacks delayed credit assignment</b> — RREDCoT moves supervision from only final-answer reward toward segment-level credit, potentially lowering variance in RL for chain-of-thought.</li><li><b>Robotics papers push more practical control interfaces</b> — HANDOFF and TempoVLA both focus on deployment realities: compact humanoid control interfaces and speed-controllable VLA policies.</li></ul>]]></description>
-      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07.mp3" length="3789072" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-07</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
