@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 17:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:23:13 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Mistral lands €3B in sovereign AI push</b> — The French lab raised at a €21B valuation, a major signal that regional compute, models, and compliance stacks are now investable at hyperscale.</li><li><b>DeepMind maps 9 billion genome variants</b> — AlphaGenome Atlas predicts the molecular effects of essentially every possible single-letter DNA change, pushing foundation-model techniques deeper into wet-lab discovery workflows.</li><li><b>Hybrid computer-use agents get a real benchmark</b> — CUA-Universe proposes a scalable GUI-plus-CLI environment, a more realistic testbed for agents that need both visual grounding and shell-level efficiency.</li><li><b>Korean public-API benchmark exposes tool-use gap</b> — KOPA-Bench and its execution-grounded data synthesis recipe target on-prem, sovereign agent deployments where open models still struggle with multi-step tool calling.</li><li><b>Agent memory breaks on model upgrades</b> — A controlled study finds that long-lived agent memory is far less portable than teams assume, with schema-based approaches holding up better than free-text notes.</li><li><b>RAG compression moves beyond teacher imitation</b> — DEX-Comp introduces a two-stage recipe for soft context compression that aims to beat, not just mimic, uncompressed RAG systems on efficiency-quality tradeoffs.</li><li><b>Coding-agent uncertainty gets a black-box proxy</b> — Speculative Uncertainty uses a small draft model to estimate failure risk from an agent’s token stream alone, without logits or repeated sampling.</li><li><b>Copyright pressure on model vendors keeps rising</b> — New lawsuits from Seattle Times and Newsday add to the legal overhang for model providers, even as OpenAI expands journalism support programs.</li></ul>]]></description>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-08.mp3" length="3507984" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI details internal gains from coding agents</b> — New internal data suggests agent-assisted research is increasing experiment throughput and shifting researchers toward higher-complexity work.</li><li><b>OpenAI acknowledges agent-driven wiki disruption</b> — The company confirmed involvement in a German wiki incident and says it is building a stronger disclosure framework for autonomous agent activity.</li><li><b>New lawsuits from Seattle Times and Newsday</b> — Two more publishers sued OpenAI and Microsoft, keeping copyright liability and training-data economics front and center.</li><li><b>Hybrid computer-use agents get a better testbed</b> — CUA-Universe proposes a scalable GUI-plus-CLI environment aimed at measuring agents on the kind of mixed-interface workflows real operators actually use.</li><li><b>Memory portability emerges as an agent ops problem</b> — A new study finds that agents can effectively forget after model upgrades even when the memory store is preserved, with schema-based memory proving most robust.</li><li><b>RAG compression pushes beyond teacher limits</b> — DEX-Comp introduces a two-stage recipe for soft context compression that aims to outperform the uncompressed teacher rather than merely mimic it.</li><li><b>Reward-model fragility in robotics gets quantified</b> — ROBORMBENCH shows that paraphrasing an instruction can flip reward judgments on the same robot trajectory, exposing a serious alignment weakness.</li><li><b>Market spotlight on the $3.2 billion AI data center web</b> — Ars Technica highlights the opaque ownership, contracting, and accountability structures behind a massive AI infrastructure buildout.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-11.mp3" length="3701376" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-11</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 10, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic opens Fable 5, but with hard safety walls</b> — Its first publicly accessible Mythos-class model lands with strong coding and long-task claims, while strict refusals on cyber and bio are already frustrating security researchers.</li><li><b>Google pushes multimodal efficiency with Gemma 4 12B and live voice translation</b> — DeepMind introduced an encoder-free multimodal Gemma variant and expanded Gemini 3.5 Live Translate, signaling a tighter coupling of compact multimodal models and real-time speech UX.</li><li><b>Inference economics get sharper with ReasonAlloc</b> — A new paper proposes hierarchical KV-cache budget allocation for reasoning models, targeting one of the biggest practical costs in long chain-of-thought decoding.</li><li><b>Piper targets programmable distributed training</b> — The arXiv system paper argues for a more flexible way to compose data, pipeline, expert parallelism and memory optimizations without hard-coding one strategy stack.</li><li><b>Apple’s AI architecture is finally visible</b> — WWDC showed a more capable Siri and a two-tier model stack that can extend to Google-hosted compute while preserving Apple’s privacy boundary design.</li><li><b>Data center politics are moving from zoning issue to AI bottleneck</b> — Meta signed a 168-megawatt India facility with Reliance as Seattle weighs a moratorium on new data centers amid local opposition and infrastructure strain.</li><li><b>AI coding and context startups keep attacking platform lock-in</b> — Niteshift raised a $7 million seed for model-agnostic coding agents, while Jedify raised $24 million to feed enterprise agents with business context.</li><li><b>Lovable’s revenue pace underscores how fast app-generation is commercializing</b> — The startup says it has reached $500 million in annualized revenue, a notable datapoint for demand in AI-assisted software creation beyond demos and prototypes.</li></ul>]]></description>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-10.mp3" length="3590352" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-10</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
