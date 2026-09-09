@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 16:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:16:01 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 9, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI claims Navier-Stokes breakthrough, controversy follows</b> — OpenAI published an AI-generated proof and Lean formalization for the Millennium Prize problem, but the rollout immediately triggered sharp skepticism about validation and scientific process.</li><li><b>DeepMind launches AlphaGenome Atlas</b> — A new predictive map scores molecular effects for roughly 9 billion possible single-letter DNA variants, pushing foundation-model ideas deeper into genomics workflows.</li><li><b>Mistral raises €3B for sovereign AI push</b> — The French lab’s massive round at a €21B valuation signals that Europe’s sovereign-model thesis is now a capital-heavy infrastructure and policy play, not just an open-model story.</li><li><b>Google Cloud leans on Accenture to unblock enterprise AI deployments</b> — The partnership highlights that adoption bottlenecks are shifting from model access to implementation capacity, integration, and forward-deployed engineering.</li><li><b>AI spend per employee drops at major firms</b> — New spending data suggests falling token prices and smaller-model substitution are compressing per-seat economics even as usage spreads.</li><li><b>IBM releases Granite Time Series PatchTST-FM-r2 on Hugging Face</b> — IBM’s commercially friendly open model extends the quiet but important trend of domain-specific foundation models for forecasting and industrial analytics.</li><li><b>New agent papers target procedure, memory, and coding reliability</b> — Procedural Graphs, MeClear, and ExecCritic all tackle the same production pain point: long-horizon agents still need explicit structure, memory hygiene, and better execution-grounded feedback.</li><li><b>Robotics VLA research gets more physically grounded</b> — TANGO and DeCAL point toward the next wave of embodied models, where whole-body motion, contact dynamics, and tactile cues matter as much as language conditioning.</li></ul>]]></description>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-09.mp3" length="3595680" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-09</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 8, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Mistral lands €3B in sovereign AI push</b> — The French lab raised at a €21B valuation, a major signal that regional compute, models, and compliance stacks are now investable at hyperscale.</li><li><b>DeepMind maps 9 billion genome variants</b> — AlphaGenome Atlas predicts the molecular effects of essentially every possible single-letter DNA change, pushing foundation-model techniques deeper into wet-lab discovery workflows.</li><li><b>Hybrid computer-use agents get a real benchmark</b> — CUA-Universe proposes a scalable GUI-plus-CLI environment, a more realistic testbed for agents that need both visual grounding and shell-level efficiency.</li><li><b>Korean public-API benchmark exposes tool-use gap</b> — KOPA-Bench and its execution-grounded data synthesis recipe target on-prem, sovereign agent deployments where open models still struggle with multi-step tool calling.</li><li><b>Agent memory breaks on model upgrades</b> — A controlled study finds that long-lived agent memory is far less portable than teams assume, with schema-based approaches holding up better than free-text notes.</li><li><b>RAG compression moves beyond teacher imitation</b> — DEX-Comp introduces a two-stage recipe for soft context compression that aims to beat, not just mimic, uncompressed RAG systems on efficiency-quality tradeoffs.</li><li><b>Coding-agent uncertainty gets a black-box proxy</b> — Speculative Uncertainty uses a small draft model to estimate failure risk from an agent’s token stream alone, without logits or repeated sampling.</li><li><b>Copyright pressure on model vendors keeps rising</b> — New lawsuits from Seattle Times and Newsday add to the legal overhang for model providers, even as OpenAI expands journalism support programs.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-12.mp3" length="3603600" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-12</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 11, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>DeepMind unveils DiffusionGemma for faster local text generation</b> — Google DeepMind says its diffusion-based text model can deliver roughly 4x faster generation, reviving interest in non-autoregressive decoding for edge and on-device use.</li><li><b>Anthropic’s Fable 5 sparks backlash over hidden guardrails and retention terms</b> — Researchers, customers, and even Microsoft are pushing back on opaque safety throttles and data-retention requirements around Anthropic’s newest flagship-class model.</li><li><b>DeepMind funds multi-agent safety research</b> — A new $10 million research push targets risks that emerge when large populations of autonomous agents interact, a timely sign that labs expect agent ecosystems to scale soon.</li><li><b>OpenAI expands enterprise distribution through Oracle commitments</b> — OpenAI models and Codex can now be consumed against existing Oracle cloud spend, lowering procurement friction for large enterprises standardizing AI infrastructure.</li><li><b>Meta signs first India AI data center deal with Reliance</b> — The 168-megawatt facility adds another marker that AI infrastructure expansion is moving beyond the US and into strategic regional power and sovereign-capacity plays.</li><li><b>AI-heavy firms are spending about $7,500 per employee per month</b> — New spend data suggests the most AI-aggressive companies are operating with eye-watering per-seat economics, sharpening the focus on model efficiency and ROI.</li><li><b>Decart launches Oasis 3 world model for long-horizon driving simulation</b> — The startup says its API can generate hours of photorealistic driving environments in real time, pointing to world models as a serious autonomy testing substrate.</li><li><b>Research targets cheaper VLM inference and smarter memory compression</b> — New papers on recoverable visual token routing and compositional memory adapters show continued pressure to cut context, KV-cache, and multimodal serving costs without losing fidelity.</li></ul>]]></description>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-11.mp3" length="3701376" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-11</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
