@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 16:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:09:44 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 10, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra and a data agent push for enterprise</b> — OpenAI rolled out a more capable work-focused model plus natural-language data connectivity and dashboards, tightening its grip on enterprise AI workflows.</li><li><b>Massachusetts adds clean-power constraints for data centers</b> — Another state is moving to curb unfettered AI infrastructure growth, underscoring that grid architecture is becoming a first-order AI bottleneck.</li><li><b>Maven Robotics emerges with $100M to industrialize robot deployment</b> — The startup is betting that deployment software and systems integration, not just better foundation models, are the real chokepoints in robotics adoption.</li><li><b>IBM releases Granite time-series foundation model under a commercial-friendly license</b> — A strong open model for forecasting could matter more to industry than another chatbot, especially for operations, planning, and anomaly detection.</li><li><b>New papers target the messy realities of enterprise and agent deployment</b> — IBIB, JarvisGUI, and KVShareArena all attack evaluation and serving blind spots that matter once models leave the lab.</li><li><b>Show-Harness proposes a semantic interface for VLM-driven robot control</b> — The paper suggests a practical middle layer that lets vision-language models reason over robot actions without learning every low-level controller end to end.</li><li><b>Apple pushes ambient-listening AI and provenance features into consumer hardware</b> — Always-listening summaries and signed camera output show the next phase of on-device AI is about trust, consent, and proof as much as capability.</li><li><b>AI agent traffic is hitting public services, and identity security startups are responding</b> — Automated claims and requests are rising while firms like Cymphony target the governance gap around nonhuman identities and agent permissions.</li></ul>]]></description>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-10.mp3" length="3645216" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-10</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 9, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI claims Navier-Stokes breakthrough, controversy follows</b> — OpenAI published an AI-generated proof and Lean formalization for the Millennium Prize problem, but the rollout immediately triggered sharp skepticism about validation and scientific process.</li><li><b>DeepMind launches AlphaGenome Atlas</b> — A new predictive map scores molecular effects for roughly 9 billion possible single-letter DNA variants, pushing foundation-model ideas deeper into genomics workflows.</li><li><b>Mistral raises €3B for sovereign AI push</b> — The French lab’s massive round at a €21B valuation signals that Europe’s sovereign-model thesis is now a capital-heavy infrastructure and policy play, not just an open-model story.</li><li><b>Google Cloud leans on Accenture to unblock enterprise AI deployments</b> — The partnership highlights that adoption bottlenecks are shifting from model access to implementation capacity, integration, and forward-deployed engineering.</li><li><b>AI spend per employee drops at major firms</b> — New spending data suggests falling token prices and smaller-model substitution are compressing per-seat economics even as usage spreads.</li><li><b>IBM releases Granite Time Series PatchTST-FM-r2 on Hugging Face</b> — IBM’s commercially friendly open model extends the quiet but important trend of domain-specific foundation models for forecasting and industrial analytics.</li><li><b>New agent papers target procedure, memory, and coding reliability</b> — Procedural Graphs, MeClear, and ExecCritic all tackle the same production pain point: long-horizon agents still need explicit structure, memory hygiene, and better execution-grounded feedback.</li><li><b>Robotics VLA research gets more physically grounded</b> — TANGO and DeCAL point toward the next wave of embodied models, where whole-body motion, contact dynamics, and tactile cues matter as much as language conditioning.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-13.mp3" length="3679920" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-13</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 12, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>DeepMind unveils DiffusionGemma for faster local text generation</b> — A diffusion-based text model claims roughly 4x faster generation, potentially reshaping edge and interactive inference tradeoffs.</li><li><b>OpenAI moves to acquire Ona for persistent agent runtimes</b> — The deal would extend Codex with secure cloud environments for long-running enterprise agents, signaling a push from chat to durable execution.</li><li><b>Anthropic backtracks on hidden Claude Fable guardrails</b> — After backlash from researchers, Anthropic says it will be more transparent about safety throttles that impaired cyber and biology workflows.</li><li><b>Amazon debt and water disclosures sharpen the AI infrastructure debate</b> — Fresh borrowing and newly disclosed data-center water use highlight how AI scale is increasingly constrained by finance, energy, and local resource politics.</li><li><b>RA-RFT paper pushes analogy-based reasoning beyond standard RAG</b> — A new post-training approach teaches models to retrieve by reasoning pattern rather than surface similarity, a notable direction for harder problem solving.</li><li><b>HyperTool proposes higher-level tool execution for agents</b> — The paper argues stepwise tool calls are the wrong abstraction and replaces them with executable tool programs to cut context waste and planning overhead.</li><li><b>Mana shows sim-to-real progress on dexterous articulated tool use</b> — The robotics work reframes dexterous manipulation as an animation problem, targeting harder tasks like articulated-tool handling rather than rigid-object demos.</li><li><b>DoorDash details deployed RL for marketplace dispatch adaptation</b> — A production system uses delayed marketplace feedback to tune dispatch objective weights, a concrete example of RL driving operational policy at scale.</li></ul>]]></description>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-12.mp3" length="3603600" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-12</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
