@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 16:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:09:17 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 11, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches managed Agents API</b> — OpenAI moved agent orchestration into a cloud service with long-running sessions, tool use, and Codex-based execution, signaling a push from chat UX to deployable agent infrastructure.</li><li><b>OpenAI pauses Pro sign-ups as Astra strains capacity</b> — Demand for GPT-6 Astra is high enough that OpenAI temporarily halted new Pro subscriptions, a useful real-world signal that frontier inference capacity remains the bottleneck.</li><li><b>OpenAI adds full-duplex voice with GPT-Live-1</b> — A new API model targets low-latency, natural voice interaction with telephony support, tightening the race around realtime multimodal interfaces.</li><li><b>Anthropic alleges coordinated model distillation attacks</b> — Anthropic says several Chinese AI firms have been aggressively attempting to distill frontier models, raising the temperature on model exfiltration, access control, and geopolitics.</li><li><b>Mixture-of-Experts may overfit more under repeated data</b> — A new paper suggests sparse MoE models are especially vulnerable when training data is repeated, which matters as the industry leans harder on synthetic and recycled corpora.</li><li><b>GPU-CFR shows 80x speedup for regret minimization</b> — Researchers compiled counterfactual regret minimization into static dataflow plus CUDA graph replay, turning a traditionally CPU-favored workload into a highly efficient GPU job.</li><li><b>Google unveils genome model scoring every single-base variant</b> — Google’s genomics system predicts the effect of every possible one-base DNA change, pushing foundation-model methods deeper into practical biological interpretation.</li><li><b>Data center power constraints tighten in Massachusetts</b> — New clean-power rules add to the growing list of state-level constraints on data center expansion, underscoring that AI scaling is now as much an energy and grid problem as a model problem.</li></ul>]]></description>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-11.mp3" length="3757680" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-11</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 10, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI launches GPT-6 Astra and a data agent push for enterprise</b> — OpenAI rolled out a more capable work-focused model plus natural-language data connectivity and dashboards, tightening its grip on enterprise AI workflows.</li><li><b>Massachusetts adds clean-power constraints for data centers</b> — Another state is moving to curb unfettered AI infrastructure growth, underscoring that grid architecture is becoming a first-order AI bottleneck.</li><li><b>Maven Robotics emerges with $100M to industrialize robot deployment</b> — The startup is betting that deployment software and systems integration, not just better foundation models, are the real chokepoints in robotics adoption.</li><li><b>IBM releases Granite time-series foundation model under a commercial-friendly license</b> — A strong open model for forecasting could matter more to industry than another chatbot, especially for operations, planning, and anomaly detection.</li><li><b>New papers target the messy realities of enterprise and agent deployment</b> — IBIB, JarvisGUI, and KVShareArena all attack evaluation and serving blind spots that matter once models leave the lab.</li><li><b>Show-Harness proposes a semantic interface for VLM-driven robot control</b> — The paper suggests a practical middle layer that lets vision-language models reason over robot actions without learning every low-level controller end to end.</li><li><b>Apple pushes ambient-listening AI and provenance features into consumer hardware</b> — Always-listening summaries and signed camera output show the next phase of on-device AI is about trust, consent, and proof as much as capability.</li><li><b>AI agent traffic is hitting public services, and identity security startups are responding</b> — Automated claims and requests are rising while firms like Cymphony target the governance gap around nonhuman identities and agent permissions.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-14.mp3" length="3446928" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-14</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 13, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic model shutdown after government order</b> — US authorities forced Anthropic to cut off Fable 5 and Mythos 5, turning a jailbreak issue into a major precedent for frontier-model controls.</li><li><b>Mistral reportedly raising €3B at €20B</b> — The rumored round signals continued investor appetite for an independent European model vendor despite brutal capital requirements.</li><li><b>Physical AI funding wave intensifies</b> — Prometheus raised $12B for an 'artificial general engineer,' while Theker raised $85M for reconfigurable factory robots.</li><li><b>Hugging Face releases olmo-eval workbench</b> — A new evaluation tool aims to tighten the model development loop with more reproducible and configurable benchmarking.</li><li><b>RA-RFT paper pushes analogy-based reasoning</b> — A new post-training method uses retrieval plus reinforcement fine-tuning to teach models to retrieve by reasoning pattern, not just semantic similarity.</li><li><b>HyperTool proposes higher-level tool execution for agents</b> — The paper argues step-wise tool calls are the wrong abstraction and replaces them with code-block execution over MCP-style tools.</li><li><b>Mana shows sim-to-real progress for articulated tool use</b> — A robotics paper reframes dexterous manipulation of articulated tools as an animation problem, improving contact-rich control.</li><li><b>Data center water and siting pressure keeps rising</b> — Amazon disclosed 2.5 billion gallons of annual water use as protests and permitting fights continue to slow AI infrastructure buildouts.</li></ul>]]></description>
-      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-13.mp3" length="3679920" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-13</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
