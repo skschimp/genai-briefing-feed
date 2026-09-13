@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 15:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:53:25 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 13, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic proposes to 'pace the frontier'</b> — Dario Amodei wants slower capability rollout plus third-party eval access, turning safety from rhetoric into a governance mechanism.</li><li><b>Anthropic details model-led cyber incidents</b> — New disclosures on autonomous hacking behavior sharpen the case that agentic systems need stronger operational guardrails now, not later.</li><li><b>Moonshot AI pushes toward $2B revenue</b> — Kimi-maker Moonshot’s scale suggests China’s consumer and API model market is becoming a serious parallel center of gravity.</li><li><b>Robot-data startup Mecka nears $500M valuation</b> — Fresh funding interest around robot training data shows the embodied-AI stack is shifting from hardware novelty to data bottlenecks.</li><li><b>MoE models may overfit repeated data faster</b> — A new paper argues sparse Mixture-of-Experts architectures are more brittle under data repetition, with implications for frontier scaling economics.</li><li><b>Model-aware schedule design improves generation</b> — New research uses optimal-transport ideas to tune diffusion and flow schedules around model error, pointing to a practical quality-efficiency lever.</li><li><b>CausalArena targets causal discovery evaluation</b> — A new benchmark aims to separate real causal reasoning from benchmark leakage as foundation-model-based causal discovery gains attention.</li><li><b>Data-center deregulation raises AI infrastructure stakes</b> — The US push to accelerate AI data-center buildout by loosening environmental constraints highlights the growing energy-health-politics tradeoff.</li></ul>]]></description>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-13.mp3" length="3663360" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-13</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 12, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pauses Pro sign-ups as Astra demand strains capacity</b> — A premium-tier freeze is a strong signal that frontier-model demand is outrunning even top-tier inference supply.</li><li><b>OpenAI details storage stack serving 1B ChatGPT users</b> — The company says its Habitat platform now handles 22 million requests per second, underscoring that AI leaders are becoming infrastructure companies.</li><li><b>Moonshot reportedly targets $2B annual revenue</b> — Kimi’s scale and OpenRouter token volumes suggest China’s consumer AI market is still producing very large independent winners.</li><li><b>Anthropic alleges Chinese model distillation campaigns</b> — The report turns model extraction from a quiet concern into an explicit geopolitical and platform-security issue.</li><li><b>Slack expands in-chat app generation with Slackforce Surfaces</b> — Enterprise AI is moving from copilots toward lightweight agentic UI generation inside existing workflows.</li><li><b>Robot-data startup Mecka nears $500M valuation</b> — Investors are pricing robotic training data as a scarce strategic asset, not a commodity labeling business.</li><li><b>MoE models may overfit more under repeated-data training</b> — A new paper suggests sparse architectures could be more vulnerable than dense models as labs recycle web-scale corpora.</li><li><b>GPU-CFR shows 80x speedup by compiling game-solving to CUDA graphs</b> — An interesting systems paper demonstrates that static-dataflow compilation can unlock major GPU gains for traditionally CPU-bound search workloads.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-16.mp3" length="3300336" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-16</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 15, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Salesforce buys Fin for $3.6B</b> — A major enterprise AI consolidation move aimed at folding customer-service agents into Agentforce.</li><li><b>OpenAI launches global Partner Network</b> — OpenAI is putting $150 million behind channel and services partners to accelerate enterprise deployment.</li><li><b>Anthropic export controls face backlash</b> — Cybersecurity experts are pushing Washington to relax restrictions on Anthropic’s top models, arguing the ban hurts defenders as much as adversaries.</li><li><b>Sarvam lands $234M and reaches unicorn status</b> — HCLTech’s backing gives India a stronger domestic AI platform story amid concerns over foreign model access.</li><li><b>NewCore raises $66M for agent identity</b> — The startup is targeting a coming enterprise control plane problem: how to provision, authenticate, and govern non-human AI workers.</li><li><b>Parallel-Synthesis proposes latent branch merging for agents</b> — A new paper argues agent workflows should combine parallel branches in latent space instead of text concatenation to cut context waste.</li><li><b>Gaze Heads reveals controllable visual attention in VLMs</b> — Researchers identify a small set of attention heads that track the image regions a model is describing, with implications for interpretability and steering.</li><li><b>BayLing-Duplex advances full-duplex speech agents</b> — The paper shows a single autoregressive speech model can decide when to listen and speak simultaneously without external turn-taking modules.</li><li><b>SIMMER benchmarks latent planning failures</b> — A new evaluation suite targets the silent, non-immediate planning mistakes that make embodied agents look competent until goals quietly fail.</li></ul>]]></description>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-15.mp3" length="3706128" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-15</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
