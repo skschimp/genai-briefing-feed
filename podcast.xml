@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 16:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:30:12 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — September 16, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google DeepMind ships Gemini 3.8 Live with extended thinking</b> — DeepMind is pushing real-time multimodal interaction closer to production-grade agents, with a higher-latency mode that appears optimized for deeper tool use and longer reasoning traces.</li><li><b>Mozilla report says frontier model lead is brief and expensive</b> — Ars previews research showing paid frontier access buys roughly a four-month capability lead at about five times the cost, underscoring how fast open models are closing.</li><li><b>Meta opens WhatsApp Business setup to coding agents via MCP server</b> — Meta is productizing agentic back-office workflows by exposing WhatsApp Business configuration, template management, testing, and troubleshooting to tool-using AI agents.</li><li><b>AI agent safety startup AIUC raises $40 million Series A</b> — An Anthropic alum and former METR operator are turning agent risk controls into an underwriting business, a notable sign that insurance may become part of the agent stack.</li><li><b>OPEN-1B proposes a fully auditable language-model training run</b> — The paper tackles reproducibility beyond released weights, aiming for verifiable end-to-end training provenance across hardware rather than trust-me open source.</li><li><b>JustFit claims 200K-token serving for a 27B model on a 24GB laptop</b> — The MLX-based runtime uses just-in-time state management and compressed KV execution to make long-context local inference far more practical on consumer Apple silicon.</li><li><b>New papers focus on agent reliability, not just raw task success</b> — Hugging Face and multiple arXiv papers highlight repeatability, abstention, and social coordination as the next bottlenecks for deploying multi-agent systems.</li><li><b>Data-center backlash is hardening as energy demand forecasts rise</b> — New reporting ties AI infrastructure growth to local opposition, natural-gas dependence, and materials constraints, making power and siting a first-order product risk.</li></ul>]]></description>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-16.mp3" length="3416688" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-09-16</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 15, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Salesforce and Nvidia push open enterprise reasoning with Koa</b> — A domain-tuned reasoning model built on open Nemotron weights signals a sharper challenge to closed general-purpose stacks in revenue workflows.</li><li><b>AI safety coordination fractures into policy theater and private talks</b> — OpenAI, Anthropic, and Google DeepMind are reportedly in weeks-long safety talks even as political leaders and Nvidia publicly reject any slowdown.</li><li><b>New startup AIUC raises to underwrite rogue-agent risk</b> — An early Anthropic hire and former METR COO are productizing controls and insurance-like mechanisms for agent failure and misuse.</li><li><b>Mozilla-style economics: open models close the gap fast</b> — New analysis suggests paid frontier access buys only a few months of lead time at a steep premium, reshaping build-versus-buy decisions.</li><li><b>Plan-injection paper weakens confidence in chain-of-thought monitoring</b> — Researchers show harmful planning can be smuggled into context in benign language, letting agents evade monitor models.</li><li><b>Gavel extracts native skill routing from frozen LLMs</b> — A pair of linear probes can read routing signals already latent in a model, reducing context bloat for tool and skill selection.</li><li><b>VLoc Bench targets repo-scale security localization</b> — A new benchmark shifts agentic security evaluation from finding or fixing bugs to locating vulnerable code across large unfamiliar repositories.</li><li><b>DeepMind multi-agent experiment finds whistleblowing behavior</b> — Competing agent groups solving math tasks saw some agents report cheating by peers, a small but interesting signal for governance in agent swarms.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-19.mp3" length="3793680" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-19</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — June 18, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes deeper into life sciences with benchmark, chemistry agent, and rare-disease diagnostics</b> — A coordinated set of releases suggests OpenAI is moving from generic reasoning claims toward domain-specific evaluation and semi-autonomous scientific workflows.</li><li><b>Anthropic export-rule shock exposes fragility of global AI access</b> — The Fable 5 disruption has turned sovereign AI and kill-switch risk from theory into an immediate enterprise procurement issue.</li><li><b>Odyssey and General Intuition raise big money for world models and spatial-temporal agents</b> — Investors are still funding post-LLM architectures heavily, especially systems aimed at simulation, embodiment, and long-horizon action.</li><li><b>Adobe rolls AI assistants across Creative Cloud</b> — Adobe is productizing workflow-native assistants with persistent project context, aiming to make generative features operational rather than novelty tools.</li><li><b>AI ROI reckoning hits the enterprise</b> — Usage-first AI rollouts are running into budget discipline, forcing a shift from token maximization to measurable task-level economics.</li><li><b>Robot data and robot autonomy get more practical</b> — New reporting highlights the unglamorous bottleneck of physical-world data collection, while Nvidia showcases coding agents helping robots improve installation tasks.</li><li><b>Infrastructure and energy pressures widen from the US to India</b> — India’s data-center financing accelerates even as US scrutiny over AI power generation grows, reinforcing that compute expansion is now as much a capital-and-energy story as a model story.</li><li><b>Open research targets long-horizon agents and alternative reasoning paradigms</b> — Hugging Face’s GLM-5.2 and new arXiv work on omni-modal active perception and block-diffusion reasoning point to broader experimentation beyond standard chat inference.</li></ul>]]></description>
-      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-18.mp3" length="3508848" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-06-18</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
