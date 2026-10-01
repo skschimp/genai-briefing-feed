@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 17:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:16:33 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 1, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google unveils Gemini 4 Argon</b> — DeepMind says its new frontier model pushes coding, enterprise workflow, and cyber-defense performance, but access is initially restricted to trusted defenders.</li><li><b>AMD buys World Labs in $8.2B AI move</b> — AMD’s acquisition signals a serious bid to differentiate against Nvidia with world-model and embodied-AI talent, not just faster accelerators.</li><li><b>AllenAI releases Olmo-core 3</b> — The new open training stack targets scalable mixture-of-experts development, giving teams more transparent infrastructure for large sparse-model training.</li><li><b>OpenAI details defenses against model distillation</b> — The company says it disrupted a coordinated attempt to extract protected reasoning traces, highlighting how model IP protection is becoming a first-class platform concern.</li><li><b>Google pilots publisher payments for AI search</b> — Early economics look weak, with reports that many publishers are seeing tiny revenue replacement for traffic lost to AI answers.</li><li><b>Restate raises $20M for durable agent infrastructure</b> — Its database-free durable execution architecture is positioned as core plumbing for long-running, failure-prone AI workflows.</li><li><b>Decision models keep spreading</b> — Amazon’s Strands Decider 2B and OpenAI’s Decisions API reinforce a shift toward fast, structured choice models for reranking and agent control loops.</li><li><b>New research sharpens agent evaluation</b> — Fresh papers on computer-use speed benchmarks, recovery from pivotal mistakes, and harness simplification suggest the next gains may come from systems design as much as bigger models.</li></ul>]]></description>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-01.mp3" length="3646944" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-01</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — September 30, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes cheaper frontier capability with GPT-6.1 Sol</b> — OpenAI says GPT-6.1 Sol gets close to Astra-level performance for coding and professional workflows at roughly one-fifth the token price.</li><li><b>OpenAI turns ChatGPT into an agent platform with Dots and app-like plug-ins</b> — DevDay introduced always-on background agents, richer plug-in interfaces, automations, and office-style features that make ChatGPT look more like an operating environment.</li><li><b>Codex gets reusable cloud dev environments</b> — OpenAI expanded Codex with persistent cloud workspaces, updated CLI workflows, code review tools, and repo-scanning security features aimed at real software teams.</li><li><b>AMD acquires World Labs in major infrastructure play</b> — AMD is buying the AI startup for $8.2 billion, signaling a broader push to compete with Nvidia across model, simulation, and accelerated compute stacks.</li><li><b>Google’s publisher-payments pilot for AI answers looks weak</b> — Reports indicate early compensation for AI search content is tiny relative to lost traffic, underscoring the unresolved economics of answer engines.</li><li><b>Restate raises $20M for durable execution infrastructure</b> — The startup is betting that agentic systems need workflow runtimes with built-in state, replay, and recovery rather than thin wrappers over stateless LLM calls.</li><li><b>DeepMind debuts SynthID Bio for protein watermarking</b> — The proof-of-concept extends provenance techniques into AI-generated proteins, aiming to preserve biological function while enabling traceability and biosecurity controls.</li><li><b>New papers target the next bottlenecks in agents and efficient inference</b> — Notable arXiv work covered meta-reasoning harnesses for agents, recurrent-state quantization for linear attention, and architectures that feed latent state forward across generation.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04.mp3" length="3432528" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 3, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Cloudflare forces AI crawler separation</b> — Publishers get default leverage as Cloudflare moves to distinguish search indexing from training and agent scraping.</li><li><b>Anthropic explores Samsung chip tie-up</b> — Another frontier lab is looking beyond Nvidia, signaling a deeper shift toward custom AI silicon and supply control.</li><li><b>Microsoft creates AI deployment company</b> — A $2.5 billion commitment suggests hyperscalers now see implementation and operationalization as a standalone business line.</li><li><b>Anthropic launches Claude Science</b> — The company is packaging models, tools, and datasets into a scientific workbench, with drug discovery ambitions in view.</li><li><b>ReContext targets long-context failures</b> — A training-free inference method uses recursive evidence replay to improve whether models actually use relevant context.</li><li><b>Persistent-state coding agents expose new attack surface</b> — New research shows how autonomous coding agents can distribute malicious changes across pull requests over time.</li><li><b>Task-agnostic pretraining for robot VLAs</b> — A new robotics paper argues models should learn motor priors first, then language-conditioned tasks, to reduce demonstration bottlenecks.</li><li><b>OrbitQuant compresses diffusion transformers</b> — A data-agnostic quantization method could make image and video diffusion transformers cheaper to run without checkpoint-specific calibration.</li></ul>]]></description>
-      <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-03.mp3" length="3692592" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-03</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
