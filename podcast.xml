@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 18:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:45:20 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 2, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google unveils Gemini 4 Argon</b> — DeepMind says its new frontier model pushes coding, enterprise reasoning, and cyber defense, with access initially restricted to trusted defenders.</li><li><b>OpenAI sharpens the GPT-6 product stack</b> — A new model guide emphasizes reasoning-effort controls, tool coordination, and workflow design as the practical levers for production deployments.</li><li><b>Benchmarks get more realistic for agents</b> — New papers including KaliBench and Argo-Bench focus on executable cyber tool use and enterprise data workflows rather than toy prompt tasks.</li><li><b>Visual memory becomes a key agent primitive</b> — The VISTA paper shows that a visual harness with lossless retrieval can materially improve long-horizon multimodal reasoning in interactive environments.</li><li><b>Coding agents learn context compaction</b> — AutoCompact trains repository-scale coding agents to decide when and how to summarize stale context instead of just stuffing ever more tokens into the window.</li><li><b>Robot skill improvement shifts toward scaffolded self-training</b> — The RPG framework improves embodied agents without changing model weights by generating practice tasks in simulation and building reusable symbolic repairs.</li><li><b>Data center politics harden as AI power demand rises</b> — Amazon is openly lobbying communities to approve AI data centers, while local resistance increasingly centers on land use, water, and grid strain.</li><li><b>OpenAI adds virtual try-on to ChatGPT shopping</b> — The feature is another signal that consumer GenAI is converging on commerce interfaces where personalization, recommendation, and generation collapse into one workflow.</li></ul>]]></description>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-02.mp3" length="3513744" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-02</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 1, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google unveils Gemini 4 Argon</b> — DeepMind says its new frontier model pushes coding, enterprise workflow, and cyber-defense performance, but access is initially restricted to trusted defenders.</li><li><b>AMD buys World Labs in $8.2B AI move</b> — AMD’s acquisition signals a serious bid to differentiate against Nvidia with world-model and embodied-AI talent, not just faster accelerators.</li><li><b>AllenAI releases Olmo-core 3</b> — The new open training stack targets scalable mixture-of-experts development, giving teams more transparent infrastructure for large sparse-model training.</li><li><b>OpenAI details defenses against model distillation</b> — The company says it disrupted a coordinated attempt to extract protected reasoning traces, highlighting how model IP protection is becoming a first-class platform concern.</li><li><b>Google pilots publisher payments for AI search</b> — Early economics look weak, with reports that many publishers are seeing tiny revenue replacement for traffic lost to AI answers.</li><li><b>Restate raises $20M for durable agent infrastructure</b> — Its database-free durable execution architecture is positioned as core plumbing for long-running, failure-prone AI workflows.</li><li><b>Decision models keep spreading</b> — Amazon’s Strands Decider 2B and OpenAI’s Decisions API reinforce a shift toward fast, structured choice models for reranking and agent control loops.</li><li><b>New research sharpens agent evaluation</b> — Fresh papers on computer-use speed benchmarks, recovery from pivotal mistakes, and harness simplification suggest the next gains may come from systems design as much as bigger models.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-05.mp3" length="3711168" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-05</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 4, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Microsoft forms AI deployment arm with $2.5B commitment</b> — A major go-to-market and infrastructure move that suggests hyperscalers now see deployment, integration, and operations as a standalone AI business layer.</li><li><b>Anthropic explores custom AI chip work with Samsung</b> — Another signal that frontier labs are trying to reduce dependence on Nvidia by shaping their own silicon and packaging stack.</li><li><b>Anthropic launches Claude Science and talks drug discovery</b> — The company is pushing beyond coding into a domain-specific scientific workbench, with clear implications for lab software and regulated workflows.</li><li><b>ReContext boosts long-context reasoning without retraining</b> — A new inference-time method uses recursive evidence replay to improve how LLMs actually use large context windows rather than merely accept them.</li><li><b>Program-as-Weights proposes local neural compilation from natural language specs</b> — The paper sketches a path between brittle rules and expensive API calls by compiling compact task-specific neural artifacts for fuzzy functions.</li><li><b>Persistent-state coding agents expose a new attack surface</b> — Research on iterative code generation shows how malicious or misaligned agents can spread payloads across multiple pull requests over time.</li><li><b>Task-Agnostic Pretraining for VLA robots separates motion from instruction learning</b> — A robotics paper argues that physical competence should be pretrained from cheap unlabeled interaction before language-conditioned task learning.</li><li><b>OrbitQuant offers data-agnostic quantization for diffusion transformers</b> — A post-training quantization method for image and video diffusion models targets inference cost without per-checkpoint calibration data.</li></ul>]]></description>
-      <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04.mp3" length="3432528" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-04</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
