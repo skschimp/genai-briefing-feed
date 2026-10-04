@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 15:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:43:42 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 4, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple tightens Mac full-disk access for agent era</b> — Apple is adding stricter controls around macOS Full Disk Access, explicitly citing higher-risk AI agents with broad access to files, mail, messages, and browsing history.</li><li><b>Meta open-sources Muse gadget code</b> — Meta is pushing its assistant into hardware by releasing code to build Muse-infused devices, a notable open ecosystem play around on-device and ambient agents.</li><li><b>Amazon’s data center backlash response falls flat</b> — AWS says it has stopped using NDAs with communities and is spending $1 billion on local engagement, but criticism is shifting toward power, water, pollution, and trust.</li><li><b>US arrests CEO in alleged Nvidia chip smuggling case</b> — Another high-profile case underscores how porous AI export controls remain and how central Nvidia supply is to geopolitical competition.</li><li><b>VISTA shows a practical path to long-horizon multimodal reasoning</b> — A new visual harness gives multimodal models lossless visual memory and retrieval for interactive tasks, improving performance on ARC-AGI-3 and similar settings.</li><li><b>AutoCompact targets the context-management bottleneck in coding agents</b> — A new paper trains coding agents to learn when and how to compact long trajectories, treating summarization and working-memory management as part of the policy.</li><li><b>KaliBench exposes the fragility of cybersecurity tool use</b> — The benchmark measures whether models can generate actually executable Kali Linux commands, separating real tool competence from benchmark theater.</li><li><b>RPG improves robots without weight updates</b> — Reconstruct, Practice, Go Real uses simulation practice, execution feedback, and symbolic skill repair to improve embodied agents without retraining the base model.</li></ul>]]></description>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-04.mp3" length="3338064" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-04</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 3, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple tightens Mac full-disk access for agents</b> — Apple is adding friction and stronger controls around broad file access, explicitly citing AI agents as a new risk surface.</li><li><b>Meta open-sources Muse gadget code</b> — Meta is pushing its assistant into ambient hardware with open code for DIY displays, HDMI sticks, and embedded gadgets.</li><li><b>OpenAI launches enterprise-first Dot agents</b> — OpenAI’s new agent platform appears aimed at workflow automation first, with structured workplace integrations and consumer spillover second.</li><li><b>VISTA shows multimodal models need better harnesses, not just bigger weights</b> — A new paper reports major gains on interactive reasoning tasks by giving a vision model lossless visual memory and retrieval over prior observations.</li><li><b>AutoCompact targets long-horizon coding agent context bloat</b> — Researchers train coding agents to decide when and how to compact context, treating memory management as part of the policy.</li><li><b>KaliBench raises the bar for cybersecurity tool-use evaluation</b> — The benchmark focuses on executable command correctness for Kali Linux tools, exposing how fragile current agentic security performance can be.</li><li><b>SoftServe revisits quasi-Newton training at deep-learning scale</b> — A new optimizer family claims positive-definite curvature estimates and scalable diagonal and Kronecker-factored variants for modern models.</li><li><b>Data-center politics intensify as AWS defends AI buildout</b> — Amazon is publicly arguing that resistance to data centers threatens economic growth and national security, highlighting infrastructure becoming a front-line AI issue.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07.mp3" length="3582864" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 6, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>LeRobot 0.6 sharpens the open robotics stack</b> — Hugging Face updates LeRobot with a stronger loop around imagination, evaluation, and policy improvement for VLA-style robotics workflows.</li><li><b>Program-as-Weights pushes local neural functions</b> — A new paper proposes compiling natural-language function specs into compact executable neural artifacts instead of calling an external LLM API.</li><li><b>ReContext offers a training-free long-context fix</b> — Recursive evidence replay improves long-context reasoning by resurfacing likely-relevant spans during inference rather than retraining the model.</li><li><b>Persistent-state coding agents get a new security warning</b> — Research on distributed attacks across pull requests shows how autonomous coding agents can hide malicious intent over time in evolving codebases.</li><li><b>Task-agnostic pretraining for robot action models</b> — A new VLA paper argues robots should first learn how to move from cheap unlabeled interaction data, then learn instruction alignment from scarcer demonstrations.</li><li><b>OrbitQuant targets cheaper diffusion transformer inference</b> — A data-agnostic quantization method for image and video diffusion transformers could reduce deployment friction across checkpoints and modalities.</li><li><b>Microsoft cuts nearly 4,800 roles</b> — The layoffs, concentrated in Xbox and commercial sales, add another signal that major platform vendors are reshaping around AI-era cost structures and go-to-market changes.</li><li><b>UK financial regulator warns of an AI adoption arms race</b> — The FCA says firms are rushing into AI in financial services faster than oversight tools are maturing, with implications for model risk and governance.</li></ul>]]></description>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-06.mp3" length="3811680" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-06</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
