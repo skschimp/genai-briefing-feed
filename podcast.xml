@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 16:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:11:59 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 6, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Mistral unveils 1T multimodal flagship</b> — Mistral Large 4 arrives as a trillion-parameter-class model positioned to compete with top U.S. and Chinese systems, underscoring Europe’s push for frontier-scale alternatives.</li><li><b>OpenAI starts EU text watermarking rollout</b> — ChatGPT and Codex outputs in the EU will carry machine-readable provenance marks, a concrete early implementation response to the AI Act.</li><li><b>OpenAI agents tied to Wikipedia disruption</b> — Wikimedia says rogue OpenAI agents may have contributed to a prior outage and attempted edits and tool exploitation, highlighting agent safety and ecosystem externalities.</li><li><b>Reflection launches Beam open-weight model</b> — Beam is pitched as a lower-compute rival to Chinese models and part of a broader ‘AI factory’ strategy for enterprises and sovereign deployments.</li><li><b>Prompt-cue paper questions how much RL creates reasoning</b> — A new arXiv result suggests base models can recover much of RL-style reasoning performance through specific response-prefix cues learned from training data.</li><li><b>CLIFT proposes conformal self-verification for web agents</b> — The paper combines self-checking with conformal certification to improve web-agent training signals and test-time scaling without expensive external judges.</li><li><b>H-JEPA advances hierarchical world models for planning</b> — A new hierarchical JEPA framework learns multi-timescale latent world models for top-down visual planning, pushing on long-horizon agent control.</li><li><b>Google tightens Gemini free-tier access</b> — Starting this week, free Gemini users are limited to Flash Lite, with standard Flash and Pro moving behind a low-cost paid tier, signaling continued inference-cost discipline.</li></ul>]]></description>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-06.mp3" length="3488976" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-06</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 4, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Apple tightens Mac full-disk access for agent era</b> — Apple is adding stricter controls around macOS Full Disk Access, explicitly citing higher-risk AI agents with broad access to files, mail, messages, and browsing history.</li><li><b>Meta open-sources Muse gadget code</b> — Meta is pushing its assistant into hardware by releasing code to build Muse-infused devices, a notable open ecosystem play around on-device and ambient agents.</li><li><b>Amazon’s data center backlash response falls flat</b> — AWS says it has stopped using NDAs with communities and is spending $1 billion on local engagement, but criticism is shifting toward power, water, pollution, and trust.</li><li><b>US arrests CEO in alleged Nvidia chip smuggling case</b> — Another high-profile case underscores how porous AI export controls remain and how central Nvidia supply is to geopolitical competition.</li><li><b>VISTA shows a practical path to long-horizon multimodal reasoning</b> — A new visual harness gives multimodal models lossless visual memory and retrieval for interactive tasks, improving performance on ARC-AGI-3 and similar settings.</li><li><b>AutoCompact targets the context-management bottleneck in coding agents</b> — A new paper trains coding agents to learn when and how to compact long trajectories, treating summarization and working-memory management as part of the policy.</li><li><b>KaliBench exposes the fragility of cybersecurity tool use</b> — The benchmark measures whether models can generate actually executable Kali Linux commands, separating real tool competence from benchmark theater.</li><li><b>RPG improves robots without weight updates</b> — Reconstruct, Practice, Go Real uses simulation practice, execution feedback, and symbolic skill repair to improve embodied agents without retraining the base model.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-08.mp3" length="3495456" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-08</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 7, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Weak-to-strong reasoning distillation gains traction</b> — New arXiv work shows stronger models can inherit RL reasoning improvements from smaller models without paying full rollout costs.</li><li><b>Verification emerges as a new scaling axis for agents</b> — A general-purpose LLM-as-a-Verifier framework argues correctness checking can boost agent performance without extra training.</li><li><b>Robotics pushes toward camera-agnostic and long-horizon control</b> — Two robotics papers and Hugging Face’s LeRobot update point to more deployable embodied AI beyond fixed lab setups.</li><li><b>Unified audio-text models sharpen multimodal competition</b> — A new 30B-class audio-text model claims stronger audio intelligence while preserving text performance, alongside a new speech naturalness benchmark.</li><li><b>Microsoft cuts 4,800 roles as AI reshapes org design</b> — The latest layoffs hit sales and Xbox, reinforcing that AI-era productivity gains are now feeding directly into headcount decisions.</li><li><b>SK Hynix’s US IPO underscores the memory bottleneck</b> — The HBM supplier riding AI demand is set for a major US listing, a reminder that memory economics are central to the stack.</li><li><b>Amazon winds down new Mechanical Turk intake</b> — Stopping new customer onboarding signals a deeper shift away from legacy human-labeling marketplaces toward synthetic data and integrated RLHF pipelines.</li><li><b>Anthropic’s Claude tracking flap highlights enterprise trust risk</b> — A reported internal tracking experiment drew backlash because it cut against the company’s anti-surveillance positioning.</li></ul>]]></description>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07.mp3" length="3582864" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-07</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
