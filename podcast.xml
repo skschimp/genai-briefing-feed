@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 18:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:40:48 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google turns Gemini into a cross-app enterprise agent</b> — Gemini Enterprise now gets a universal agent that can plan, execute, delegate to subagents, and operate with its own workplace identity across business systems.</li><li><b>Mistral unveils open-weight ‘Le Chonk’</b> — Mistral says its new open model can compete with top closed systems, keeping pressure on the open-vs-closed performance gap.</li><li><b>Google ships offline meeting notes with Edge Foresight</b> — A local-first note-taking app built on on-device models signals growing confidence in privacy-preserving edge AI for everyday knowledge work.</li><li><b>Goodfire pitches inside-the-model monitoring for agents</b> — Its new monitoring approach inspects internal model signals and escalates selectively, aiming to cut the cost of supervising autonomous agents.</li><li><b>LMArena operator raises at a $3.1B valuation</b> — The benchmark company lands $200 million and is expanding from preference leaderboards into alignment behaviors like lying and deception.</li><li><b>RoboJEPA and Long-WAM push robot world models forward</b> — Two new papers focus on scaling latent world models and long-context world-action models for robotics under real-time control constraints.</li><li><b>RECAST argues RAG needs computation, not just retrieval</b> — A new paper frames long-context evidence gathering as adaptive routing across access, synthesis, and computation rather than nearest-neighbor fetches alone.</li><li><b>OpenAI faces more pressure on economics and content liability</b> — A report says revenue trails earlier expectations, while USA Today joins the publisher lawsuit wave over training-data use.</li></ul>]]></description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-08.mp3" length="3770784" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI rolls out GPT-6 with Intelligent UI</b> — ChatGPT gets a faster frontier model and a visual, interactive interface that turns conversations into executable UI elements.</li><li><b>Mistral unveils open-weight 1T multimodal flagship</b> — Mistral Large 4, nicknamed 'Le Chonk,' pushes the open camp back into the top-tier model conversation with a trillion-parameter-class release.</li><li><b>DeepMind opens EmbeddingGemma 2</b> — Google DeepMind released a lightweight multimodal embedding model aimed at practical retrieval, ranking, and on-device-ish deployment.</li><li><b>Microsoft expands Copilot into Windows control plane</b> — Copilot is gaining local file access and OS actions under a 'Hybrid Intelligence' architecture that blends local and cloud execution.</li><li><b>Lambda targets $4B raise ahead of IPO</b> — The GPU cloud provider’s planned mega-round is a strong signal that AI infrastructure financing remains very much open despite margin pressure.</li><li><b>Agent interoperability collides with web defenses</b> — A proposed standard for websites and personal agents arrives as bot defenses, traffic incidents, and protocol security concerns intensify.</li><li><b>OpenAI publishes another wave of math results</b> — A frontier internal model generated hundreds of manuscript-level mathematical results, extending the push from benchmark reasoning into research output.</li><li><b>DepthWorld advances 3D-consistent robot world models</b> — A new arXiv paper tackles the geometry gap in manipulation world models by combining large-scale 3D supervision with pretrained video priors.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-10.mp3" length="3850128" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-10</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 9, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI ships GPT-Live voice model</b> — Full-duplex speech pushes live translation and interruption handling closer to real conversation.</li><li><b>OpenAI questions coding benchmark signal</b> — Its new analysis argues popular SWE-Bench-style evals may be noisier than teams assume for model selection.</li><li><b>Ollama raises $65M</b> — The local-model runtime’s scale suggests on-device and laptop-first AI has become a durable developer platform, not a hobby.</li><li><b>ZML open-sources multi-chip inference software</b> — Its new LLMD release targets lower-cost inference across heterogeneous accelerators, a practical pain point for production teams.</li><li><b>SambaNova lands another $1B</b> — Fresh capital at an $11B valuation shows investors still see room for alternative AI silicon amid Nvidia concentration.</li><li><b>Prime Intellect raises $130M Series A</b> — The company is pitching enterprise-controlled agent training, reflecting demand for owning the full agent stack rather than renting API behavior.</li><li><b>Gaming data bet for robotics gains attention</b> — General Intuition argues simulated interaction data may be the missing ingredient for spatial and physical-world foundation models.</li><li><b>New papers sharpen the RL-for-reasoning debate</b> — ArXiv work on cross-model competition and compositional reasoning adds evidence that post-training may build strategies, not just verbosity.</li></ul>]]></description>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-09.mp3" length="3514464" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-09</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
