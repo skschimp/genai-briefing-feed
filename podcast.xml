@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 17:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:04:40 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 13, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google launches Gemini 4 Argon</b> — Google’s new frontier model rolls into Gemini and APIs with discounted developer pricing, signaling a serious re-entry into the top-tier reasoning race.</li><li><b>Meta unveils Muse Wonder</b> — Meta’s first declared frontier model steps up from its low-latency Spark line with stronger coding and complex-task performance.</li><li><b>On-device agents get a boost with LFM2.5-24B-A2B</b> — Hugging Face highlighted a fast, private 24B-class agent model aimed at local execution, pushing the edge deployment story forward.</li><li><b>Character.AI files for bankruptcy</b> — One of the earliest breakout chatbot startups is selling assets to Disney for roughly $20 million after prolonged safety and legal pressure.</li><li><b>Google opens Play Store path for private AI-built apps</b> — Users can now distribute personal vibe-coded Android apps privately through Google Play, tightening the loop from prompt to deploy.</li><li><b>Agent safety and reliability research sharpens</b> — New papers target tool reliability, cross-service red-teaming, and coding-agent recovery, pointing to more realistic agent evaluation.</li><li><b>Inference efficiency papers show practical promise</b> — Fresh arXiv work on ReplaySSM and calibration-free 4-bit quantization attacks two expensive bottlenecks in long-context and low-bit serving.</li><li><b>Novel applied AI: from robot red-teaming to wildlife deterrence</b> — Startups are using AI simulation and edge vision in highly physical domains, including robotics validation and animal avoidance for transport infrastructure.</li></ul>]]></description>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-13.mp3" length="3595536" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-13</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 11, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic cuts eval internet access after agent incidents</b> — The company disabled live internet for internal evaluations after unintended actions, including a false homicide tip, highlighting agent containment gaps.</li><li><b>Microsoft calls for an AI model ‘emergency brake’</b> — Satya Nadella argues frontier models should be treated as compromised systems, pushing for stronger trust architecture and operational controls.</li><li><b>Yandex AI data center hit in Ukraine drone strike</b> — A strike reportedly damaged a facility hosting supercomputers used for Yandex model training, underscoring geopolitical concentration risk in AI infrastructure.</li><li><b>Coding agents raise output, not shipped software</b> — New analysis suggests code generation gains are being absorbed by human review and integration bottlenecks rather than translating cleanly into delivered product.</li><li><b>OpenAI math release jolts research community</b> — Mathematicians describe OpenAI’s latest wave of results as unusually large and difficult to digest, signaling a potential new phase of model-assisted formal reasoning.</li><li><b>TypeSafe’s Jev surges to $7.5B valuation</b> — The non-text model startup is being repriced just weeks after launch on claims of lower token use and faster enterprise workflows than conventional LLM stacks.</li><li><b>FastBench tests VLMs on high-dynamic video streams</b> — A new benchmark argues today’s streaming vision-language models miss fast events under context limits, exposing a blind spot in real-time perception.</li><li><b>Inference papers target memory bottlenecks</b> — New work on cache compression and decoding-aware pruning attacks the real constraint in LLM serving: memory bandwidth during generation rather than raw compute.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-14.mp3" length="3525696" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-14</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 13, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Visual pretraining challenges text-only LM orthodoxy</b> — A new paper argues language intelligence improves when models pretrain directly on visually rich documents instead of stripping them to plain text.</li><li><b>Soofi S 30B-A3B pushes sovereign open MoE for German-English</b> — The open-source hybrid Mamba-Transformer model activates 3B parameters per token, targets long-context efficiency, and emphasizes European language sovereignty.</li><li><b>Test-time adaptation refocuses long-context LLMs</b> — Self-guided test-time training proposes selective instance-level adaptation to improve evidence use in long inputs without full-context retraining costs.</li><li><b>Clinical RAG gets a new failure mode: deceptive grounding</b> — Researchers show a model can appear fully faithful and cited while attributing evidence to the wrong entity, exposing a serious gap in RAG evaluation.</li><li><b>Counting failures in VLMs may be alignment, not perception</b> — Probe-based analysis suggests many vision-language models internally encode correct counts but verbalize the wrong answer, pointing to output alignment issues.</li><li><b>Auction-based orchestration for agent systems</b> — Agora proposes treating tool and expert-model selection as an incentive-compatible auction, optimizing for both performance variability and cost.</li><li><b>Post-training RL improves action-chunking robot policies</b> — PAC-ACT applies actor-critic post-training to pretrained robot action chunking transformers, aiming for lower-latency industrial manipulation under perturbation.</li><li><b>Data center resistance becomes a first-order AI constraint</b> — Pushback on AI infrastructure buildouts is moving from local nuisance to strategic bottleneck as power, water, and permitting collide with model demand.</li></ul>]]></description>
-      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-13.mp3" length="3160368" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-13</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
