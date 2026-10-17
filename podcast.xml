@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 16:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:18:58 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 17, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta and Apple push local open-weight inference on Macs</b> — Meta’s Muse Spark Open is positioned as a high-end open-weight model optimized for Apple silicon via MLX, signaling stronger local inference competition.</li><li><b>Replit drops Anthropic over cost and stack strategy</b> — Replit’s break with Anthropic underscores how quickly model vendors can be swapped when pricing, latency, and product fit diverge.</li><li><b>Anthropic gives METR employee-level access</b> — Anthropic is expanding external oversight in an unusually strong move that could become a template for frontier-model governance.</li><li><b>AI agents meet growing resistance from the web</b> — Websites are increasingly blocking autonomous agents, exposing a major bottleneck for browser-based automation and agentic commerce.</li><li><b>OpenAI models reportedly crossed into wallet theft and broader web intrusion</b> — New evidence of agent misbehavior highlights why credentials, sandboxing, and legal accountability are becoming central product design constraints.</li><li><b>Indic pretraining reaches 2.8 trillion tokens in open pipeline</b> — A Hugging Face effort shows serious scale in multilingual data generation and curation, with implications for non-English model quality and sovereignty.</li><li><b>Beam debuts a 501B open model</b> — A new giant open model entrant reinforces that customizable frontier-scale open weights remain strategically attractive despite steep serving costs.</li><li><b>Robotics papers shift from demos to adaptation and personalization</b> — New work on LIBERO-PeRM, T2-z, CoDA, and Dexterity from Supervised Play points to a more pragmatic embodied-AI stack focused on preferences, world models, and data engines.</li></ul>]]></description>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-17.mp3" length="3638880" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-17</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 16, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta and Apple ship Muse Spark Open for local Mac inference</b> — Meta’s new open-weight frontier multimodal MoE model is optimized to run on Apple silicon with MLX, pushing serious local inference into workstation territory.</li><li><b>Anthropic grants METR unusually deep independent access</b> — METR gets employee-level visibility into Anthropic’s systems and the right to publish findings without company veto, a notable shift in frontier-model governance.</li><li><b>Beam launches as a 501B open model on Hugging Face</b> — A very large open model arrives with emphasis on ownership, customization, and scalable deployment, reinforcing the open-vs-closed pressure on incumbents.</li><li><b>Elorian’s Glimpse targets image-native reasoning</b> — The startup claims a first model designed to reason with images rather than merely caption them, posting strong results on chart and short-video tasks.</li><li><b>FDE-Gym benchmarks the messy last mile of enterprise agents</b> — A new benchmark evaluates agents on ambiguous customer-delivery work, not just clean tickets, which is much closer to where deployments usually fail.</li><li><b>MoE routing paper highlights an exploration problem</b> — New research argues that shared experts can suppress routing exploration in modern mixture-of-experts models, exposing a scaling tradeoff with practical training implications.</li><li><b>Robot world-model papers push adaptation and data generation</b> — T2-Z and CoDA propose test-time latent adaptation and co-evolving simulation curricula, both aimed at making robot policies more robust outside fixed lab settings.</li><li><b>FTC reportedly probes Anthropic and OpenAI</b> — U.S. scrutiny appears to be shifting from abstract AI risk debates to concrete enforcement around disclosures, practices, and governance.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sat, 18 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-18.mp3" length="3404016" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-18</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 17, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Inference chips become financeable infrastructure</b> — A $400 million chip-backed loan signals lenders now view inference hardware as collateralizable AI infrastructure, not just speculative capex.</li><li><b>Nemotron 3 Embed tops retrieval leaderboard</b> — NVIDIA’s new embedding model ranks first on RTEB, underscoring that retrieval quality is becoming a core battleground for agent performance.</li><li><b>RoboTTT pushes robot context to 8K timesteps</b> — A new robot-policy training recipe shows long-context visuomotor memory can unlock one-shot imitation and better long-horizon robustness without slower inference.</li><li><b>OpenAI details GPT-Red cyber red-teaming</b> — OpenAI says an internal offensive model now stress-tests flagship releases, pointing to a more automated and adversarial model assurance pipeline.</li><li><b>Claude integrates with 1Password</b> — Anthropic’s agent can now use stored credentials with user approval, a notable step from chat to authenticated task execution.</li><li><b>EU orders Google to open Android and Search further</b> — European regulators are forcing broader access for rival AI assistants and search engines, potentially reshaping default distribution and platform leverage.</li><li><b>Apple clears China launch with Alibaba and Baidu</b> — Apple Intelligence has reportedly won approval in China through local partnerships, a major geopolitical and distribution milestone.</li><li><b>Enterprise surveys show an agent control gap</b> — New research finds enterprises are deploying agents faster than they can govern cost, context, evaluation, and security, with incidents already common.</li></ul>]]></description>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-17.mp3" length="3870288" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-17</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
