@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 15:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:37:47 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 19, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia pushes open enterprise and PC agent models</b> — Nvidia launched new open models aimed at private enterprise agents in datacenters and on-device PCs, underscoring the shift toward deployable, governable local AI.</li><li><b>AI-agent cyberattacks move from theory to operations</b> — A reported campaign used largely autonomous AI agents to compromise over 100 websites, highlighting how agent loops are becoming practical offensive tooling.</li><li><b>History-free speculative decoding targets agent workloads</b> — New papers on DLite and lossy verification argue current decoding speedups break down for long-context agents and can hide length-inflation costs.</li><li><b>Hopper inference stack gets sharper on prefill and decode</b> — FuTransformer shows an FP8 prefill plus INT4 decode path for Llama-style inference on Hopper, with system-level tricks to cut memory traffic and latency.</li><li><b>Interpretability work questions SAE consistency</b> — A new sparse-coding paper argues standard sparse autoencoders are unstable across runs and proposes a more reproducible route for concept discovery.</li><li><b>Behavioral couplings in fine-tuned LLMs look more structural</b> — A new study finds fine-tuning for one trait can reliably induce others, suggesting alignment and capability tuning still have hidden entanglements.</li><li><b>Self-building laboratories push agents into physical automation</b> — Research on self-building labs proposes agents that can design, configure, and operate their own experimental setups from high-level goals.</li><li><b>Character.AI talent absorption and Replit’s model default switch show ecosystem churn</b> — Disney is poised to absorb most of Character.AI’s workforce, while Replit says OpenAI is now its default over Anthropic, signaling renewed platform consolidation.</li></ul>]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-19.mp3" length="2164752" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-19</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 18, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Replit switches default model provider to OpenAI</b> — A notable platform-routing move that signals shifting economics and quality tradeoffs in coding copilots, even as Anthropic remains available.</li><li><b>Rogue AI agents are now showing up in enterprise environments</b> — India joins a growing list of reports where autonomous agents entered systems through exposed credentials, permissive roles, and misconfigured connectors.</li><li><b>Websites are starting to resist consumer AI agents</b> — Agentic UX is colliding with the open web’s anti-bot defenses, pushing the ecosystem toward authentication, rate controls, and negotiated machine access.</li><li><b>Elorian launches a visual reasoning model focused on images themselves</b> — Its first model, Glimpse, is pitched as reasoning with visual structure rather than just attaching text labels to pixels.</li><li><b>MoE research flags a routing exploration problem in modern designs</b> — A new paper argues shared experts can reduce exploration exactly when fine-grained expert segmentation needs it most.</li><li><b>FDE-Gym targets the messy reality of forward-deployed AI work</b> — The benchmark evaluates agents on ambiguous customer-delivery tasks rather than clean tickets, which is much closer to enterprise deployment.</li><li><b>Robotics papers push adaptation, data engines, and dexterous play</b> — Three new works highlight test-time environment latent optimization, co-evolving simulators with policies, and self-supervised dexterity bootstrapped from short human demonstrations.</li><li><b>3DCodeVerse reframes 3D world creation as executable code</b> — A new dataset-and-harness stack aims to make spatial generation editable, verifiable, and friendlier to coding agents.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20.mp3" length="3742272" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 19, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>RoboTTT extends robot context to 8K timesteps</b> — A new test-time-training policy shows long-horizon robot memory can unlock in-context imitation and adaptation without proportional latency growth.</li><li><b>SearchOS reframes search agents as stateful systems</b> — A multi-agent framework turns implicit search progress into explicit shared state to reduce looping and wasted search budget.</li><li><b>Tokenizer expansion without full retraining</b> — A paper on in-place tokenizer expansion targets a practical pain point for multilingual and on-device LLMs: reducing token fragmentation after deployment priorities shift.</li><li><b>Middle-layer recurrence returns to transformer reasoning</b> — T2MLR injects cached latent state across decoding steps, aiming to preserve intermediate computation with low overhead versus pure autoregressive token bottlenecks.</li><li><b>Security agents get a cost-aware benchmark lens</b> — New evaluation work argues success rates alone are misleading for offensive and defensive AI agents because every reasoning step and tool call has budget impact.</li><li><b>Pretraining poisoning via public discussion channels</b> — Research shows computational propaganda can plausibly contaminate web-scale corpora through existing content injection pathways, stressing data curation pipelines.</li><li><b>Databricks climbs to a $188B valuation</b> — The company’s latest valuation underscores how the market is rewarding AI platform positioning, especially around open-weight economics and enterprise tooling.</li><li><b>Apple’s trade-secrets suit raises the stakes for OpenAI</b> — The case adds legal and governance pressure at a sensitive moment, with implications for talent mobility, hardware ambitions, and any future public-market plans.</li></ul>]]></description>
-      <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-19.mp3" length="3698064" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-19</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
