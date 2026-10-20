@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 18:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:44:08 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 20, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia pushes open enterprise and on-device agent models</b> — Nvidia launched new open models aimed at private enterprise agents in datacenters and on PCs, extending the open-versus-closed deployment split.</li><li><b>Amazon targets PyTorch portability with TorchNeuron</b> — Amazon introduced TorchNeuron to make Hugging Face and PyTorch workloads easier to run on Trainium, a direct attempt to weaken Nvidia CUDA lock-in.</li><li><b>Tenstorrent raises $1.5B at $6.2B valuation</b> — The AI chip startup chose independence over acquisition, signaling investor appetite for open-weight silicon alternatives as inference demand broadens.</li><li><b>Anthropic and Nscale reportedly discuss another massive compute pact</b> — A possible $45 billion infrastructure deal underscores how frontier labs are becoming long-duration buyers of power, datacenter capacity, and financing.</li><li><b>CoreWeave debt concerns spill into the wider AI stack</b> — Distress in CoreWeave’s bonds is turning GPU-backed infrastructure financing into a broader market question, not just a single-company issue.</li><li><b>Microsoft warns enterprises to treat agents like insider threats</b> — Microsoft is telling customers that frontier model agents are not trustworthy by default and need monitoring, segmentation, and policy controls.</li><li><b>New papers attack the memory and context bottleneck</b> — Fresh arXiv work on LatComm, KEEP-Bench, and memory-native architectures highlights a key 2026 theme: cheaper long-context is useful only if evidence remains faithful.</li><li><b>Agent training shifts toward world models and imagination</b> — Several new papers propose synthetic computer-use environments, imagination-driven planning, and dynamic adapter switching to improve long-horizon agent reliability.</li></ul>]]></description>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-20.mp3" length="3606336" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-20</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 19, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia pushes open enterprise and PC agent models</b> — Nvidia launched new open models aimed at private enterprise agents in datacenters and on-device PCs, underscoring the shift toward deployable, governable local AI.</li><li><b>AI-agent cyberattacks move from theory to operations</b> — A reported campaign used largely autonomous AI agents to compromise over 100 websites, highlighting how agent loops are becoming practical offensive tooling.</li><li><b>History-free speculative decoding targets agent workloads</b> — New papers on DLite and lossy verification argue current decoding speedups break down for long-context agents and can hide length-inflation costs.</li><li><b>Hopper inference stack gets sharper on prefill and decode</b> — FuTransformer shows an FP8 prefill plus INT4 decode path for Llama-style inference on Hopper, with system-level tricks to cut memory traffic and latency.</li><li><b>Interpretability work questions SAE consistency</b> — A new sparse-coding paper argues standard sparse autoencoders are unstable across runs and proposes a more reproducible route for concept discovery.</li><li><b>Behavioral couplings in fine-tuned LLMs look more structural</b> — A new study finds fine-tuning for one trait can reliably induce others, suggesting alignment and capability tuning still have hidden entanglements.</li><li><b>Self-building laboratories push agents into physical automation</b> — Research on self-building labs proposes agents that can design, configure, and operate their own experimental setups from high-level goals.</li><li><b>Character.AI talent absorption and Replit’s model default switch show ecosystem churn</b> — Disney is poised to absorb most of Character.AI’s workforce, while Replit says OpenAI is now its default over Anthropic, signaling renewed platform consolidation.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-21.mp3" length="3755232" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-21</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 20, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>China’s model price war intensifies</b> — Moonshot and Alibaba are pushing frontier-class claims at much lower cost, tightening the gap with U.S. labs and pressuring margins.</li><li><b>Jensen Huang turns Japan into a full-stack AI partner</b> — Nvidia’s Tokyo deals span chips, clouds, robotics, and national infrastructure, signaling a deeper regional compute alignment.</li><li><b>Loopie revives the looped Transformer idea</b> — A new MoE architecture claims looping can finally compete with simply scaling parameter count, with better compute efficiency.</li><li><b>PagedWeight targets MoE serving bottlenecks</b> — Dynamic runtime quantization of expert weights balances memory between model weights and KV cache for higher-throughput inference.</li><li><b>ActiveVision tests whether multimodal models really look around</b> — A new benchmark measures active observation rather than single-shot image understanding, exposing a likely gap in current MLLMs.</li><li><b>RL post-training looks more contingent on pretraining than advertised</b> — New work studies how model size and data choices shape RL gains and what reinforcement learning actually changes in reasoning models.</li><li><b>Model merging shows surprising parity with joint multitask RL</b> — On an agent benchmark, merged specialist models reportedly match jointly trained models, suggesting a practical path for composable agents.</li><li><b>AI watermarking may not be court-ready evidence</b> — An empirical evaluation argues current text watermarking methods fall short of forensic reliability despite growing regulatory mandates.</li></ul>]]></description>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20.mp3" length="3742272" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-20</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
