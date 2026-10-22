@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 16:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:00:20 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 22, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI lands on Google Cloud</b> — A notable coopetition move: GPT 6.1 family and Codex workflows are heading to Google Cloud’s Model Garden and Marketplace.</li><li><b>Uber expands ChatGPT Work to 30,000 employees</b> — One of the larger enterprise-wide agent rollouts so far, signaling that copilots are moving from pilots into default internal tooling.</li><li><b>PHP zero-day response becomes an AI cyber story</b> — Critical PHP flaws were reportedly exploited before broad disclosure, while OpenAI and Cloudflare pitched agentic vulnerability discovery and patch coordination.</li><li><b>Meta reaches for new capital to fund AI</b> — Meta plans a new non-voting share class to keep financing models, infrastructure, acquisitions, and compensation for its AI buildout.</li><li><b>DeepSeek reportedly raises $15 billion</b> — The scale of the round underscores how strategic Chinese frontier AI has become despite fresh U.S. restrictions and security pressure.</li><li><b>1Password launches passwordless-style controls for agents</b> — Its new agent feature lets bots complete logins with user approval while keeping the underlying credentials hidden.</li><li><b>LongZero pushes long-context reasoning without external data</b> — The paper proposes zero-data reinforcement learning for long-context reasoning, reducing dependence on curated long-form training sets.</li><li><b>AI-assisted systems research claims a faster consensus protocol</b> — A new paper reports A-greement, an AI-helped consensus design that beats prior geo-replicated state-machine baselines on latency.</li></ul>]]></description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-22.mp3" length="3740832" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-22</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 20, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Nvidia pushes open enterprise and on-device agent models</b> — Nvidia launched new open models aimed at private enterprise agents in datacenters and on PCs, extending the open-versus-closed deployment split.</li><li><b>Amazon targets PyTorch portability with TorchNeuron</b> — Amazon introduced TorchNeuron to make Hugging Face and PyTorch workloads easier to run on Trainium, a direct attempt to weaken Nvidia CUDA lock-in.</li><li><b>Tenstorrent raises $1.5B at $6.2B valuation</b> — The AI chip startup chose independence over acquisition, signaling investor appetite for open-weight silicon alternatives as inference demand broadens.</li><li><b>Anthropic and Nscale reportedly discuss another massive compute pact</b> — A possible $45 billion infrastructure deal underscores how frontier labs are becoming long-duration buyers of power, datacenter capacity, and financing.</li><li><b>CoreWeave debt concerns spill into the wider AI stack</b> — Distress in CoreWeave’s bonds is turning GPU-backed infrastructure financing into a broader market question, not just a single-company issue.</li><li><b>Microsoft warns enterprises to treat agents like insider threats</b> — Microsoft is telling customers that frontier model agents are not trustworthy by default and need monitoring, segmentation, and policy controls.</li><li><b>New papers attack the memory and context bottleneck</b> — Fresh arXiv work on LatComm, KEEP-Bench, and memory-native architectures highlights a key 2026 theme: cheaper long-context is useful only if evidence remains faithful.</li><li><b>Agent training shifts toward world models and imagination</b> — Several new papers propose synthetic computer-use environments, imagination-driven planning, and dynamic adapter switching to improve long-horizon agent reliability.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-22.mp3" length="3609792" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-22</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 21, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google readies a new Gemini chip</b> — Alphabet is reportedly developing a new AI chip aimed at materially improving Gemini inference efficiency and cost.</li><li><b>MCP gets easier with stateless sessions</b> — A simplification to the model context protocol could reduce server complexity and make tool integration more web-native.</li><li><b>OpenAI details long-horizon safety lessons</b> — The company says persistent, long-running agents introduce new failure modes that need iterative safeguards beyond classic chat alignment.</li><li><b>Anthropic copyright settlement is approved</b> — A $1.5 billion settlement closes one major case but leaves the core legal question of training on copyrighted material unresolved.</li><li><b>YouTube tightens monetization around AI slop</b> — The platform is drawing a harder line on low-quality synthetic content, signaling a maturing economic filter for generative media.</li><li><b>Deezer says most daily uploads are now AI-generated</b> — More than half of new tracks uploaded each day are synthetic, showing how fast generative supply is overwhelming music platforms.</li><li><b>Gritt raises $34 million for construction robotics</b> — The startup is targeting solar plant construction first, a sign that embodied AI investment is moving toward narrow, high-value industrial workflows.</li><li><b>Research spotlight: coding agents learn to prune themselves</b> — New papers on trajectory minimization and agent-internal pruning point to a practical path for reducing bloated, expensive code-agent workflows.</li></ul>]]></description>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-21.mp3" length="3755232" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-21</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
