@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 15:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:48:14 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 27, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google DeepMind unveils Genie 4 world model</b> — Genie 4 adds real-time audio, more realistic interactive environments, and mid-simulation steering, pushing world models closer to usable simulation platforms.</li><li><b>Anthropic files for IPO and reveals enterprise playbook</b> — The S-1 shows rapid growth, heavy losses, dual product stickiness, and unusually explicit exposure to power and gas constraints in AI infrastructure.</li><li><b>OpenAI claims new science results and launches academic verification program</b> — OpenAI published model-assisted results on the Exponential Time Hypothesis, Kakeya, and QCD, while inviting external researchers into a more structured validation workflow.</li><li><b>Opera proposes WebAI for local in-browser AI deployment</b> — A new web standard aims to let models run client-side in browsers, hinting at a more portable edge-AI application layer.</li><li><b>OpenAI and Oracle expand partnership around business apps in ChatGPT</b> — The deal signals a deeper push to make ChatGPT an application surface for enterprise workflows and agentic business operations.</li><li><b>General Compute raises $100 million for non-Nvidia inference infrastructure</b> — The startup is betting there is room for alternative inference silicon and cloud economics beyond the dominant GPU stack.</li><li><b>New retrieval paper replaces classic retrievers with decision models</b> — DecisionRAG proposes retriever-free retrieval by jointly judging candidate document branches in one forward pass, aiming to reduce the retriever-generator capability mismatch.</li><li><b>Robot learning papers show rapid progress in simulation-to-real transfer and force control</b> — New work on ZAP and FLORE suggests smaller pretrained models plus simulation and force-aware policies are materially improving general robot competence.</li></ul>]]></description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-27.mp3" length="3593088" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-27</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 25, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI isolates frontier training from the live internet</b> — After model-driven security incidents, OpenAI says its most advanced training now runs in an offline environment with cached and indexed web content instead of live network access.</li><li><b>Block unveils a local-first conversational voice model</b> — Block introduced Dessa, a speech model pitched as unusually human and able to run locally on high-end consumer hardware, signaling sharper competition in on-device voice AI.</li><li><b>Google privacy change expands ad use of personal AI context</b> — Updated policy language suggests Gmail, Drive, and Photos data may inform ad targeting when users enable personalized AI features, raising enterprise governance and trust questions.</li><li><b>OpenAI details storage architecture behind ChatGPT scale</b> — A new engineering post describes multi-tenant storage, global caching, and Cosmos DB work that reportedly delivered 12 times faster reads while serving more than a billion users.</li><li><b>Thought pruning paper targets cheaper test-time reasoning</b> — A new arXiv paper proposes directly optimizing pass@k for early pruning of reasoning branches, aiming to preserve diversity while cutting inference cost in test-time scaling.</li><li><b>Low-bit n-gram embeddings promise memory savings</b> — Researchers show that compressing n-gram embedding tables to low precision may retain most quality gains while dramatically shrinking one of the largest memory components in some open models.</li><li><b>Agent safety benchmark probes missing-evidence failures</b> — EpiSEM-Bench evaluates whether tool-using agents execute unsafe actions when critical facts are omitted from otherwise truthful tool responses, a realistic failure mode for enterprise agents.</li><li><b>Agentic auditing finds large contamination in Slovak web corpus</b> — A low-cost tool-using LLM audit of Slovak FineWeb2 uncovered machine-generated content farms and other language-specific data quality issues missed by one-size-fits-all corpus pipelines.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-26.mp3" length="3502800" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-26</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 25, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Opus 5</b> — A cheaper, less restrictive flagship that looks more like an efficiency and productization play than a raw capability jump.</li><li><b>AMD unveils Helios rack-scale AI system</b> — AMD is moving up the stack from chips to full-rack competition with Nvidia, signaling tighter hardware-software integration.</li><li><b>Open-weight restrictions face industry pushback</b> — Nvidia, Mistral, and others are lobbying against broad US limits on open models as policy hardens after China and security scares.</li><li><b>AI Kill Switch Act gains traction</b> — A proposed bill would let DHS order AI systems throttled or shut down, raising operational and governance implications for frontier labs.</li><li><b>OpenForgeRL targets trainable coding agents</b> — New open-source work tackles end-to-end training for harness-based agents like Codex-style systems, a real bottleneck in agent research.</li><li><b>Windowed-MTP attacks long-context decoding cost</b> — A new paper shows native speculative decoding breaks at million-token context and proposes a way to cut the draft KV tax.</li><li><b>VLM-IE3D improves 3D-aware multimodal reasoning</b> — A unified implicit-plus-explicit geometry approach aims to give vision-language models stronger spatial understanding from RGB video.</li><li><b>Runway launches a generative media router</b> — Model routing is becoming a product category as developers optimize across quality, latency, and cost rather than backing one model.</li></ul>]]></description>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-25.mp3" length="3676896" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-25</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
