@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 18:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:00:14 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — October 30, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Mistral opens trillion-parameter cyber model</b> — Mistral released weights for a trillion-parameter model aimed at cybersecurity, doubling down on the open-weights versus closed frontier split.</li><li><b>AWS signals continued AI capex surge</b> — Amazon says AWS can become a $1 trillion business, but only with sustained spending on AI infrastructure and cloud capacity.</li><li><b>Deepgram buys Daily and Pipecat</b> — The acquisition tightens the voice stack by combining speech models with real-time audio/video infrastructure and agent orchestration.</li><li><b>Google expands Gemini into in-chat file creation</b> — Gemini can now generate and edit Docs, Sheets, slides, PDFs, markdown, and code inside chat, pushing further toward document-native agents.</li><li><b>Reddit pivots to logged-in web as AI erodes search</b> — As generative search reduces referral traffic, Reddit is moving to protect audience access and first-party value behind account walls.</li><li><b>Dream raises to build construction world models</b> — Former Palantir executives launched Dream with $17 million to train physics-grounded world models on large-scale building and permit data.</li><li><b>OpenAI details misalignment detection stack</b> — New safety research outlines layered monitoring for frontier models and unauthorized agent behavior before incidents escalate.</li><li><b>Agent oversight research shifts toward real-time monitoring</b> — Fresh commentary and papers focus on detecting risky agent intent before output, plus stronger task verification for computer-using agents.</li></ul>]]></description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-30.mp3" length="3497472" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-10-30</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 29, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Google unveils Gemini 4 Carbon</b> — A new frontier model pushes coding, agentic tasks, and cybersecurity, while access remains tightly controlled.</li><li><b>Mistral opens trillion-parameter cyber model weights</b> — Mistral is betting that sovereign and enterprise security buyers want auditable, self-hostable frontier-scale cyber models.</li><li><b>Anthropic adds spend observability ahead of IPO scrutiny</b> — New tooling ties usage and budget to outcomes, signaling that AI vendors now have to sell finance-grade accountability, not just tokens.</li><li><b>Deepgram buys Daily and Pipecat</b> — The acquisition tightens the stack for real-time voice agents, combining speech models with transport and orchestration infrastructure.</li><li><b>Nvidia ships open multilingual transcription model</b> — Nemotron 3.5 Transcribe targets batch speech workloads across roughly 40 languages, raising pressure on vertical transcription vendors.</li><li><b>Microsoft reveals Azure at $33.2B and OpenAI-linked revenue at $10B</b> — The numbers make clear that AI is no longer an overlay on cloud economics; it is becoming a core revenue engine and dependency.</li><li><b>Google expands AI Search ads and app integrations</b> — As AI search monetizes below classic search, Google is increasing ad density and opening Gemini and Search to external services.</li><li><b>Dream raises $17M for construction world models</b> — Former Palantir operators are applying physics-grounded generative modeling to permitting, planning, and simulation in the built environment.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29.mp3" length="3251376" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 28, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Kimi K3 details land on arXiv</b> — Moonshot’s open frontier MoE claims strong multimodal and long-context performance with notable scaling-efficiency gains.</li><li><b>Microsoft debuts a security model and agentic cyber system</b> — The company is pushing a more autonomous SOC stack as an open security alliance forms around shared AI defense tooling.</li><li><b>Perplexity brings local PC agents to Windows</b> — Its Windows expansion turns the desktop into an agent runtime with direct access to files and apps, raising practical deployment questions.</li><li><b>Nvidia partners with Safe Superintelligence</b> — SSI is moving out of stealth mode on infrastructure, signaling where frontier research labs are consolidating around GPU access.</li><li><b>Recursive signs a $410 million Amazon compute deal</b> — A huge cloud commitment underscores how frontier model builders are converting fundraising into locked-in infrastructure.</li><li><b>Fish Audio raises $50 million seed</b> — The voice startup pairs open-source distribution with fast enterprise monetization, suggesting speech remains an underappreciated GenAI wedge.</li><li><b>Google AI search becomes default behavior</b> — AI Overviews appearing in 43% of searches signals a structural shift in discovery, traffic flows, and model-facing content economics.</li><li><b>New papers target agent planning, memory, and data curation</b> — Fresh arXiv work highlights long-horizon planning distillation, bounded-memory eviction, and per-example pretraining-data orchestration.</li></ul>]]></description>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-28.mp3" length="3473856" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-28</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
