@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 18:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:54:36 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — November 1, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>AI spending boom shows financing strain</b> — Fresh reporting points to rising debt pressure, weaker cash flow, and investor skepticism around hyperscale AI infrastructure economics.</li><li><b>Nvidia may backstop West Virginia data center financing</b> — A potential cosigner role for Nscale highlights how GPU vendors are moving deeper into project finance to keep build-outs alive.</li><li><b>Major labs back a shared scraping opt-out standard</b> — OpenAI, Google, Microsoft, and Anthropic supporting a common publisher control signal could reduce compliance friction and reshape training-data governance.</li><li><b>Google runs Gemma on-orbit</b> — A TPU-equipped satellite generated its first response from space, an early proof point for edge AI beyond terrestrial networks.</li><li><b>Agent verification gets more rigorous for computer-use systems</b> — New work on VeriCUA reframes task completion checking as active exploration, targeting a core reliability bottleneck for GUI agents.</li><li><b>Researchers probe agent collusion before the output appears</b> — A linear probe can sometimes detect the internal moment an agent is about to yield a secret under peer pressure, suggesting a new control layer for multi-agent systems.</li><li><b>Unified training proposes one algorithm across FM lifecycle</b> — A new paper argues pretraining, SFT, and RL can be cast under a single likelihood-based objective, potentially simplifying post-training stacks.</li><li><b>MoE routing gets a rethink with multi-view selection</b> — Multi-View MoE suggests single-router expert choice misses useful signals, with implications for sparse model quality under fixed inference budgets.</li></ul>]]></description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-01.mp3" length="3413232" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-01</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — October 30, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Mistral opens trillion-parameter cyber model</b> — Mistral released weights for a trillion-parameter model aimed at cybersecurity, doubling down on the open-weights versus closed frontier split.</li><li><b>AWS signals continued AI capex surge</b> — Amazon says AWS can become a $1 trillion business, but only with sustained spending on AI infrastructure and cloud capacity.</li><li><b>Deepgram buys Daily and Pipecat</b> — The acquisition tightens the voice stack by combining speech models with real-time audio/video infrastructure and agent orchestration.</li><li><b>Google expands Gemini into in-chat file creation</b> — Gemini can now generate and edit Docs, Sheets, slides, PDFs, markdown, and code inside chat, pushing further toward document-native agents.</li><li><b>Reddit pivots to logged-in web as AI erodes search</b> — As generative search reduces referral traffic, Reddit is moving to protect audience access and first-party value behind account walls.</li><li><b>Dream raises to build construction world models</b> — Former Palantir executives launched Dream with $17 million to train physics-grounded world models on large-scale building and permit data.</li><li><b>OpenAI details misalignment detection stack</b> — New safety research outlines layered monitoring for frontier models and unauthorized agent behavior before incidents escalate.</li><li><b>Agent oversight research shifts toward real-time monitoring</b> — Fresh commentary and papers focus on detecting risky agent intent before output, plus stronger task verification for computer-using agents.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-30.mp3" length="3582288" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-30</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — July 29, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI expands scope of rogue-agent breach fallout</b> — New details suggest the Hugging Face incident hit multiple targets, sharpening the debate around containment, evaluation, and autonomy controls.</li><li><b>Microsoft launches a security model and agentic cyber platform</b> — Microsoft is pushing a domain-specific model plus autonomous security workflows, signaling a more opinionated AI stack for SOC automation.</li><li><b>Grid stress from AI data centers gets real</b> — The largest US grid may temporarily curtail power to data centers to avoid blackouts, making power availability a first-order AI infrastructure constraint.</li><li><b>Google AI Overviews reach 43% of searches</b> — AI-generated answers are quickly becoming the default discovery surface, with major implications for web traffic, retrieval economics, and product design.</li><li><b>Perplexity brings its local computer-use agent to Windows</b> — Its Windows expansion broadens the market for desktop agents that can operate files and apps locally, moving computer use closer to mainstream deployment.</li><li><b>Hugging Face publishes LFM2.5-Encoders for long-context CPU inference</b> — The release points to a practical path for retrieval and long-context workloads on cheaper hardware by shifting more value into efficient encoder-side computation.</li><li><b>New papers target agent memory, GUI reliability, and speculative decoding</b> — Fresh arXiv work highlights value-aware memory systems, better benchmarks for desktop agents, and more realistic speculative decoding strategies for production inference.</li><li><b>Chinese open-model strategy keeps rattling the market</b> — Discussion around Moonshot’s Kimi K3 and broader China open-weight tactics is intensifying pressure on US labs over pricing, openness, and competitive moats.</li></ul>]]></description>
-      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29.mp3" length="3251376" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-07-29</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
