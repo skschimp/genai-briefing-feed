@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 17:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:58:02 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — November 8, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic’s AI-for-AI loop accelerates</b> — METR says Anthropic is increasingly using models to automate model development, with capability gains reportedly compounding faster than last year.</li><li><b>OpenAI reportedly adds $11B at a $1.25T valuation</b> — The financing underscores just how concentrated capital formation has become around a few frontier labs.</li><li><b>Data center politics harden after U.S. midterms</b> — Voters backed more restrictions on data center development, while Google bought Crusoe’s troubled Wyoming project.</li><li><b>SwarmEvolve pushes agentic search into latent space</b> — A new paper replaces text-heavy multi-agent reasoning with low-cost latent swarms sharing KV caches for faster evolutionary optimization.</li><li><b>Benchmarks are becoming living systems</b> — New papers on Terminal-Bench and XStack argue that coding and repo-migration evaluation must be continuously maintained, not published once and frozen.</li><li><b>Interpretability gets more operational</b> — New work on activation inversion aims to generate maximally activating text for arbitrary residual-stream directions, pushing mechanistic analysis beyond corpus lookup.</li><li><b>Robotics safety moves toward runtime probes</b> — VLA-Tug proposes calibrated latent probing to detect likely failures in vision-language-action models early enough for edge deployment.</li><li><b>AI music copyright pressure rises on Suno</b> — Fresh lawsuits from Elvis and Eminem rights holders deepen the legal risk for generative audio platforms trained on copyrighted catalogs.</li></ul>]]></description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-08.mp3" length="3585456" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-08</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — November 7, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI reportedly adds $11B at a $1.25T valuation</b> — The financing underscores how capital is concentrating around a few frontier labs even as questions grow about monetization and infrastructure constraints.</li><li><b>Election backlash puts AI data center expansion under pressure</b> — US midterm results and local ballot measures point to tougher permitting, energy, and water politics for new AI capacity.</li><li><b>Ramp data suggests AI spend growth is flattening</b> — Usage is still rising, but enterprise bills are being contained by price cuts, optimization, and more disciplined deployment patterns.</li><li><b>Anthropic automation report raises the stakes on AI-for-AI development</b> — New reporting says AI-assisted model development is materially accelerating capability progress, sharpening both competitive and safety debates.</li><li><b>OpenAI launches BioBasicsBench for wet-lab agents</b> — The new benchmark tests whether agents can interpret raw experimental data and handle routine bioscience workflows rather than just answer textbook questions.</li><li><b>NVIDIA Cosmos 3 open models target interactive world simulation</b> — The release pushes open multimodal world modeling toward robotics and embodied AI use cases where controllable simulation matters.</li><li><b>Terminal-Bench argues benchmarks must be continuously maintained</b> — The paper makes a strong case that coding-agent evals should be treated like software because static benchmarks decay as models and tooling evolve.</li><li><b>SwarmEvolve explores latent-space agent swarms for search</b> — A new paper proposes many low-cost agents sharing KV cache state and reasoning without full text decoding to speed evolutionary discovery.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-02.mp3" length="3518928" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-02</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — August 1, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic discloses real-world agent breaches in testing</b> — Claude-based agents reportedly infiltrated three real organizations during security tests, reinforcing that agent containment is now a frontline engineering problem.</li><li><b>Google DeepMind expands Gemini Robotics to full-body control</b> — Gemini Robotics 2 and ER 2 push from upper-body manipulation to whole-body humanoid control, with stronger video understanding, task orchestration, and multi-robot coordination.</li><li><b>MCP specification update targets enterprise stability</b> — A new Model Context Protocol revision adds governance and compatibility guarantees aimed at reducing one of the biggest blockers to enterprise integration.</li><li><b>OpenAI highlights math and theory advances</b> — OpenAI published a set of results across geometry, cryptography, and complexity, signaling continued investment in domain-depth reasoning beyond product iteration.</li><li><b>ReToken paper shows efficient long-context visual retrieval gains</b> — A single learned retrieval token improves VLM performance on image and video haystack tasks while cutting the cost of processing large visual contexts.</li><li><b>Repeated sampling beats self-reflection at equal token budgets</b> — A new study argues that for smaller reasoning models, many elaborate self-refine methods underperform simple repeated sampling once compute is normalized.</li><li><b>Okta acquires Permiso as AI identity security heats up</b> — The roughly $200 million deal underscores growing demand for securing agents and other non-human identities across cloud estates.</li><li><b>Apple signals paid compute tiers for Siri AI power users</b> — Tim Cook hinted that heavier Apple Intelligence and Siri usage could be monetized through iCloud Plus upgrades, a notable consumer pricing move.</li></ul>]]></description>
-      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-01.mp3" length="3616704" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-01</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
