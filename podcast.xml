@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 23:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:13:38 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — November 24, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Ship for autonomous code review and approvals</b> — Anthropic is pushing agents deeper into the SDLC, letting Claude review PRs, propose fixes, and approve routine changes with policy controls.</li><li><b>Amazon buys Decart to boost Trainium efficiency</b> — Amazon’s reported $7.5 billion acquisition is a software-stack bet: use compiler and optimization IP to narrow Nvidia’s practical performance lead.</li><li><b>OpenAI and Cisco release Shirudo open-source Linux runtime security</b> — Shirudo aims to harden live systems during patch rollouts, showing how AI vendors are moving from models into operational security tooling.</li><li><b>OpenAI says GPT-6 shows intrinsic protein-design capability</b> — The company claims its latest models can reason over structure and sequence design, with early wet-lab evidence of binding on five targets.</li><li><b>New benchmark shows top AI agents still fail everyday tasks</b> — A fresh evaluation finds personal agents remain brittle on mundane real-world workflows, especially around reliability, safety, and side effects.</li><li><b>AI-driven cyberattacks are exploiting basic security gaps</b> — UK officials and Amazon’s own incident reporting both point to agentic offensive tooling becoming more autonomous while defenders still lag on fundamentals.</li><li><b>Energy strategy for AI data centers shifts toward solar plus storage</b> — Investors around Crusoe are arguing the next wave of AI capacity will need dedicated renewable generation and batteries, not just more grid interconnects.</li><li><b>Robotics gets two useful building blocks: sim-to-real obstacle avoidance and point tracking</b> — New Hugging Face releases highlight practical progress in embodied AI infrastructure rather than yet another demo-heavy robot foundation model claim.</li></ul>]]></description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-24.mp3" length="3350304" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-24</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — November 23, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Ship</b> — Anthropic is pushing coding agents past suggestion mode into review, fix, and routine approval workflows inside the software delivery loop.</li><li><b>Amazon buys Decart for AI optimization</b> — A reported $7.5 billion acquisition signals Amazon wants compiler- and runtime-level leverage to make Trainium economically competitive.</li><li><b>Sierra jumps to $30 billion valuation</b> — The customer-experience AI market is proving one of the clearest enterprise monetization lanes, with Sierra raising $1.75 billion.</li><li><b>Google expands AI Mode into Drive and Wallet</b> — Google is turning retrieval from personal data silos into a product differentiator, while raising the stakes on permissioning and trust.</li><li><b>OpenAI and Cisco release Shirudo</b> — An open-source Linux runtime focused on protecting live systems during patch rollout points to AI-era infrastructure hardening.</li><li><b>DeepMind uses agents plus formal verification for quantum algorithms</b> — The work is notable less as a product launch and more as evidence that agentic systems are getting traction in tightly checkable scientific domains.</li><li><b>RoboTrack targets point tracking for real-world manipulation</b> — Hugging Face highlighted a practical robotics primitive that matters because manipulation still breaks on state estimation, not just planning.</li><li><b>New papers push memory and inference efficiency</b> — MemOnce and DICE both attack deployment bottlenecks: long-horizon memory growth and speculative decoding waste.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-06.mp3" length="3554640" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-06</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — August 5, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic moves into custom silicon and locks in more cloud</b> — Anthropic is hiring a chip design team while reportedly signing a $10 billion capacity deal with Volta, signaling tighter model-hardware co-design and a scramble for differentiated inference economics.</li><li><b>Texas slows AI buildout with mandatory data center grid audits</b> — New audits for data center grid connections in Texas are the clearest sign yet that power availability is becoming a first-order governor on AI deployment speed.</li><li><b>AMD data center revenue surges again</b> — AMD posted another strong quarter with data center revenue at $6.7 billion, reinforcing that accelerator demand remains broadening beyond a single-vendor story.</li><li><b>Open-weight capability closes in on frontier models while safety lags</b> — A new SaferAI analysis says Z.ai’s open-weight GLM-5.2 is nearing frontier-class performance without comparable safeguards, sharpening the open-versus-governed deployment debate.</li><li><b>Test-time scaling research gets more rigorous</b> — New papers argue that ‘more inference compute’ is too crude a framing, separating reasoning regimes and proposing adaptive sampling so teams can compare cost, latency, and accuracy honestly.</li><li><b>Tool-using agents get finer-grained training signals</b> — TurnSight and ReflectRL propose better credit assignment for long-horizon tool use by learning from turn-level hindsight and even failed expert trajectories.</li><li><b>Cross-model KV cache transfer could cut cascade costs</b> — A new paper shows linear mappings can reuse prefills across model sizes in the same family, potentially making cost-quality routing much cheaper in production.</li><li><b>Hugging Face pushes small local agents with LFM2.5-2.6B</b> — A new local-agent stack highlights how much useful agency is moving onto commodity hardware, especially for privacy-sensitive and edge deployments.</li></ul>]]></description>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-05.mp3" length="1955520" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-05</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
