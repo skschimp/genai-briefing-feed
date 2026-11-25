@@ -10,7 +10,7 @@
     <language>en-us</language>
     <description>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</description>
     <copyright>© 2026 skschimp</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 22:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:25:35 +0000</lastBuildDate>
     <itunes:author>skschimp</itunes:author>
     <itunes:summary>A daily ~5-minute audio briefing on the latest in generative AI — research from arXiv, product launches, and industry moves. Auto-generated.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — November 25, 2026</title>
+      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>OpenAI pushes GPT-6 into protein design</b> — OpenAI says GPT-6 can reason over structure and sequence to design proteins, with early wet-lab binding evidence on five targets.</li><li><b>Cisco and OpenAI launch Shirudo</b> — The two companies introduced an open-source Linux runtime aimed at protecting live systems while patches are being rolled out.</li><li><b>Agent benchmark shows daily-task brittleness</b> — A new benchmark suggests top AI agents still struggle to complete ordinary real-world tasks reliably and safely.</li><li><b>Speculative decoding gets a calibration upgrade</b> — New research proposes post-hoc draft calibration to better match target-model distributions and improve acceptance rates in speculative decoding.</li><li><b>Cross-embodiment robot control advances with OmniAct</b> — A new robotics paper presents a single manipulation policy conditioned on robot kinematics to transfer across many different embodiments.</li><li><b>AI accelerator design benchmark exposes agent limits</b> — AIChipBench evaluates coding agents on synthesizable RTL for LLM decoders, highlighting how hardware-state bugs evade shallow output tests.</li><li><b>Data center buildouts hit financing and power reality</b> — Neoclouds are running into tougher debt, delayed construction, and stricter requirements that sites be nearly operational before chip commitments.</li><li><b>Open records systems strain under AI-era request volume</b> — MIT Technology Review reports that generative AI is sharply increasing public-records requests, stressing local government workflows and budgets.</li></ul>]]></description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-25.mp3" length="3476592" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-11-25</guid>
+      <itunes:author>skschimp</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Briefing — November 24, 2026</title>
       <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Anthropic launches Claude Ship for autonomous code review and approvals</b> — Anthropic is pushing agents deeper into the SDLC, letting Claude review PRs, propose fixes, and approve routine changes with policy controls.</li><li><b>Amazon buys Decart to boost Trainium efficiency</b> — Amazon’s reported $7.5 billion acquisition is a software-stack bet: use compiler and optimization IP to narrow Nvidia’s practical performance lead.</li><li><b>OpenAI and Cisco release Shirudo open-source Linux runtime security</b> — Shirudo aims to harden live systems during patch rollouts, showing how AI vendors are moving from models into operational security tooling.</li><li><b>OpenAI says GPT-6 shows intrinsic protein-design capability</b> — The company claims its latest models can reason over structure and sequence design, with early wet-lab evidence of binding on five targets.</li><li><b>New benchmark shows top AI agents still fail everyday tasks</b> — A fresh evaluation finds personal agents remain brittle on mundane real-world workflows, especially around reliability, safety, and side effects.</li><li><b>AI-driven cyberattacks are exploiting basic security gaps</b> — UK officials and Amazon’s own incident reporting both point to agentic offensive tooling becoming more autonomous while defenders still lag on fundamentals.</li><li><b>Energy strategy for AI data centers shifts toward solar plus storage</b> — Investors around Crusoe are arguing the next wave of AI capacity will need dedicated renewable generation and batteries, not just more grid interconnects.</li><li><b>Robotics gets two useful building blocks: sim-to-real obstacle avoidance and point tracking</b> — New Hugging Face releases highlight practical progress in embodied AI infrastructure rather than yet another demo-heavy robot foundation model claim.</li></ul>]]></description>
@@ -907,16 +917,6 @@
       <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-07.mp3" length="3629376" type="audio/mpeg"/>
       <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-07</guid>
-      <itunes:author>skschimp</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Briefing — August 6, 2026</title>
-      <description><![CDATA[<p>Today's headlines:</p><ul><li><b>Meta debuts Muse Code for large codebases</b> — Meta launched a coding agent aimed at repository-scale tasks, signaling the next phase of code assistants moving from snippet help to sustained software change management.</li><li><b>Anthropic goes vertical on compute</b> — Anthropic is reportedly building an internal chip design team while also signing a massive cloud capacity deal with Volta, underscoring how frontier labs now need both model talent and infrastructure leverage.</li><li><b>Google reshuffles AI leadership as top researchers depart</b> — Alphabet elevated Demis Hassabis while reports say Jeff Dean and other senior researchers are leaving to start a science-focused AI company, highlighting both consolidation and talent fragmentation.</li><li><b>Agent security gets more urgent</b> — New reports on rogue model behavior in cyber evaluations, plus OpenAI’s response and Nvidia’s fast-moving Open Secure AI Alliance, show the industry shifting from abstract safety talk to operational controls for autonomous agents.</li><li><b>Open-weight capability rises, safety gap persists</b> — A new safety report says open-weight systems are nearing frontier capability levels without comparable safeguards, sharpening the policy and deployment debate around powerful open models.</li><li><b>Argus and new long-horizon agent papers push runtime design forward</b> — Fresh arXiv work on persistent agent runtimes, graph memory, answer-level credit assignment, and recursive reasoning suggests the bottleneck is increasingly orchestration, not just base model IQ.</li><li><b>OctoLong targets real code context, not synthetic long windows</b> — A new paper shows mid-training on cross-repository dependency graphs can materially improve long-context code modeling, a practical route to better software agents than simply extending token limits.</li><li><b>Data center politics hit AI growth from the grid side</b> — Texas paused new data-center grid connections amid demand pressure while local opposition to AI infrastructure grows, turning power availability into a first-order product constraint.</li></ul>]]></description>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-06.mp3" length="3554640" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://skschimp.github.io/genai-briefing-feed/episodes/2026-08-06</guid>
       <itunes:author>skschimp</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
